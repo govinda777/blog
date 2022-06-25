@@ -178,7 +178,7 @@ graph TD;
 
 ## My Profile Style 3
 
-[<img src="./imgs/profile-shere.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777)
+[<img src="./imgs/profile-shere.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
 
 ## Profile Experience List
 
@@ -227,7 +227,7 @@ https://github.com/govinda777/profile
 
 # Posts in Linkedin
 
-#Fonte : https://lnkd.in/dSQNmhYe
+# Fonte : https://github.com/govinda777/blog/blob/main/%5BDONE%5D%20-%20COMPONENTES_README-List.md
 
 ## Objective:
 
