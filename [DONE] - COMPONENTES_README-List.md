@@ -245,6 +245,9 @@ https://github.com/govinda777/profile
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-7.mp4)
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-8.mp4)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 # Posts in Linkedin
 
 # Fonte : https://github.com/govinda777/blog/blob/main/%5BDONE%5D%20-%20COMPONENTES_README-List.md
