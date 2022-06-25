@@ -1,14 +1,11 @@
-Titulo : Como implementar uma lista de componentes padrão no git hub
+## Title : 
+* How to create a visual identity just using GIT / HTML / gulpfile
 
-Subtitulo : Como criar a minha propria identidade visual
+* Como criar uma identidade visual apenas utilizando GIT / HTML / gulpfile
 
--------------------
-
-Title : How to implement a default component list in git hub
-
-Subtitle : How to create my own visual identity
-
---------------------
+## Subtitle : 
+* How to create my own visual identity
+* Como criar a minha própria identidade visual
 
 ## Objective: [pt-br]
 
@@ -40,52 +37,40 @@ organização#blog-a-partir-do-git
 Show how a visual identity of
 
 * A person
-* or a brand
+* or a mark
 * or a product
 * or a media channel
-* or a new way of consuming information
+* or a new way of consuming information?
 * or ...
-* or !!!! I don't know huahuahua :)
+* or !!!! I don't know how else you could use it. huahuahua :)
 
+```python
 
-#concepts
-concepts #ui_ux
-concepts #communication
-concepts #content_production
-#process
-process #communication
-process #share_knowledge
-#organization
-organization #blog
-organization #blog_from_git
-organization #blog_building_organization_in_git
-#COOL_WAY_TO_USE_GIT :)
-#MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2
+tkinter.messagebox.askyes(title="[title]", message="""
+# Use your creativity !!
+"""
+, **options)
 
---------------------
+```
 
-## SHERE 
+:laughing:
 
-README: https://github.com/govinda777/blog/blob/main/CI_CD_GIT_HUB-Video-Resume.md
+## Hashtags
 
-https://lnkd.in/d35uTnZD
-
-CI-CD-PIPELINE-GITHUB-YOU-TUBE.jpeg
-
-#concepts
-concepts #ui_ux
-concepts #communication
-concepts #content_production
-#process
-process #communication
-process #share_knowledge
-#organization
-organization #blog
-organization #blog_from_git
-organization #blog_building_organization_in_git
-#COOL_WAY_TO_USE_GIT :)
-#MANEIRA_LIVRE_DE_USAR_UMA_FERRAMENTA_TE_Amo_Git_s2
-
+* #concepts
+  * concepts #ui_ux
+  * concepts #communication
+  * concepts #content_production
+* #process
+  * process #communication
+  * process #share_knowledge
+* #organization
+  * organization #blog
+  * organization #blog_from_git
+  * organization #blog_building_organization_in_git
+* #fanny
+  * #COOL_WAY_TO_USE_GIT :)
+  * #MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2 :heart_eyes:
 
 ## Components
 
@@ -217,7 +202,7 @@ https://www.linkedin.com/in/govinda777/recent-activity/
 [<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
 https://www.linkedin.com/in/govinda777/recent-activity/
 
-## Profile Experience List []
+## Profile Experience List
 
 <p align="left">
 
@@ -261,6 +246,10 @@ Criar de relatórios automatizados a fim de refletir a atual situação do relea
 ## See My Full Profile
 
 https://github.com/govinda777/profile
+
+## Next steps
+
+Criar uma automação para os compoenentes usando o gulpfile
 
 ## Footer
 
