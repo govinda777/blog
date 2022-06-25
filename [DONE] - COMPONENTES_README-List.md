@@ -6,6 +6,8 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg">
 </picture>
 
+https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg
+
 ## Title : 
 * How to create a visual identity just using GIT / HTML / gulpfile
 
@@ -273,7 +275,7 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ## Img
 
-
+![](./imgs/COMPONENTES_README-List-POST.jpeg)
 
 ## Next steps
 
