@@ -2,7 +2,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="Description" CONTENT="Clóvis de Barros Filho Você sabe o que é brio ??">
-  <title>Clóvis de Barros Filho " Você sabe o que é brio ??"</title>
   <meta name="robots" content="all">
 </head>
 
