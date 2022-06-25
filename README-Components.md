@@ -1,11 +1,13 @@
-# Tabela
+# Components
+
+# Table
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
 | ------------------- | ------------------- |
 |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 
-# Roda pé
+# Baseboard
 
 Teste 123[^1]
 
@@ -13,32 +15,30 @@ Teste 123[^1]
     * Teste 123[^3]
 
 
-# Imagem
+# Image
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
 
-# Referencia de Video
+# Video Reference
 
-## Resumida
+## Video Reference Summarized
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
-### https://www.youtube.com/watch?v=UVtgFN3K6kE
+https://www.youtube.com/watch?v=UVtgFN3K6kE
 
-## Completa
+## Video Reference Complete
 
-> # Video Tutorial: CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-### https://youtu.be/R8_veQiYBjI
+> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+https://youtu.be/R8_veQiYBjI
 
 
-## Completa com mais elementos
+## Video Reference Complete with more elements
 
-> # Video Tutorial: CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-### https://youtu.be/R8_veQiYBjI
+> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+https://youtu.be/R8_veQiYBjI
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
-
-## Completa + elementos + descrição
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
@@ -61,35 +61,16 @@ tkinter.messagebox.askyesnocancel(title="[title]", message="""
 
 ```
 
-## Diagramas
+## Diagrams
 
 Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-```
-
-## Diagramas Sequence diagram
-
-```mermaid
-graph TD;
-
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts prevail!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
 ```
 
 ## Mapas geofraficos (mapas do geoJSON e topoJSON)
@@ -123,11 +104,19 @@ sequenceDiagram
 
 
 
-## Botão inscrever
+## Subscribe Button
 
 ![](./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg)
 
-## Profile
+## My Profile Resume
+
+| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
+| :---: |
+
+[<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
+https://www.linkedin.com/in/govinda777/recent-activity/
+
+## My Profile
 
 | [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
 | :---: |
@@ -139,7 +128,7 @@ sequenceDiagram
 [<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
 https://www.linkedin.com/in/govinda777/recent-activity/
 
-## Profile Experience List []
+## Profile Experience List
 
 <p align="left">
 
@@ -179,6 +168,14 @@ Criar de relatórios automatizados a fim de refletir a atual situação do relea
 </li>
 </ul>
 </p>
+
+## See My Full Profile
+
+https://github.com/govinda777/profile
+
+## Next steps
+
+Criar uma automação para os compoenentes usando o gulpfile
 
 ## Footer
 
