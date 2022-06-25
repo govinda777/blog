@@ -245,7 +245,7 @@ https://github.com/govinda777/profile
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-7.mp4)
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-8.mp4)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
 
 
 # Posts in Linkedin
