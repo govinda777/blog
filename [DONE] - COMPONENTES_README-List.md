@@ -8,6 +8,8 @@
 
 https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg
 
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
+
 ## Title : 
 * How to create a visual identity just using GIT / HTML / gulpfile
 
@@ -136,6 +138,8 @@ tkinter.messagebox.askyes(title="[title]", message="""
 ```
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
+
 ```python
 
 tkinter.messagebox.askyesnocancel(title="[title]", message="""
@@ -157,9 +161,14 @@ graph TD;
     C-->D;
 ```
 
-## Subscribe Button
+## Subscribe Button Style 1
 
 [<img src="./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+
+## Subscribe Button Style 2
+
+[<img src="./imgs/COMPONENTES_README-List-POST-WHATSAPP-6.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+
 
 
 ## My Profile Style 1
@@ -225,6 +234,17 @@ Criar de relatórios automatizados a fim de refletir a atual situação do relea
 
 https://github.com/govinda777/profile
 
+# Posts in WHATSAPP
+
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-1.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-2.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-6.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-7.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-8.jpeg)
+
 # Posts in Linkedin
 
 # Fonte : https://github.com/govinda777/blog/blob/main/%5BDONE%5D%20-%20COMPONENTES_README-List.md
@@ -282,7 +302,11 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ## Next steps
 
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
+
 Criar uma automação para os compoenentes usando o gulpfile
+
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
 
 # FOOTER
 
