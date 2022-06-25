@@ -19,6 +19,9 @@ Teste 123[^1]
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
+# Video
+
+[![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
 
 # Video Reference
 
