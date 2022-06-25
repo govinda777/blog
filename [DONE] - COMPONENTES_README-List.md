@@ -281,13 +281,6 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 Criar uma automação para os compoenentes usando o gulpfile
 
-## Footnotes
-
-* [^1]: Referencia 1.
-* [^2]: Referencia 2.
-* [^3]: Referencia 3.
-
-
 # FOOTER
 
 <picture>
@@ -295,3 +288,9 @@ Criar uma automação para os compoenentes usando o gulpfile
   <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
 </picture>
+
+## Footnotes
+
+[^1]: Referencia 1.
+[^2]: Referencia 2.
+[^3]: Referencia 3.
