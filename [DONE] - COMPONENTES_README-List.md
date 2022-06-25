@@ -242,8 +242,8 @@ https://github.com/govinda777/profile
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-6.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-7.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-8.jpeg)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-7.mp4)
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-8.mp4)
 
 # Posts in Linkedin
 
