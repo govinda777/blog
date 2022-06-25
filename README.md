@@ -8,9 +8,9 @@
 ```python
 
 tkinter.messagebox.askyes(title="[title]", message="""
-# [Ours, how many]
+# [To many]
 
-# [Nossos, quantos]
+# [Nassos, quantos]
 
 
 """
@@ -33,3 +33,4 @@ tkinter.messagebox.askyes(title="[title]", message="""
 # Como é adicionado os Templates
 
 # utilizando 
+

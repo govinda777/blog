@@ -1,0 +1,24 @@
+# Head
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta property="og:title" content="Clóvis de Barros Filho Você sabe o que é brio ??" />
+    <meta property="og:description" content="Esse Brio que vai fazer você Progredir intelectualmente." />
+    <meta property="og:type" content="object" />
+    <meta property="og:url" content="https://github.com/govinda777/AccountVAX/blob/dev/Prof_Clovis_Filho-VC-TEM-BRIO.md" />
+    <meta property="og:image" content="https://github.com/govinda777/AccountVAX/blob/dev/imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg" />
+    <meta property="og:image:alt" content="https://raw.githubusercontent.com/govinda777/AccountVAX/dev/imgs/Prof_Clovis_Filho-VC-TEM-BRIU-MK.jpeg" />
+</head>
+<body>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://s.dicio.com.br/brio.png">
+<source media="(prefers-color-scheme: light)" srcset="https://s.dicio.com.br/brio.png">
+<img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://s.dicio.com.br/brio.png">
+</picture>
+
+<a href="https://github.com/govinda777/AccountVAX/blob/dev/Prof_Clovis_Filho-VC-TEM-BRIO.md">README</a>
+
+</body>
+</html>
