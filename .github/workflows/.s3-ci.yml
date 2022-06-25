@@ -1,0 +1,10 @@
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  image: amazon/aws-cli
+  script:
+    - aws --version
+    - aws s3 sync ./site s3://$S3_BUCKET/ --acl=public-read --delete
+    - echo "Copying files complete"
