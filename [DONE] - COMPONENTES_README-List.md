@@ -99,18 +99,18 @@ Teste 123[^1]
 ## Video Reference Summarized
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
-https://www.youtube.com/watch?v=UVtgFN3K6kE
+* https://www.youtube.com/watch?v=UVtgFN3K6kE
 
 ## Video Reference Complete
 
 > # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+### https://youtu.be/R8_veQiYBjI
 
 
 ## Video Reference Complete with more elements
 
 > # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+### https://youtu.be/R8_veQiYBjI
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
 
@@ -147,40 +147,10 @@ graph TD;
     C-->D;
 ```
 
-## Mapas geofraficos (mapas do geoJSON e topoJSON)
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
-
-
 ## Subscribe Button
 
-![](./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg)
+[<img src="./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+
 
 ## My Profile Style 1
 
