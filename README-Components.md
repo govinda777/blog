@@ -1,102 +1,11 @@
-Titulo : Como implementar uma lista de componentes padrão no git hub
-
-Subtitulo : Como criar a minha propria identidade visual
-
--------------------
-
-Title : How to implement a default component list in git hub
-
-Subtitle : How to create my own visual identity
-
---------------------
-
-## Objective: [pt-br]
-
-Mostrar como pode ser implementada uma identidade visual de 
-
-* uma pessoa 
-* ou uma marca 
-* ou um produto
-* ou um canal de midia
-* ou uma nova forma de consumir informação
-* ou ...
-* ou !!!! Sei lá huahuahua :) 
-
-#conseitos
-conseitos#ui-ux
-conseitos#comunicação
-conseitos#producao-de-conteudo
-#processo
-processo#comunicação
-processo#compatilhar-conhecimento
-#organização
-organização#blog
-organização#blog-a-partir-do-git
-#MANEIRA LEGAL DE USAR O GIT :)
-#MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2
-
-## Objective:
-
-Show how a visual identity of
-
-* A person
-* or a brand
-* or a product
-* or a media channel
-* or a new way of consuming information
-* or ...
-* or !!!! I don't know huahuahua :)
-
-
-#concepts
-concepts #ui_ux
-concepts #communication
-concepts #content_production
-#process
-process #communication
-process #share_knowledge
-#organization
-organization #blog
-organization #blog_from_git
-organization #blog_building_organization_in_git
-#COOL_WAY_TO_USE_GIT :)
-#MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2
-
---------------------
-
-## SHERE 
-
-README: https://github.com/govinda777/blog/blob/main/CI_CD_GIT_HUB-Video-Resume.md
-
-https://lnkd.in/d35uTnZD
-
-CI-CD-PIPELINE-GITHUB-YOU-TUBE.jpeg
-
-#concepts
-concepts #ui_ux
-concepts #communication
-concepts #content_production
-#process
-process #communication
-process #share_knowledge
-#organization
-organization #blog
-organization #blog_from_git
-organization #blog_building_organization_in_git
-#COOL_WAY_TO_USE_GIT :)
-#MANEIRA_LIVRE_DE_USAR_UMA_FERRAMENTA_TE_Amo_Git_s2
-
-
-## Components
-
-# Table
+# Tabela
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
 | ------------------- | ------------------- |
 |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 
-# Baseboard
+# Roda pé
 
 Teste 123[^1]
 
@@ -104,30 +13,32 @@ Teste 123[^1]
     * Teste 123[^3]
 
 
-# Image
+# Imagem
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
 
-# Video Reference
+# Referencia de Video
 
-## Video Reference Summarized
+## Resumida
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
-https://www.youtube.com/watch?v=UVtgFN3K6kE
+### https://www.youtube.com/watch?v=UVtgFN3K6kE
 
-## Video Reference Complete
+## Completa
 
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+> # Video Tutorial: CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+### https://youtu.be/R8_veQiYBjI
 
 
-## Video Reference Complete with more elements
+## Completa com mais elementos
 
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+> # Video Tutorial: CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+### https://youtu.be/R8_veQiYBjI
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+
+## Completa + elementos + descrição
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
@@ -150,16 +61,35 @@ tkinter.messagebox.askyesnocancel(title="[title]", message="""
 
 ```
 
-## Diagrams
+## Diagramas
 
 Here is a simple flow chart:
 
 ```mermaid
 graph TD;
+    
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
+
+## Diagramas Sequence diagram
+
+```mermaid
+graph TD;
+
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
 ```
 
 ## Mapas geofraficos (mapas do geoJSON e topoJSON)
@@ -193,19 +123,11 @@ graph TD;
 
 
 
-## Subscribe Button
+## Botão inscrever
 
 ![](./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg)
 
-## My Profile Resume
-
-| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
-| :---: |
-
-[<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
-https://www.linkedin.com/in/govinda777/recent-activity/
-
-## My Profile
+## Profile
 
 | [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
 | :---: |
@@ -257,10 +179,6 @@ Criar de relatórios automatizados a fim de refletir a atual situação do relea
 </li>
 </ul>
 </p>
-
-## See My Full Profile
-
-https://github.com/govinda777/profile
 
 ## Footer
 
