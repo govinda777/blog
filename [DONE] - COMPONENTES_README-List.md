@@ -1,3 +1,11 @@
+# HEAD
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg">
+</picture>
+
 ## Title : 
 * How to create a visual identity just using GIT / HTML / gulpfile
 
@@ -215,12 +223,73 @@ Criar de relatórios automatizados a fim de refletir a atual situação do relea
 
 https://github.com/govinda777/profile
 
+# Posts in Linkedin
+
+#Fonte : https://lnkd.in/dSQNmhYe
+
+## Objective:
+
+Show how a visual identity of
+
+* A person
+* or a mark
+* or a product
+* or a media channel
+* or a new way of consuming information?
+* or ...
+* or !!!! I don't know how else you could use it. huahuahua :)
+
+
+```python
+
+tkinter.messagebox.askyes(title="[title]", message="""
+
+# Use your creativity !!
+
+"""
+
+, **options)
+
+```
+
+:laughing:
+
+## Hashtags
+
+* #concepts
+  * concepts #ui_ux
+  * concepts #communication
+  * concepts #content_production
+* #process
+  * process #communication
+  * process #share_knowledge
+* #organization
+  * organization #blog
+  * organization #blog_from_git
+  * organization #blog_building_organization_in_git
+* #fanny
+  * #COOL_WAY_TO_USE_GIT :)
+  * #MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2 :heart_eyes:
+
+## Img
+
+
+
 ## Next steps
 
 Criar uma automação para os compoenentes usando o gulpfile
 
-## Footer
+## Footnotes
 
 * [^1]: Referencia 1.
 * [^2]: Referencia 2.
 * [^3]: Referencia 3.
+
+
+# FOOTER
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
+</picture>
