@@ -3,7 +3,7 @@
 
 ## Comment
 
-[![Watch the video](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO-SCREM.jpeg)](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO.mp4)
+[![Watch the video](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO-SCREM.jpeg)](https://raw.githubusercontent.com/govinda777/blog/main/imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO.mp4)
 
 ## References :
 
