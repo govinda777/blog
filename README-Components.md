@@ -1,5 +1,30 @@
 # Components
 
+# Lista de produtos do $- <Passe_de_Batalha> -$
+
+@@include('passeDeBatalha.md', {
+    "desc": "<p>Domínio nas linguagens C#, Transact-SQL, JavaScript.<p>",
+    "tags": [
+        {
+            "label": "ascasca",
+            "color": "khaki"
+        }
+    ]
+
+})
+
+@@for (var i = 0; i < passeDeBatalha.prods.length; i++) {
+
+  passeDeBatalha.prods[i].img
+  passeDeBatalha.prods[i].title
+  passeDeBatalha.prods[i].desc
+
+> ![passeDeBatalha](passeDeBatalha.prods[i].img)
+### passeDeBatalha.prods[i].title
+
+}
+
+
 # Table
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
