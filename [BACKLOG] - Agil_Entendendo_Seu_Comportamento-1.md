@@ -1,7 +1,6 @@
-# O que o Novo filme do DR Estranho | Tem haver com | Mental Model to Unilateral Control?
+# What the New DR Strange Movie | It has to do with | Mental Model to Unilateral Control?
 
-
-## Comment
+## Video
 
 [![Watch the video](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO-SCREM.jpeg)](https://youtu.be/wH9Wi4WTEgE)
 
