@@ -3,15 +3,9 @@
 
 ## Comment
 
-[![Watch the video](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO-SCREM.jpeg)](https://raw.githubusercontent.com/govinda777/blog/main/imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO.mp4)
+[![Watch the video](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO-SCREM.jpeg)](https://youtu.be/wH9Wi4WTEgE)
 
-https://raw.githubusercontent.com/govinda777/blog/main/imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO.mp4
-
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
-
-[![asciicast](https://asciinema.org/a/113463.png)](https://raw.githubusercontent.com/govinda777/blog/main/imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO.mp4)
-
-[![asciicast](./imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO-SCREM.jpeg)](https://raw.githubusercontent.com/govinda777/blog/main/imgs/Agil_Entendendo_Seu_Comportamento-1-VIDEO.mp4)
+https://youtu.be/wH9Wi4WTEgE
 
 ## References :
 
