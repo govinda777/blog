@@ -92,7 +92,8 @@ Por que é assim que **EU** Leio.
 
 * A tua inteligencia é o que você tem de melhor.
 
-* Se ela não dará conta de entender uma FRASE, uma simples FRASE.
+* Se ela não dará conta de entender uma FRASE, 
+* uma simples FRASE.
 
 * Então ..... Você é um ser defecante apenas?
 
