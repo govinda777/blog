@@ -11,6 +11,10 @@
 
 #LanguagesList, #LanguagesListProgrammer
 
+## Mostrando para a <Andrea> por que é um emoticon
+
+$- <Passe_de_Batalha> -$ <PedroKioshi> - Desbloqueie esse card e pegue seu <Passe_de_Batalha> Grátis . $- 3529 -$                  :joy: 
+
 ## References
 
 Languages List : https://pt.wikipedia.org/wiki/Lista_de_Wikip%C3%A9dias
