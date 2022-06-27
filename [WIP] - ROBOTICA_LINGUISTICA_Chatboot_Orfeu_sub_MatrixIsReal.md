@@ -15,6 +15,31 @@
 
 $- <Passe_de_Batalha> -$ <PedroKioshi> - Desbloqueie esse card e pegue seu <Passe_de_Batalha> Grátis . $- 3529 -$                  :joy: 
 
+## Vendo como os <CARDS> ficam no git (ai que lindo, to achando muito show esse tranpo)
+
+File name : [WIP] - ROBOTICA_LINGUISTICA_Chatboot_Orfeu_sub_MatrixIsReal
+
+$- 25 R$ -$    - <PedroKioshi> - Copiar documentação do <Orfeo> e colocar no GIT -       $- 00 R$ -$
+
+* Dialogo
+
+$- 00 -$
+
+<Andrea> Força .....
+
+$- 00 -$
+
+$- 00 -$
+
+<PedroKioshi> .....
+
+$- 00 -$
+
+ :thumbsup: 
+
+ 
+
+
 ## References
 
 Languages List : https://pt.wikipedia.org/wiki/Lista_de_Wikip%C3%A9dias
