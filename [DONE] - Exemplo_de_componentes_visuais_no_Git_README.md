@@ -262,63 +262,7 @@ https://github.com/govinda777/profile
 
 [![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
 
-
-# Posts in Linkedin
-
-# Fonte : https://github.com/govinda777/blog/blob/main/%5BDONE%5D%20-%20COMPONENTES_README-List.md
-
-## Title : 
-* How to create a visual identity just using GIT / HTML / gulpfile
-
-## Objective:
-
-Show how a visual identity of
-
-* A person
-* or a mark
-* or a product
-* or a media channel
-* or a new way of consuming information?
-* or ...
-* or !!!! I don't know how else you could use it. huahuahua :)
-
-
-```python
-
-tkinter.messagebox.askyes(title="[title]", message="""
-
-# Use your creativity !!
-
-"""
-
-, **options)
-
-```
-
-:laughing:
-
-## Hashtags
-
-* #concepts
-  * concepts #ui_ux
-  * concepts #communication
-  * concepts #content_production
-* #process
-  * process #communication
-  * process #share_knowledge
-* #organization
-  * organization #blog
-  * organization #blog_from_git
-  * organization #blog_building_organization_in_git
-* #fanny
-  * #COOL_WAY_TO_USE_GIT :)
-  * #MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2 :heart_eyes:
-
-## Img
-
-![](./imgs/COMPONENTES_README-List-POST.jpeg)
-
-## Next steps
+## Next steps ##
 
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
 
