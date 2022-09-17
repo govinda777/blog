@@ -100,3 +100,4 @@ type: geojson
 
 * Outra documentação sobre Markdown : https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
+* Documentação Discord Markdown : https://www.markdownguide.org/tools/discord/
