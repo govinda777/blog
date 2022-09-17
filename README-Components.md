@@ -217,3 +217,14 @@ Criar uma automação para os compoenentes usando o gulpfile
 * [^1]: Referencia 1.
 * [^2]: Referencia 2.
 * [^3]: Referencia 3.
+
+
+## Links
+
+* Documentação Discord Markdown : https://www.markdownguide.org/tools/discord/
+
+* Outro exemplio de implementação : https://github.com/govinda777/blog/blob/main/README-Components.md#mapas-geofraficos-mapas-do-geojson-e-topojson
+
+* Documentação README.md Markdown : https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+* Outra documentação sobre Markdown : https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
