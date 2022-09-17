@@ -66,7 +66,59 @@ type: geojson
 }
 ```
 
+## My Profile Resume
+
+| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
+| :---: |
+
+## 
+
+[<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
+https://www.linkedin.com/in/govinda777/recent-activity/
+
+## My Profile
+
+| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
+| :---: |
+
+* [linkedin] profile: https://www.linkedin.com/in/govinda777/
+* [linkedin] recent activity : https://www.linkedin.com/in/govinda777/recent-activity/
+* [govindas-tech-talk] recommended courses: 
+
+[<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
+https://www.linkedin.com/in/govinda777/recent-activity/
+
+
 #Geo #Poligono #Spatial #Geopandas #GIS #GIS_GUIs #polygon #GeoJSON
 
 
-https://github.com/govinda777/blog/blob/main/README-Components.md#mapas-geofraficos-mapas-do-geojson-e-topojson
+
+<p align="left">
+
+<a href="https://github.com/govinda777?tab=followers">
+<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+</a>
+
+</p>
+
+
+
+<p style="magin-top:100px" align="left">
+
+<a href="https://github.com/govinda777/buy-me-a-coffe">
+
+## <$- Buy-me-a-coffe -$>
+
+<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
+</a>
+
+</p>
+
+# Links
+
+* Outro exemplio de implementação : https://github.com/govinda777/blog/blob/main/README-Components.md#mapas-geofraficos-mapas-do-geojson-e-topojson
+
+* Documentação README.md Markdown : https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+* Outra documentação sobre Markdown : https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
