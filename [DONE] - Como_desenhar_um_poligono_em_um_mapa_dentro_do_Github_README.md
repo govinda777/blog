@@ -1,6 +1,6 @@
 # Como desenhar um poligono em um mapa, dentro do Github README.md
 
-Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg
+<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## 
 
@@ -71,27 +71,9 @@ type: geojson
 | [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
 | :---: |
 
-## 
-
-[<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
-https://www.linkedin.com/in/govinda777/recent-activity/
-
-## My Profile
-
-| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
-| :---: |
-
-* [linkedin] profile: https://www.linkedin.com/in/govinda777/
-* [linkedin] recent activity : https://www.linkedin.com/in/govinda777/recent-activity/
-* [govindas-tech-talk] recommended courses: 
-
-[<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
-https://www.linkedin.com/in/govinda777/recent-activity/
-
+## <$- HashTags -$>
 
 #Geo #Poligono #Spatial #Geopandas #GIS #GIS_GUIs #polygon #GeoJSON
-
-
 
 <p align="left">
 
