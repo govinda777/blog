@@ -26,7 +26,13 @@
 
 # Como desenhar um poligono em um mapa, dentro do Github README.md
 
-<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/firefly02.jpeg" height="100%" width="100%" alt="Unform" />
+
+## UI
+
+* Web UI: http://127.0.0.1:5000/ui
+* Sandbox UI: http://127.0.0.1:5109
+* Swagger: http://127.0.0.1:5000/api
 
 ## Exemplo
 
