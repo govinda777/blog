@@ -221,6 +221,9 @@ Criar uma automação para os compoenentes usando o gulpfile
 
 ## Links >>>>>>>
 
+
+
+
 https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md
 
 
