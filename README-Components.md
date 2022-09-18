@@ -219,11 +219,42 @@ Criar uma automação para os compoenentes usando o gulpfile
 * [^3]: Referencia 3.
 
 
-## Links
+## Links >>>>>>>
 
-| [<img src="https://github.com/govinda777/imgs/[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777/[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md) |
+https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md
+
+
+
+| [<img src="https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md) |
 | :---: |
 
+blob/
+
+## Links Erro  >>>>>>>
+
+| [<img src="https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md) |
+| :---: |
+
+blob/
+
+## Links 2 >>>>>>>
+
+[<img src="https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md" width=115><br><sub>[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt</sub>](https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md)
+
+
+## Links 3 >>>>>>>
+
+
+
+[https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md" width=115><br><sub>[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt](https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md)
+
+## Links 4 >>>>>>>
+https://github.com/govinda777/blog/blob/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md
+
+[./[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md](./[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md)
+
+## Link 5
+[1111111  I'm a relative reference to a repository file]([WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md)
 
 * Documentação Discord Markdown : https://www.markdownguide.org/tools/discord/
 
