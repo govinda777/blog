@@ -221,6 +221,10 @@ Criar uma automação para os compoenentes usando o gulpfile
 
 ## Links
 
+| [<img src="https://github.com/govinda777/imgs/[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777/[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md) |
+| :---: |
+
+
 * Documentação Discord Markdown : https://www.markdownguide.org/tools/discord/
 
 * Outro exemplio de implementação : https://github.com/govinda777/blog/blob/main/README-Components.md#mapas-geofraficos-mapas-do-geojson-e-topojson
