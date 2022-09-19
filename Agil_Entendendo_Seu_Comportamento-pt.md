@@ -112,6 +112,7 @@ congruência e aprendizagem : http://www.aral.com.au/resources/argyris.html
 https://www.youtube.com/watch?v=zIIgBgPRA9Q
 
 
+* Diagrama : [](./diagram/Agil_Entendendo_Seu_Comportamento-pt.png)
 
 
 
