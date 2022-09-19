@@ -15,7 +15,14 @@
 
 ## Significado
 
-Se eu estou na situação <span style="color:red">[S]</span> e eu quero criar uma consequência <span style="color:red">[C]</span>, dado as premissas <span style="color:red">[p1, p2, ..., pn]</span>, então eu devo fazer <span style="color:red">[A]</span> .
+```py
+
+Se eu estou na situação "[_S_]"
+e eu quero criar uma consequência "[_C_]", 
+dado as premissas ["p1", "p2", "...", "pn"], 
+então eu devo fazer "[_A_]".
+
+```
 
 ![](./imgs/what.jpeg)
 
@@ -23,7 +30,6 @@ Se eu estou na situação <span style="color:red">[S]</span> e eu quero criar um
 
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_03.jpeg)
 
-### [Explicação]
 
 No diagrama a cima.
 
@@ -55,8 +61,10 @@ Muito menos, conseguimos parar de agir a partir das explicações e razões obti
 
 ![](./imgs/UNILATERAL_CONTROL_APPROACH.jpeg)
 
+## Glossário
+
 <details>
-  <summary>Glossário</summary>
+  <summary>[+]</summary>
 
 ![](./imgs/glossario.jpeg)
 
@@ -70,6 +78,9 @@ Muito menos, conseguimos parar de agir a partir das explicações e razões obti
 
 </details>
 
+*
+*
+*
 ## <$- HashTags -$>
 
 #kanban #agil #scrum #mindset #mutual_learning_mindset #unilateral_control_mindset
@@ -86,6 +97,10 @@ congruência e aprendizagem : http://www.aral.com.au/resources/argyris.html
 * [Técnicas de facilitação] - Desenvolva habilidades de facilitar interações. : https://k21.global/br/treinamentos/tecnicas-ageis-facilitacao?cupom=GOVIN
 
 ![Screenshot](./imgs/k21-course-facilitation.jpeg)
+
+* Entendendo o seu Comportamento - Raphael Molesim : https://youtu.be/zIIgBgPRA9Q
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg)](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
 
 ## My Profile Resume
 
