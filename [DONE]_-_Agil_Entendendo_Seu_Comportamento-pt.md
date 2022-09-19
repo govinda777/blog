@@ -98,9 +98,12 @@ congruência e aprendizagem : http://www.aral.com.au/resources/argyris.html
 
 ![Screenshot](./imgs/k21-course-facilitation.jpeg)
 
-* Entendendo o seu Comportamento - Raphael Molesim : https://youtu.be/zIIgBgPRA9Q
+[<img src="./imgs/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
+https://www.youtube.com/watch?v=zIIgBgPRA9Q
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg)](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
+
+
+
 
 ## My Profile Resume
 

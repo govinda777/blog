@@ -92,9 +92,26 @@ Teste 123[^1]
 </p>
 
 
-# Video
+## Video
 
 [![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
+
+## Video 2
+
+
+| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=115><br><h3>Entendendo o seu Comportamento - Raphael Molesim</h3>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
+| :---: |
+
+## Video 3
+
+| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=50%><br><h3>Entendendo o seu Comportamento - Raphael Molesim</h3>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
+| :---: |
+
+## Video 4 
+
+[<img src="./imgs/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
+https://www.youtube.com/watch?v=zIIgBgPRA9Q
+
 
 # Video Reference
 
