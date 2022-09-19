@@ -51,6 +51,16 @@ Muito menos, conseguimos parar de agir a partir das explicações e razões obti
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_08.jpeg)
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_09.jpeg)
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_10.jpeg)
+
+<details>
+  <summary>[+]</summary>
+
+![](./imgs/Agil_Entendendo_Seu_Comportamento_17.jpeg)
+![](./imgs/Agil_Entendendo_Seu_Comportamento_18.jpeg)
+![](./imgs/Agil_Entendendo_Seu_Comportamento_19.jpeg)
+
+</details>
+
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_11.jpeg)
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_12.jpeg)
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_13.jpeg)
