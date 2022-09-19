@@ -64,9 +64,13 @@ pull_request_template.md
 #kanban #agil #scrum #mindset #mutual_learning_mindset #unilateral_control_mindset
 
 
-## Teste >>>>
+## Subscribe
 
 | [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777/blog/[WIP]_-_[--Agil__Entendendo_Seu_Comportamento--]__O_que_eh__Unilateral_Control_Mindset.md) |
+| :---: |
+
+
+| [<img src="./imgs/sub.jpeg" height="70" width="140"><br><sub>Subscribe_ME</sub>](https://github.com/govinda777?tab=followers) |
 | :---: |
 
 <p align="left">
@@ -77,16 +81,16 @@ pull_request_template.md
 
 </p>
 
-
+## Buy-me-a-coffe
 
 <p style="magin-top:100px" align="left">
 
 <a href="https://github.com/govinda777/buy-me-a-coffe">
 
-## <$- Buy-me-a-coffe -$>
-
 <img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
 </a>
+
+<$- Buy-me-a-coffe -$>
 
 </p>
 

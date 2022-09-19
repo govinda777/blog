@@ -187,6 +187,8 @@ graph TD;
 
 #Geo #Poligono #Spatial #Geopandas #GIS #GIS_GUIs #polygon #GeoJSON
 
+## Subscribe
+
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
@@ -195,7 +197,12 @@ graph TD;
 
 </p>
 
+## Subscribe 2
 
+| [<img src="./imgs/sub.jpeg" height="70" width="140"><br><sub>Subscribe_ME</sub>](https://github.com/govinda777?tab=followers) |
+| :---: |
+
+## Buy-me-a-coffe
 
 <p style="magin-top:100px" align="left">
 
@@ -208,18 +215,28 @@ graph TD;
 
 </p>
 
-
-
-
-## <$- Buy-me-a-coffe -$>
+## Buy-me-a-coffe 2
 
 <p style="magin-top:100px" align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
 <img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
+
+<$- Buy-me-a-coffe -$>
+
 </a>
 
 </p>
+
+## Buy-me-a-coffe Button
+
+[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
+
+
+## Paypall
+
+ [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/govinda777)
+
 
 
 ## My Profile Resume
