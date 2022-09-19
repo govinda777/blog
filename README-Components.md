@@ -44,6 +44,58 @@ Teste 123[^1]
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
+###### >>>>> 1
+
+* Boas praticas, procurar utilizar endereços curtos caso esteja se referenciando no proprio repo
+
+![Screenshot](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+
+###### >>>>>
+
+# Image com link
+
+<p style="magin-top:100px" align="left">
+
+<a href="https://github.com/govinda777/blog/">
+<img src="./diagramas/bizantino.png" height="150" width="150" alt="Unform" />
+</a>
+
+</p>
+
+
+# Image com link 2
+
+<p style="magin-top:100px" align="left">
+
+<a href="https://github.com/govinda777/blog">
+<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="150" width="150" alt="Unform" />
+</a>
+
+</p>
+
+
+# Image com link 3 POST
+
+<p style="magin-top:100px" align="left">
+
+<a href="https://github.com/govinda777/blog/[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md">
+<img src="./imgs/Agil_Entendendo_Seu_Comportamento-post.jpeg" height="150" width="150" alt="Unform" />
+</a>
+
+./imgs/COMPONENTES_README-List-VIDEO.jpeg
+
+<p style="magin-top:100px" align="left">
+
+<a href="https://github.com/govinda777/blog">
+<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="150" width="150" alt="Unform" />
+</a>
+
+</p>
+
+
+</p>
+
+
 # Video
 
 [![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
@@ -64,7 +116,7 @@ https://youtu.be/R8_veQiYBjI
 ## Video Reference Complete with more elements
 
 > # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+* https://youtu.be/R8_veQiYBjI
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
 
@@ -129,6 +181,37 @@ graph TD;
   ]
 }
 ```
+
+## My Profile Resume
+
+| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
+| :---: |
+
+## <$- HashTags -$>
+
+#Geo #Poligono #Spatial #Geopandas #GIS #GIS_GUIs #polygon #GeoJSON
+
+<p align="left">
+
+<a href="https://github.com/govinda777?tab=followers">
+<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+</a>
+
+</p>
+
+
+
+<p style="magin-top:100px" align="left">
+
+<a href="https://github.com/govinda777/buy-me-a-coffe">
+
+## <$- Buy-me-a-coffe -$>
+
+<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
+</a>
+
+</p>
+
 
 
 
@@ -221,10 +304,18 @@ Criar uma automação para os compoenentes usando o gulpfile
 
 ## Links >>>>>>>
 
+<p style="magin-top:100px" align="left">
 
+<a href="https://github.com/govinda777/buy-me-a-coffe">
 
+<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
 
-https://github.com/govinda777/blog/blob/imgs/main/%5BWIP%5D_-_Agil_Entendendo_Seu_Comportamento-pt.md
+<$- Buy-me-a-coffe -$>
+
+</a>
+
+</p>
+
 
 
 

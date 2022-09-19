@@ -97,6 +97,8 @@ type: geojson
 
 #Geo #Poligono #Spatial #Geopandas #GIS #GIS_GUIs #polygon #GeoJSON
 
+# Subscribe
+
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
@@ -105,15 +107,16 @@ type: geojson
 
 </p>
 
-
+# Buy-me-a-coffe
 
 <p style="magin-top:100px" align="left">
 
 <a href="https://github.com/govinda777/buy-me-a-coffe">
 
-## <$- Buy-me-a-coffe -$>
-
 <img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
+
+<$- Buy-me-a-coffe -$>
+
 </a>
 
 </p>
