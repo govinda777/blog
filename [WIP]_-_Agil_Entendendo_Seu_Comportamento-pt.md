@@ -1,101 +1,49 @@
+# [Agil > Técnicas de Facilitação] - Entendendo o seu Comportamento
 
+<img src="./imgs/Agil_Entendendo_Seu_Comportamento.png" height="100%" width="100%" alt="Unform" />
 
-1111111111111111111111
+## Theories of Action
 
+![](./imgs/Agil_Entendendo_Seu_Comportamento_01.jpeg)
 
-
-
-
-
-```
-
-..%%%%..@
-.%%.....@
-.%%.%%%.@
-.%%..%%.@
-..%%%%..@
-
-........@
-..%%%%..@
-.%%..%%.@
-.%%..%%.@
-.%%..%%.@
-..%%%%..@
-........@
-
-.%%..%%.@
-.%%..%%.@
-.%%..%%.@
-..%%%%..@
-...%%...@
-........@
-
+```cmd
 
 ```
 
-# Como desenhar um poligono em um mapa, dentro do Github README.md
+![](./imgs/Agil_Entendendo_Seu_Comportamento_02.jpeg)
 
-<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
 
-## Exemplo
+## Significado
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+Se eu estou na situação <span style="color:red">[S]</span> e eu quero criar uma consequência <span style="color:red">[C]</span>, dado as premissas <span style="color:red">[p1, p2, ..., pn]</span>, então eu devo fazer <span style="color:red">[A]</span> .
 
-## Exemplo Code
+![](./imgs/what.jpeg)
 
-type: geojson
+## [Explicando] : Theories of Action
 
-```
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+![](./imgs/Agil_Entendendo_Seu_Comportamento_03.jpeg)
+
+### [Explicação]
+
+No diagrama a cima.
+
+Poucas coisas estão sobre nosso controle.
+
+Não conseguimos fazer com que o Mundo real pare de emitir eventos.
+
+Assim como não conseguimos parar de observar esses evendos e construir um entendimento a partir das nossas premissas ou modelos mentais. 
+
+Muito menos, conseguimos parar de agir a partir das explicações e razões obtidas.
+
+
+<details>
+  <summary>Glossário</summary>
+
+
+
+</details>
+
+
 
 ## My Profile Resume
 
@@ -134,6 +82,9 @@ type: geojson
 </p>
 
 # Links
+
+* A teoria de Argyris e Schön sobre
+congruência e aprendizagem : http://www.aral.com.au/resources/argyris.html
 
 * Outro exemplio de implementação : https://github.com/govinda777/blog/blob/main/README-Components.md#mapas-geofraficos-mapas-do-geojson-e-topojson
 
