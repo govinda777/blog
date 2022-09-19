@@ -1,4 +1,4 @@
-# [Agil > Técnicas de Facilitação] - Entendendo o seu Comportamento
+# [Ágil > Técnicas de Facilitação] - Entendendo o seu Comportamento
 
 <img src="./imgs/Agil_Entendendo_Seu_Comportamento.png" height="100%" width="100%" alt="Unform" />
 
