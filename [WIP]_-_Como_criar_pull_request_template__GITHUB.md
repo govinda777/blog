@@ -1,10 +1,58 @@
 # Como Criar pull request template no Github
 
-<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/Como_criar_pull_request_template__GITHUB.jpeg" height="100%" width="100%" alt="Unform" />
 
-## Exemplo
+## Como implementar ?
 
-https://github.com/Metroxe/one-html-page-challenge/blob/master/.github/pull_request_template.md
+> Dentro da sua pasta .github, crie o arquivo ´pull_request_template.md´
+
+
+```cmd
+
+cd .github
+
+pull_request_template.md
+
+```
+
+## Exemplo de arquivo (pull_request_template.md)
+
+
+```cmd
+
+**Please confirm that your submission follows all the [rules](https://github.com/Metroxe/one-html-page-challenge/blob/master/README.md#rules)...**
+
+- [ ] You wrote all of your code in 1 single HTML file.
+- [ ] Your file is less than 1mb.
+- [ ] You didn't import any external files (e.g. images, stylesheets or js files).
+- [ ] There are no incoming or outgoing network requests.
+
+```
+
+## Veja funcionando
+
+![""](./imgs/Como_criar_pull_request_template__GITHUB_01.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_02.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_03.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_04.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_05.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_06.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_07.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_08.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_09.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_10.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_11.jpeg)
+![""](./imgs/Como_criar_pull_request_template__GITHUB_12.jpeg)
+
+## Ref
+
+* Repositório : https://github.com/Metroxe/one-html-page-challenge/blob/master/.github/pull_request_template.md
+
+## Links
+
+* Creating a pull request template for your repository : https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
+
+* Common validation errors when creating issue forms : https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/common-validation-errors-when-creating-issue-forms
 
 ## My Profile Resume
 

@@ -44,13 +44,9 @@ Teste 123[^1]
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
-###### >>>>> 1
-
 * Boas praticas, procurar utilizar endereços curtos caso esteja se referenciando no proprio repo
 
 ![Screenshot](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
-
-###### >>>>>
 
 # Image com link
 
