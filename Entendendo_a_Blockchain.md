@@ -118,6 +118,38 @@ Merkel Tree é a forma que a Blockchain usa para salvar e indexar os dados, no c
 > É esse.
 ![Screenshot](./imgs/arvore_binaria_caminho.jpeg)
 
+## Link
+
+Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y
+
+Arquitetura P2P: https://www.youtube.com/watch?v=LiOZcck8dfU
+
+P2Ps Escrow Service Work : https://www.binance.com/en/blog/all/how-does-binance-p2ps-escrow-service-work-421499824684900825
+
+Link plataforma: https://www.kaleido.io/
+
+Link de video mostrando como utilizar: https://www.youtube.com/watch?v=2XzxdlqN0ks&ab_channel=Kaleido
+
+Documentação firefly: https://github.com/hyperledger/firefly
+ 
+AML : https://www.sec.gov/about/offices/ocie/amlsourcetool.htm
+
+Bitcoin Escrow Script: https://www.youtube.com/watch?v=hljavgPb6Yw
+
+What is Escrow: https://www.youtube.com/watch?v=Xt5pUmeicqo
+
+Escrow : https://www.youtube.com/watch?v=jBIfyVFMoHc
+
+Smart Contract : https://www.youtube.com/watch?v=ooN6kZ9vqNQ
+
+Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.alura.com.br/course/blockchain-para-negocios
+
+Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao
+
+Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+
+Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
+
 ## My Profile Resume
 
 | [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
