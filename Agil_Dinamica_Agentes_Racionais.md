@@ -67,6 +67,8 @@ Conversa Rápida - Agentes Racionais - Raphael Molesim : https://youtu.be/vQX9vp
 
 O poder : https://www.youtube.com/watch?v=9BtrLf6PfYY
 
+Funções no git : https://ajustetecnico.github.io/blog/2018/09/19/equacoes-latex/
+
 
 ## My Profile Resume
 
