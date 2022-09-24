@@ -1,3 +1,5 @@
+![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
+
 # [Agil] - Dinâmica_Agentes_Racionais
 
 
@@ -30,44 +32,56 @@ Signigicado: Suja a somatória , vezes dois terços. Do menor palpite.
 * .
 * Total somatória : 228 
 
-## Qual número todos os participantes poderiam escolher, onde todos iriam ganhar ?
-
-$$
-
-
-
-\sum_{palpite_vencedor}^{[0..100]} *  \frac{2}{3}
-
-$$
-
-
-
 ## Ganhador 
 
 * Cecilia
 
+## Qual número todos os participantes poderiam escolher, onde todos iriam ganhar ?
 
+$$
+
+0
+
+$$
+
+* qualquer número vezes 0 será igual a Zero.
 
 ## Por quê ZERO ?
 
-O muiltiplicador com qualquer numero é sempre ZERO.
+* Zero multiplicando com qualquer número é sempre ZERO.
 
 Então :
 
 * Se todos escolherem o ZERO todos venceriam.
 
+> ## Eu não falei que teria que ser apenas um ganhador
+
 ## Provocação
 
 Vc toma suas decições ravionalmente, ou apenas o faz pela força do hábito ?
+
+## Então pq a decisão mais óbvia não é Zero ?
+
+ * ??
+
+ * ??
+
+## Será que vc tomou essa decisão de forma conciente ou foi apenas um hábito ?
+
+![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
+
 
 ## Link
 
 Conversa Rápida - Agentes Racionais - Raphael Molesim : https://youtu.be/vQX9vpb46do
 
 
-O poder : https://www.youtube.com/watch?v=9BtrLf6PfYY
+O poder do hábito : https://www.youtube.com/watch?v=9BtrLf6PfYY
 
 Funções no git : https://ajustetecnico.github.io/blog/2018/09/19/equacoes-latex/
+
+
+
 
 
 ## My Profile Resume
