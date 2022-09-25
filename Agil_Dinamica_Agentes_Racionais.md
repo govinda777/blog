@@ -63,6 +63,8 @@ Você toma suas decições Racionalmente, ou apenas o faz pela força do hábito
 
 ![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
 
+![](./imgs/Agil_Dinamica_Agentes_Racionais_02.jpeg)
+
 ## Link
 
 Conversa Rápida - Agentes Racionais - Raphael Molesim : https://youtu.be/vQX9vpb46do
