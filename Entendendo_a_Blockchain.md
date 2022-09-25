@@ -2,7 +2,9 @@
 
 ## O que é 
 
-![...](./imgs/representacao-de-um-bloco.png)
+<p align="center">
+<img src="./imgs/representacao-de-um-bloco.png" height="100%" width="100%" alt="Unform" />
+</p>
 
 Quais são os elementos essenciais de um blockchain que possibilitam a resolução do Dilema dos Generais Bizantinos e viabilizam essa inovação? Elementos básicos dos blockchains" (from "Blockchain e Organizações Descentralizadas" by João Guilherme Lyra)
 
