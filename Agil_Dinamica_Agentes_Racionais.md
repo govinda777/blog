@@ -47,6 +47,7 @@ Então :
 
 * Se todos escolherem o ZERO todos venceriam.
 
+![](./imgs/Agil_Dinamica_Agentes_Racionais_03.jpeg)
 > ## Eu não falei que teria que ser apenas um ganhador
 
 ## Provocação
