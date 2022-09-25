@@ -1,4 +1,8 @@
+<img src="./imgs/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="100%" width="100%" alt="Unform" />
+
 # [Ágil](./Agil_Entendendo_Seu_Comportamento-pt.md) - O Ética e Moral tem haver com Liberdade ?
+
+
 
 Ética e Moral, não tem relação com limitar ou restringir a liberdade, pelo contrário, a liberdade é um elemento essencial para com que os mesmos ocorram. Quando não há liberdade de escolha, não há moral.
 
