@@ -68,13 +68,14 @@ São existem soluções padrões para problemas complexos. *Soluções genérica
 
 ## Referências
 
-- Moral e Ética : https://www.youtube.com/watch?v=ufTPyv8nTq4&ab_channel=Document%C3%A1rios10
+| [<img src="https://img.youtube.com/vi/ufTPyv8nTq4/0.jpg" width=50%><br><h3>Clovis de Barros Filho - Moral e Ética</h3>](https://www.youtube.com/watch?v=ufTPyv8nTq4?govinda777) |
+| :---: |
 
-- "A lei frequentemente destrói o que deveria preservar" : https://www.youtube.com/watch?v=6tsNkKXvu84&t=378s
+- "A lei frequentemente destrói o que deveria preservar" : https://www.youtube.com/watch?v=6tsNkKXvu84&t=378s?govinda777
 
-- Incentivos errados : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+- Incentivos errados : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s?govinda777
 
-- Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+- Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s?govinda777
 
 - Livro A república: https://www.amazon.com.br/rep%C3%BAblica-Plat%C3%A3o/dp/8581862535/ref=sr_1_1?adgrpid=106994863149&hvadid=595792767963&hvdev=c&hvlocphy=9100442&hvnetw=g&hvqmt=e&hvrand=12765191422414543044&hvtargid=kwd-833553817865&hydadcr=29426_14594518&keywords=livro+a+republica+de+plat%C3%A3o&qid=1656036616&sr=8-1
 
