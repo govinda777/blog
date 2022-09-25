@@ -1,4 +1,4 @@
-<img src="./imgs/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="50%" width="100%" alt="Unform" />
 
 # [Ágil](./Agil_Entendendo_Seu_Comportamento-pt.md) - O Ética e Moral tem haver com Liberdade ?
 
