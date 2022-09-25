@@ -11,7 +11,7 @@
 
 $$
 
-\sum_{palpite_vencedor}^{[0..100]} *  \frac{2}{3}
+\sum *  \frac{2}{3}
 
 $$
 
