@@ -1,22 +1,8 @@
-
-<head>
-  <meta charset="utf-8">
-  <meta name="Description" CONTENT="Clóvis de Barros Filho Você sabe o que é brio ??">
-  <meta name="robots" content="all">
-</head>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://s.dicio.com.br/brio.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://s.dicio.com.br/brio.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://s.dicio.com.br/brio.png">
-</picture>
-
-# Clóvis de Barros Filho " Você sabe o que é brio ??"
+# Clóvis de Barros Filho " Você sabe o que é brio ?"
 
 ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-KANT.jpeg)
 
-https://g.co/kgs/vsceN5
+* https://g.co/kgs/vsceN5
 
 
 ```
