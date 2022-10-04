@@ -1,57 +1,77 @@
-```
-
-..%%%%..@
-.%%.....@
-.%%.%%%.@
-.%%..%%.@
-..%%%%..@
-
-........@
-..%%%%..@
-.%%..%%.@
-.%%..%%.@
-.%%..%%.@
-..%%%%..@
-........@
-
-.%%..%%.@
-.%%..%%.@
-.%%..%%.@
-..%%%%..@
-...%%...@
-........@
-
-
-```
-
-# Como desenhar um poligono em um mapa, dentro do Github README.md
+# Hyperledger Firefly and The Super node.
 
 <img src="./imgs/firefly02.jpeg" height="100%" width="100%" alt="Unform" />
 
-## UI
+Objetivo: 
 
-* Web UI: http://127.0.0.1:5000/ui
-* Sandbox UI: http://127.0.0.1:5109
-* Swagger: http://127.0.0.1:5000/api
+* [_] - Instalar o firefly cli
+* [_] - Acessar a interface UI
+* [_] - Apresentar arquitetura
+
+## Instalar o firefly cli : 
+
+https://hyperledger.github.io/firefly/gettingstarted/firefly_cli.html
+
+## Acessar as interfaces
+
+### Comandos para subir o ambiente firefly:
+
+- ff init
+- ff start dev
+- ff logs dev
+
+### Como acessar:
+
+- Web UI: http://127.0.0.1:5000/ui
+
+![](./imgs/firefly06.jpeg)
+
+- Sandbox UI: http://127.0.0.1:5109
+
+![](./imgs/firefly07.jpeg)
+
+- Swagger: http://127.0.0.1:5000/api
+
+![](./imgs/firefly08.jpeg)
 
 ## Exemplo
 
-![](./imgs/firefly01.jpeg)
+![](./imgs/firefly03.jpeg)
 
-* ![](./imgs/firefly02.jpeg)
+![Link_GitHub](./imgs/firefly04.jpeg)
 
-* ![](./imgs/firefly03.jpeg)
+### Dashboard monitoração
 
-* ![](./imgs/firefly04.jpeg)
+> (network) > (node) > (org)
+
+![](./imgs/firefly06.jpeg)
+
+## Complexidade na construção de um web3 app
+
+![](./imgs/firefly09.jpeg)
+
+## FireFly: vantagem, simplicidade
+
+ Com a utilização desse Framework temos muita facilidade nos seguintes pontos 
+ 
+### Construção de Aplicações Web
+
+* Padronização na hospedagem da aplicação.
+* Facilidade para criar ambiente.
+* Facilidade para criação de massa de teste.
+* Maior abrangência dos testes integrados.
+* Diminuição de complexidade das Pipelines com a utilização de Smart Contracts
+* Melhoria do acoplamento entre as aplicações (ou Smart Contracts)
+
+### Construção de uma comunidade
+
+* Maior autonomia entre os integrantes da rede trocar mensagem entre sí.
+* 
 
 
-* ![](./imgs/firefly06.jpeg)
+ para a utilização e administração de uma rede blockchain
 
-* ![](./imgs/firefly08.jpeg)
-
-* ![](./imgs/firefly09.jpeg)
-
-* ![](./imgs/firefly10.jpeg)
+![](./imgs/firefly10.jpeg)
 
 * ![](./imgs/firefly11.jpeg)
 
@@ -96,10 +116,11 @@
 
 # Links
 
-* Outro exemplio de implementação : https://github.com/govinda777/blog/blob/main/README-Components.md#mapas-geofraficos-mapas-do-geojson-e-topojson
+* Open source blockchain development: Get started with Hyperledger FireFly : https://opensource.com/article/22/9/blockchain-hyperledger-firefly
 
-* Documentação README.md Markdown : https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* Category Hyperledger Firefly : https://www.hyperledger.org/category/hyperledger-firefly
 
-* Outra documentação sobre Markdown : https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
-* Documentação Discord Markdown : https://www.markdownguide.org/tools/discord/
+
+* Token with FireFly : https://hyperledger.github.io/firefly/tutorials/tokens/erc20.html
+
