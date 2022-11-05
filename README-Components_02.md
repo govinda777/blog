@@ -137,7 +137,7 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ```
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
-
+7777
 ![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
 
 ```python
@@ -167,7 +167,7 @@ graph TD;
 
 ## Subscribe Button Style 2
 
-[<img src="./imgs/COMPONENTES_README-List-POST-WHATSAPP-6.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+[<img src="./imgs/sub.jng"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
 
 
 

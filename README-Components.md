@@ -1,38 +1,13 @@
 # Components
 
-# Lista de produtos do $- <Passe_de_Batalha> -$
-
-@@include('passeDeBatalha.md', {
-    "desc": "<p>Domínio nas linguagens C#, Transact-SQL, JavaScript.<p>",
-    "tags": [
-        {
-            "label": "ascasca",
-            "color": "khaki"
-        }
-    ]
-
-})
-
-@@for (var i = 0; i < passeDeBatalha.prods.length; i++) {
-
-  passeDeBatalha.prods[i].img
-  passeDeBatalha.prods[i].title
-  passeDeBatalha.prods[i].desc
-
-> ![passeDeBatalha](passeDeBatalha.prods[i].img)
-### passeDeBatalha.prods[i].title
-
-}
-
-
-# Table
+## Table
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
 | ------------------- | ------------------- |
 |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 
-# Baseboard
+## Baseboard
 
 Teste 123[^1]
 
@@ -40,83 +15,66 @@ Teste 123[^1]
     * Teste 123[^3]
 
 
-# Image
+## Image
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
 
-* Boas praticas, procurar utilizar endereços curtos caso esteja se referenciando no proprio repo
+## Image 2
 
-![Screenshot](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
-# Image com link
+# Image_with_link
 
-<p style="magin-top:100px" align="left">
+<p>
 
-<a href="https://github.com/govinda777/blog/">
-<img src="./diagramas/bizantino.png" height="150" width="150" alt="Unform" />
+<a href="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg">
+<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
 </a>
 
 </p>
 
+# Image_with_link 2
 
-# Image com link 2
+<p>
 
-<p style="magin-top:100px" align="left">
-
-<a href="https://github.com/govinda777/blog">
-<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="150" width="150" alt="Unform" />
+<a href="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg">
+<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
+./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg
 </a>
 
 </p>
-
-
-# Image com link 3 POST
-
-<p style="magin-top:100px" align="left">
-
-<a href="https://github.com/govinda777/blog/[WIP]_-_Agil_Entendendo_Seu_Comportamento-pt.md">
-<img src="./imgs/Agil_Entendendo_Seu_Comportamento-post.jpeg" height="150" width="150" alt="Unform" />
-</a>
-
-./imgs/COMPONENTES_README-List-VIDEO.jpeg
-
-<p style="magin-top:100px" align="left">
-
-<a href="https://github.com/govinda777/blog">
-<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="150" width="150" alt="Unform" />
-</a>
-
-</p>
-
-
-</p>
-
 
 ## Video
-
-[![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
-
-## Video 2
-
 
 | [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=115><br><h3>Entendendo o seu Comportamento - Raphael Molesim</h3>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
 | :---: |
 
-## Video 3
+## Video 1
 
 | [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=50%><br><h3>Entendendo o seu Comportamento - Raphael Molesim</h3>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
 | :---: |
 
-## Video 3 Left
+## Video 2
 
 | [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=100%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
 | :---: |
 
-## Video 4 
+## Video 3
 
-[<img src="./imgs/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
-https://www.youtube.com/watch?v=zIIgBgPRA9Q
+| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=100%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
+| :---: |
+```python
 
+help.msg(title="[Comentario | Documentação | Links]", message="""
+# [Comentário sobre o video.]
+
+ou 
+
+[Documentação e principais links do video]
+"""
+, **options)
+
+```
 
 # Video Reference
 
@@ -124,40 +82,11 @@ https://www.youtube.com/watch?v=zIIgBgPRA9Q
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
 https://www.youtube.com/watch?v=UVtgFN3K6kE
+## Emoji personagem (Mulher cacto)
 
-## Video Reference Complete
-
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
 
 
-## Video Reference Complete with more elements
-
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-* https://youtu.be/R8_veQiYBjI
-
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
-
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
-
-```python
-
-tkinter.messagebox.askyes(title="[title]", message="""
-# [message exemplo componente]
-"""
-, **options)
-
-```
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
-
-```python
-
-tkinter.messagebox.askyesnocancel(title="[title]", message="""
-# [message exemplo componente yes-no-cancel]
-"""
-, **options)
-
-```
 
 ## Diagrams
 
@@ -209,7 +138,7 @@ graph TD;
 
 #Geo #Poligono #Spatial #Geopandas #GIS #GIS_GUIs #polygon #GeoJSON
 
-## Subscribe
+## Subscribe [Deprecated]
 
 <p align="left">
 
@@ -219,46 +148,20 @@ graph TD;
 
 </p>
 
-## Subscribe 2
+## Subscribe 2 [Deprecated]
 
 | [<img src="./imgs/sub.jpeg" height="70" width="140"><br><sub>Subscribe_ME</sub>](https://github.com/govinda777?tab=followers) |
 | :---: |
 
-## Buy-me-a-coffe
+## Follow
 
-<p style="magin-top:100px" align="left">
-
-<a href="https://github.com/govinda777/buy-me-a-coffe">
-
-## <$- Buy-me-a-coffe -$>
-
-<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
-</a>
-
-</p>
-
-## Buy-me-a-coffe 2
-
-<p style="magin-top:100px" align="left">
+<p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
-
-<$- Buy-me-a-coffe -$>
-
+<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
 </a>
 
 </p>
-
-## Buy-me-a-coffe Button
-
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
-
-
-## Paypall
-
- [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/govinda777)
-
 
 
 ## My Profile Resume
@@ -271,7 +174,7 @@ https://www.linkedin.com/in/govinda777/recent-activity/
 
 ## My Profile
 
-| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Luã Govinda</sub>](https://github.com/govinda777) |
+| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
 | :---: |
 
 * [linkedin] profile: https://www.linkedin.com/in/govinda777/

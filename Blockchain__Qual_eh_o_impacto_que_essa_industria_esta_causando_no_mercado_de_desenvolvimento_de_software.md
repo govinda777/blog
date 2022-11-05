@@ -1,14 +1,27 @@
-# [WIP]_-_[--Blockchain--]__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software
+<img src="./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software.jpeg" height="100%" width="100%" alt="Unform" />
 
-## Relembrando a historia.
+# Blockchain 
+> ### ¨Qual é o impacto que essa industria esta causando no mercado de desenvolvimento de software¨
+
+## Relembrando.
 
 Tivemos um bumm no mercado de Venda de APPs.
 
 Hoje Google Play, App Store são lojas com um faturamento muilt bilionário.
 
+
+!["Google Play faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_01.jpeg)
+
+!["Apple store faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_02.jpeg)
+
+
+
+
 ## Fato.
 
-Hoje, com as cripto moedas, é muito fácil vc subir uma aplicação utilizando qualquer rede blockchain e faturar dinheiro ainda no mesmo dia.
+Hoje, com as cripto moedas, é muito fácil vc subir uma aplicação utilizando qualquer rede blockchain e realizar uma venda ainda no mesmo dia.
+
+
 
 ## Tutoriais
 
@@ -40,6 +53,10 @@ Aqui estão alguns tutoriais que sinceramente achei incriveis.
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
 
 ## Link
+
+Investopedia: https://www.investopedia.com/
+
+Banner Img: https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/
 
 Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y
 
