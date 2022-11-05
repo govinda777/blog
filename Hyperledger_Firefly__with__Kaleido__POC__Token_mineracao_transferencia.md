@@ -4,9 +4,11 @@
 
 Objetivo: 
 
-* [_] - Instalar o firefly cli
-* [_] - Acessar as interfaces
-* [_] - Realizar a transferencia de Tokens para outra Organização ^["Definição_de_organizações_em_uma_block_chain"]("Definição_de_organizações_em_uma_block_chain")
+* [X] - Instalar o firefly cli
+* [X] - Acessar as interfaces
+* [X] - Criar um Token chamado GOV (cripto moeda)
+* [X] - Realizar uma transferencia de Tokens para outra Organização ^["Definição_de_organizações_em_uma_block_chain"]("Definição_de_organizações_em_uma_block_chain")
+* [X] - Realiza uma analise de Auditoria para ver se os saldos estão corretos e se as taxas foram cobradas corretamente.
 
 ## Instalar o firefly cli : 
 
