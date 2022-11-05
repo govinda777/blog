@@ -107,6 +107,11 @@ Teste 123[^1]
 | [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=50%><br><h3>Entendendo o seu Comportamento - Raphael Molesim</h3>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
 | :---: |
 
+## Video 3 Left
+
+| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=100%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
+| :---: |
+
 ## Video 4 
 
 [<img src="./imgs/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
