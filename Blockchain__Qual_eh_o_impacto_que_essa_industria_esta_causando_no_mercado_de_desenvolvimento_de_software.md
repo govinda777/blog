@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
+<img style="text-align: center;" src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
 </p>
 
 # Blockchain 
