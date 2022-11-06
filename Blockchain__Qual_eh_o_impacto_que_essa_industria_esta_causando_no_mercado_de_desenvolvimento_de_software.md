@@ -1,4 +1,6 @@
-<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%" alt="Unform" />
+<p style="text-align: center;">
+<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
+</p>
 
 # Blockchain 
 > ### ¨Qual é o impacto que essa industria esta causando no mercado de desenvolvimento de software¨
