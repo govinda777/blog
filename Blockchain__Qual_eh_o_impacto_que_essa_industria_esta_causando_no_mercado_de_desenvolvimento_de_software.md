@@ -1,8 +1,8 @@
 <p style="text-align: center;">
-<img style="text-align: center;" src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
+<img style="text-align: center;" src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%" alt="Unform" />
 </p>
 
-[<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%"><br>Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s)
+[<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%"><br>Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s)
 
 # Blockchain 
 > ### ¨Qual é o impacto que essa industria esta causando no mercado de desenvolvimento de software¨
