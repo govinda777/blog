@@ -1,18 +1,28 @@
-<img src="./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="https://media.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.gif" height="100%" width="100%" alt="Unform" />
 
 # Blockchain 
 > ### ¨Qual é o impacto que essa industria esta causando no mercado de desenvolvimento de software¨
 
 ## Relembrando.
 
-Tivemos um bumm no mercado de Venda de APPs.
+Tivemos um bumm em 2008 no mercado de APPs.
+
+Foi uma maneira revolucionária que abriu um novo mercado de venda de Softwares / Serviços / Assinaturas / Faturamento.
+
+Vamos focar nesse ultimo ponto * Faturamento.
+
+## Faturamento : Google Play & App Store
 
 Hoje Google Play, App Store são lojas com um faturamento muilt bilionário.
-
 
 !["Google Play faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_01.jpeg)
 
 !["Apple store faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_02.jpeg)
+
+
+## Tamanho mercado cripto:
+
+!["Mercado cripto"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_03.jpeg)
 
 
 
