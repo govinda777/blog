@@ -2,6 +2,22 @@
 
 <img src="./imgs/Agil_Entendendo_Seu_Comportamento.png" height="100%" width="100%" alt="Unform" />
 
+## Resumo:
+
+Pra liderar é preciso ser tb muito eficiente em reuniões.
+
+Na agilidade quando vc fala de reunião, automaticamente vc tem que falar de técnicas de facilitação.
+
+Técnicas de Facilitação: De maneira bem resumida, são técnicas que possibilitam uma boa reunião, e que ela cumpra o seu Objetivo.
+
+Porem essa disciplina vai alem: Ela visa tb, reunir um conjuntos de estudos que tentam entender o comportamento de um determinado indivíduo ou grupos e observar os "Modelos mentais" que utilizam para interpretar a sua visão de realidade.
+
+O objetivo final dessa disciplina é entender e trazer ferramentas que tornará agrupamentos de pessoas em "Times de alta performance".
+
+> O Modelo do aprendizado multuo é o manifesto ágil do facilitador.
+
+!["Valores modelo de aprendizado mútuo"](./imgs/Agil_Entendendo_Seu_Comportamento-pt_02.jpeg)
+
 ## Theories of Action
 
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_01.jpeg)
