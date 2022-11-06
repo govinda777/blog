@@ -1,5 +1,5 @@
 # Blockchain 
-> ### ¨Qual é o impacto que essa industria está causando no mercado de desenvolvimento de software¨
+> ### ¨Qual é o impacto que essa indústria está causando no mercado de desenvolvimento de software¨
 
 [<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%"><br>What is Market Cap (Market Capitalization) in Crypto? 📈</p>](https://www.youtube.com/watch?v=WV0Gr0PkCtY)
 
