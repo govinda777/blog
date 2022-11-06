@@ -69,24 +69,48 @@ https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s
 
 * 00:46:58 - Set up Metamask Authentication with NextJS
 
+<p align="left">
 
+<a href="https://github.com/govinda777?tab=followers">
+<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+</a>
 
-## Panorama
+</p>
 
-## Custódia dos dados
+[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
 
-## Cuidado com a sua chave privada
+## Link
 
+Investopedia: https://www.investopedia.com/
 
+Banner Img: https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/
 
+Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y
 
+Arquitetura P2P: https://www.youtube.com/watch?v=LiOZcck8dfU
 
-## References : 
+P2Ps Escrow Service Work : https://www.binance.com/en/blog/all/how-does-binance-p2ps-escrow-service-work-421499824684900825
 
-Book : Smart Leaders, Smarter Teams: How You and Your Team Get Unstuck to Get Results (English Edition): https://www.amazon.com.br/dp/B00BMU3IC4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+Link plataforma: https://www.kaleido.io/
 
-![Screenshot](./imgs/book-smart-leads.jpeg)
+Link de video mostrando como utilizar: https://www.youtube.com/watch?v=2XzxdlqN0ks&ab_channel=Kaleido
 
-Course : Develop decision-making, learning and decision-making skills : https://k21.global/br/treinamentos/tecnicas-ageis-facilitacao?cupom=GOVIN
+Documentação firefly: https://github.com/hyperledger/firefly
+ 
+AML : https://www.sec.gov/about/offices/ocie/amlsourcetool.htm
 
-![Screenshot](./imgs/k21-course-facilitation.jpeg)
+Bitcoin Escrow Script: https://www.youtube.com/watch?v=hljavgPb6Yw
+
+What is Escrow: https://www.youtube.com/watch?v=Xt5pUmeicqo
+
+Escrow : https://www.youtube.com/watch?v=jBIfyVFMoHc
+
+Smart Contract : https://www.youtube.com/watch?v=ooN6kZ9vqNQ
+
+Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.alura.com.br/course/blockchain-para-negocios
+
+Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao
+
+Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+
+Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
