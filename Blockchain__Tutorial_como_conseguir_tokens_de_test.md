@@ -23,7 +23,7 @@ Entre no Site : https://faucets.chain.link/
 
 ## Passo 2
 
-Informe o ID da sua carteira no campo Wallet address.
+Informe o ID da sua carteira no campo "Wallet address" .
 
 ![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_05.jpeg)
 
@@ -39,7 +39,7 @@ Mostre que você não é uma máquina.
 
 ![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_06.jpeg)
 
-Esse botão terá que ficar azul para você conseguir proceguir.
+Esse botão terá que ficar azul para você conseguir prosseguir.
 
 ![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_07.jpeg)
 
@@ -49,12 +49,12 @@ Ficou azul :)
 
 ## Passo 4
 
-Veja que a transação está sendo indexada:
+Inicialmente a transação é indexada:
 
 ![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_12.jpeg)
 
 
-Vamos agora analisar a tranzação.
+> Vamos agora analisar a tranzação.
 
 Link da transação (vc pode ver tb): https://goerli.etherscan.io/tx/0x2c35bfb44546c5bee766ddbc2fcd28c325a873d37a65752717df82e02849ed89
 
