@@ -47,9 +47,9 @@ Ficou azul :)
 
 ![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_08.jpeg)
 
-## Passo 4
+## Passo 4 - Aguarde a sua Transação ser Indexada e processada.
 
-Inicialmente a transação é indexada:
+![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_99.jpeg)
 
 ![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_12.jpeg)
 
