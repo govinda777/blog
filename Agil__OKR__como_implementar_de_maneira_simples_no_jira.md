@@ -2,7 +2,7 @@
 
 > ### OKR como implementar de maneira simples no jira ?
 
-<img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.png" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/Agil__OKR__como_implementar_de_maneira_simples_no_jira_banner.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## Principal meta
 
