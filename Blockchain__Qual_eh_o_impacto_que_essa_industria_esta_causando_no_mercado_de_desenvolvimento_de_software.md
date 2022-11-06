@@ -1,11 +1,7 @@
-<p style="text-align: center;">
-<img style="text-align: center;" src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%" alt="Unform" />
-</p>
-
-[<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%"><br>Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s)
-
 # Blockchain 
-> ### ¨Qual é o impacto que essa industria esta causando no mercado de desenvolvimento de software¨
+> ### ¨Qual é o impacto que essa industria está causando no mercado de desenvolvimento de software¨
+
+[<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%"><br>What is Market Cap (Market Capitalization) in Crypto? 📈</p>](https://www.youtube.com/watch?v=WV0Gr0PkCtY)
 
 ## Relembrando.
 
@@ -13,7 +9,7 @@ Tivemos um bumm em 2008 no mercado de APPs.
 
 Foi uma maneira revolucionária que abriu um novo mercado de venda de Softwares / Serviços / Assinaturas / Faturamento.
 
-Vamos focar nesse ultimo ponto * Faturamento.
+Vamos focar nesse ultimo ponto * Faturamento *.
 
 ## Faturamento : Google Play & App Store
 
@@ -34,7 +30,7 @@ Hoje Google Play, App Store são lojas com um faturamento muilt bilionário.
 
 ## Fato.
 
-Hoje, com as cripto moedas, é muito fácil você subir uma aplicação utilizando qualquer rede blockchain e realizar uma venda ainda no mesmo dia.
+Hoje, com as, cripto moedas, é muito fácil você subir uma aplicação utilizando qualquer rede blockchain e realizar uma venda ainda no mesmo dia.
 
 ## Será que o mercado Cripto conseguirá fazer frente ao mercado de APPs ? Ou cada um tem o seu espaço garantido no mercado ?
 
