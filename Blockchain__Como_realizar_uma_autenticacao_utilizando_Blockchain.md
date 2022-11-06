@@ -85,6 +85,8 @@ https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s
 
 ## Link
 
+Repo exemplo DApp Web 3.0 : https://github.com/CleverProgrammers/opensea-blockchain-youtube
+
 Investopedia: https://www.investopedia.com/
 
 Banner Img: https://moralis.io/wp-content/uploads/2022/07/22_07_How-to-Authenticate-Dapp-Users-with-MetaMask-1.jpg
