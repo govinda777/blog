@@ -1,8 +1,12 @@
-# [--Blockchain--]__Como_realizar_uma_autenticacao_utilizando_Blockchain
+# [--Blockchain--]
+
+> ### Como realizar uma autenticacao utilizando sua Carteira (hot wallet) ?
+
+<img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## O que você vai precisar ?
 
-Carteira na MetaMesk
+Uma carteira na MetaMesk.
 
 | [<img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=100%><br><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
 | :---: |
@@ -83,7 +87,7 @@ https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s
 
 Investopedia: https://www.investopedia.com/
 
-Banner Img: https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/
+Banner Img: https://moralis.io/wp-content/uploads/2022/07/22_07_How-to-Authenticate-Dapp-Users-with-MetaMask-1.jpg
 
 Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y
 
