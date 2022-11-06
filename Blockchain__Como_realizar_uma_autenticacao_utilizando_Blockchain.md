@@ -2,11 +2,9 @@
 
 > ### Como realizar uma autenticacao utilizando sua Carteira (hot wallet) ?
 
-<img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## O que você vai precisar ?
-
-Blockchain__Tutorial_como_conseguir_tokens_de_test.md
 
 Uma carteira na MetaMesk.
 
