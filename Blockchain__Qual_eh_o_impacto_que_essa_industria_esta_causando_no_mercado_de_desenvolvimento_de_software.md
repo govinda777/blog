@@ -13,7 +13,7 @@ Vamos focar nesse ultimo ponto * Faturamento *.
 
 ## Faturamento : Google Play & App Store
 
-Hoje Google Play, App Store são lojas com um faturamento muilt bilionário.
+Hoje Google Play, App Store são lojas com um faturamento multibilionário.
 
 !["Google Play faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_01.jpeg)
 
@@ -30,7 +30,7 @@ Hoje Google Play, App Store são lojas com um faturamento muilt bilionário.
 
 ## Fato.
 
-Hoje, com as, cripto moedas, é muito fácil você subir uma aplicação utilizando qualquer rede blockchain e realizar uma venda ainda no mesmo dia.
+Hoje, com as cripto moedas, é muito fácil você subir uma aplicação utilizando qualquer rede blockchain e realizar uma venda ainda no mesmo dia.
 
 ## Será que o mercado Cripto conseguirá fazer frente ao mercado de APPs ? Ou cada um tem o seu espaço garantido no mercado ?
 
@@ -38,7 +38,7 @@ Hoje, com as, cripto moedas, é muito fácil você subir uma aplicação utiliza
 
 ## Tutoriais
 
-Aqui estão alguns tutoriais que sinceramente achei incriveis.
+Aqui estão alguns tutoriais que sinceramente achei incríveis.
 
 | [<img src="https://img.youtube.com/vi/LP6mRPBg_4I/0.jpg" width=100%><br><p style="text-align: left">Build OpenSea 2.0 Web3 dApp with Next.js, Replit, thirdweb, Infura, & Tailwind CSS</p>](https://www.youtube.com/watch?v=LP6mRPBg_4I) |
 | :---: |
