@@ -14,7 +14,7 @@ O Zapier é um produto que permite que os usuários finais integrem os aplicativ
 
 ![](./imgs/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_05.jpeg)
 
-## Como integrar e automatizar seus processos de vendas, marketing e operações com o Zapier
+## Integre e automatize seus processos de vendas, marketing e operações com o Zapier
 
 __O que é uma Integração Zapier?__
 
