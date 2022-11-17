@@ -1,3 +1,5 @@
+# EM construção
+
 # [--Blockchain--]
 
 > ### Como a tecnologia esta tentando imitar algumas qualidades divinas

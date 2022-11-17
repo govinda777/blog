@@ -13,6 +13,17 @@ Uma carteira na MetaMesk.
 | [<img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=100%><br><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
 | :---: |
 
+* Estar conectado na Görli Testnet
+
+Dados: 
+
+Rede de testes Goerli
+https://goerli.infura.io/v3/
+5
+GoerliETH
+https://goerli.etherscan.io
+
+
 </details>
 
 ## Passo 1
