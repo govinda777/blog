@@ -26,12 +26,31 @@ Acredito, que a melhor forma de transmissão de um conhecimento, é muito mais e
 
 ![./imgs/Agil__Diagram_as_Code__Comunicacao_visual_costuma_ser_mais_efetiva__Como_facilitar_e_padronizar_uma_comunicacao_visual.jpeg](./imgs/Agil__Diagram_as_Code__Comunicacao_visual_costuma_ser_mais_efetiva__Como_facilitar_e_padronizar_uma_comunicacao_visual.jpeg)
 
-
 ## $$ Conforme_falei_no_Artigo
 
-Dinâmica_Agentes_Racionais
+> ## Dinâmica_Agentes_Racionais
 
-![./img/Agil_Dinamica_Agentes_Racionais.md]("./img/Agil_Dinamica_Agentes_Racionais.md")
+!["./imgs/Agil_Dinamica_Agentes_Racionais.jpeg"]("./imgs/Agil_Dinamica_Agentes_Racionais.jpeg")
+
+
+
+### Como instalar uma ferramenta muito interessante para criação de documentações visuais como código
+
+sudo apt install graphviz
+
+pip install diagrams
+
+
+
+
+------------------------------------------
+
+
+
+
+
+
+
 
 
 ## Regras
