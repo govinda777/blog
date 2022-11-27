@@ -1,41 +1,38 @@
 ![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
 
-# [Agil] - Dinâmica_Agentes_Racionais
+# [Agil] - 
+
+[_Diagram_as_Code_] -
+
+> [_Comunicacao_visual_costuma_ser_mais_efetiva_] - 
+
+>  [_Como_facilitar_e_padronizar_uma_comunicacao_visual_]
 
 ## Resumo
 
-Como talves nos estamos condifionados e ter um pensamento orientado a algo não Racional.
+Acredito, que a melhor forma de transmissão de um conhecimento, é muito mais eficiente atravez de uma figura ou um diagrama.
 
-#Jogo do Ganha Todos#
+## Importancia da comunicação no Ágil.
 
-Dinamica para mostrar para o time que é bem menhor quanto todos Ganham.
+## Importancia da domunicação em uma Empresa (Processos / Documentações / Mapeamentos de Fluxos e Jornadas)
 
-## Tecnico
+## Importancia da Comunicação visual no desenvolvimento de Softwares
 
-### Install
+> Me lembro de um dia um dev me perguntar não to entendendo nada como faço pra entregar a minha tarefa.
 
-sudo apt install graphviz
+> Não tem um diagrama da nossa base de Dados ?
 
-pip install diagrams
+> [Desafios] - Como compartilhar documentações e mantelas atualizadas de forma com que ela faça parte das nossas reuniões , vivas, (Documentações são como um mapa mund, ele não precisa os minimos detalhes, mas precida ter informações suficientes para o navejante chegar ao seu Destino) (Navejante : tripulanter do barco ou tripulantes da empresa) (Destino : Objetivo a ser alcançado)
 
----------------------------------------
-
-# diagram.py (file)
-from diagrams import Diagram
-from diagrams.aws.compute import EC2
-from diagrams.aws.database import RDS
-from diagrams.aws.network import ELB
-
-with Diagram("Web Service", show=False):
-    ELB("lb") >> EC2("web") >> RDS("userdb")
-
------------------------------------------ 
-
-python diagram.py
+![./imgs/Agil__Diagram_as_Code__Comunicacao_visual_costuma_ser_mais_efetiva__Como_facilitar_e_padronizar_uma_comunicacao_visual.jpeg](./imgs/Agil__Diagram_as_Code__Comunicacao_visual_costuma_ser_mais_efetiva__Como_facilitar_e_padronizar_uma_comunicacao_visual.jpeg)
 
 
+## $$ Conforme_falei_no_Artigo
 
-## Responsa %%%%%%%%%%%%%%%%
+Dinâmica_Agentes_Racionais
+
+![./img/Agil_Dinamica_Agentes_Racionais.md]("./img/Agil_Dinamica_Agentes_Racionais.md")
+
 
 ## Regras
 

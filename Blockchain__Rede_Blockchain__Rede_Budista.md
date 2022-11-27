@@ -8,9 +8,13 @@
 
 ## Teia de Indra
 
+Teia de Indra (em sânscrito Indrajāla) é um conseito na cultura Budista onde 
+
 
 
 ![]()
+
+
 
 
 ## Átma
@@ -18,7 +22,7 @@
 Átma, ou Atman, é o termo usado no hinduísmo para alma (espírito, ou consciência) e princípio de vida (sopro). A alma individual é semelhante à alma universal (Brama). No hinduísmo também significa aquilo que é imutável, indivisível e eterno, a verdadeira natureza das coisas.
 O conceito geralmente usado de "Eu Superior", "Ser Espiritual", que está para além do corpo e da mente, aproxima-se ao de Átma.
 
-Como falamos no artigo [Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md](Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md)
+> ### Como falamos no artigo [Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md](Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md)
 os dados de uma Blockchain, são armazenados em cada nó da rede.
 
 ![](./imgs/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_02.png)
