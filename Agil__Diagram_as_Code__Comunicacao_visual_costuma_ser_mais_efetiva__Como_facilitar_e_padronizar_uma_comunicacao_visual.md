@@ -14,6 +14,8 @@ Acredito, que a melhor forma de transmissão de um conhecimento, é muito mais e
 
 ## Importancia da comunicação no Ágil.
 
+Sem dúvidas a comunicação verbal é a melhor formar de comunicação possivel afim de transmitir conhecimento, nela você
+
 ## Importancia da domunicação em uma Empresa (Processos / Documentações / Mapeamentos de Fluxos e Jornadas)
 
 ## Importancia da Comunicação visual no desenvolvimento de Softwares
