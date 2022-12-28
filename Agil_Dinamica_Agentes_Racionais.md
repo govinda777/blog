@@ -4,7 +4,7 @@
 
 ## Resumo
 
-Como talvez nos estamos condifionados e ter um pensamento orientado a algo não Racional.
+Como talvez nos estamos condicionados e ter um pensamento orientado a algo não Racional.
 
 #Jogo do Ganha Todos#
 
