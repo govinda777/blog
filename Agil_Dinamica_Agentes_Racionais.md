@@ -4,36 +4,11 @@
 
 ## Resumo
 
-Como talves nos estamos condifionados e ter um pensamento orientado a algo não Racional.
+Como talvez nos estamos condifionados e ter um pensamento orientado a algo não Racional.
 
 #Jogo do Ganha Todos#
 
-Dinamica para mostrar para o time que é bem menhor quanto todos Ganham.
-
-## Tecnico
-
-### Install
-
-sudo apt install graphviz
-
-pip install diagrams
-
----------------------------------------
-
-# diagram.py (file)
-from diagrams import Diagram
-from diagrams.aws.compute import EC2
-from diagrams.aws.database import RDS
-from diagrams.aws.network import ELB
-
-with Diagram("Web Service", show=False):
-    ELB("lb") >> EC2("web") >> RDS("userdb")
-
------------------------------------------ 
-
-python diagram.py
-
-
+Dinâmica para mostrar para o time que é bem melhor quanto todos Ganham.
 
 ## Responsa %%%%%%%%%%%%%%%%
 
@@ -51,7 +26,7 @@ Como ler a função matemática acima: Suja a somatória , vezes dois terços.
 
 ## Palpites 
 
-* Camila    (idade: 06 anos): 05
+* Camila    (idade: 06 anos): 0
 * Gustavo   (idade: 12 anos): 50
 * Charmander(idade: 01 ano ): 25
 * Bud     (idade: 07 anos): 10
