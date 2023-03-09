@@ -86,6 +86,8 @@ Links:
 
 * [DeFi e a reinvenção do mercado financeiro](https://www.youtube.com/watch?v=m7WvhDX-ex4)
 
+* [A Bitcoin, a Teoria dos Jogos e o Problema dos Generais Bizantinos](https://www.youtube.com/watch?v=MNu1gWj4vz8)
+
 * [Blockchain e Organizações Descentralizadas](https://www.amazon.com.br/gp/product/B07NQPCD98/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)
 
 * [Blockchain with Hyperledger Fabric: Build decentralized applications using Hyperledger Fabric 2, 2nd Edition (English Edition)](https://www.amazon.com.br/gp/product/B08N5CJ6RR/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1)
@@ -95,3 +97,8 @@ Links:
 * [Curso Solidity](https://www.youtube.com/watch?v=baQl-nKSR5o&list=PL-LIyhnUCPkGFeWzGvJDprN84gETd3j3P)
 
 * [Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb](https://www.youtube.com/watch?v=x3eRXeMB-4k&list=WL&index=96)
+
+## Demo
+
+* [Demo-1](https://blockchaindemo.io/)
+* [Demo-2](https://blockchaindemo.io/)
