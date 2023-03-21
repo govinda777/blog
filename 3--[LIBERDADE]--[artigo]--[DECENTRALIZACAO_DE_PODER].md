@@ -1,3 +1,5 @@
+<img src="./imgs/3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER].jpeg" height="100%" width="100%" alt="Unform" />
+
 # 3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER]
 
 ## **Visão Filosófica** : O que a filosofia fala sobre a decentralização de poder?
