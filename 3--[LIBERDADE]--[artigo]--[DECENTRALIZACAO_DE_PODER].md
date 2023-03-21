@@ -1,6 +1,6 @@
 # 3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER]
 
-## O que a filosofia fala sobre a decentralização de poder?
+## **Visão Filosófica**O que a filosofia fala sobre a decentralização de poder?
 
 A filosofia política tem debatido a questão da decentralização de poder há séculos. Existem várias perspectivas filosóficas diferentes sobre a decentralização de poder, mas algumas das ideias mais comuns incluem:
 
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=f1QeK2R4EA8
 
 kkkk, os Sofistas.
 
-## top 10 pensamentos de Platão.
+### top 10 pensamentos de Platão.
 
 Pensamentos de Platão que continuam a ser influentes até hoje:
 
@@ -44,7 +44,7 @@ Pensamentos de Platão que continuam a ser influentes até hoje:
 
 Estes pensamentos de Platão ilustram sua visão da filosofia, da verdade, da moralidade, da política e da vida. Eles continuam a ser debatidos e estudados até hoje e são considerados importantes para a compreensão da filosofia antiga e da história da filosofia ocidental.
 
-## Principais pensamentos de Socrates.
+### Principais pensamentos de Socrates.
 
 Sócrates foi um filósofo grego antigo conhecido como um dos mais importantes precursores da filosofia ocidental. Aqui estão alguns de seus pensamentos mais conhecidos:
 
@@ -64,7 +64,7 @@ Sócrates foi um filósofo grego antigo conhecido como um dos mais importantes p
 
 Estes pensamentos de Sócrates ilustram sua abordagem humilde e questionadora da vida e do conhecimento e sua crença na importância da virtude e do diálogo para alcançar a verdade e a sabedoria. Eles continuam a ser influentes na filosofia e em muitos outros campos até hoje.
 
-## O que a filosofia fala sobre a decentralização de poder.
+### O que a filosofia fala sobre a decentralização de poder.
 
 A filosofia política tem debatido a questão da decentralização de poder há séculos. Existem várias perspectivas filosóficas diferentes sobre a decentralização de poder, mas algumas das ideias mais comuns incluem:
 
@@ -76,7 +76,7 @@ A filosofia política tem debatido a questão da decentralização de poder há 
 
 Estes são apenas alguns exemplos das perspectivas filosóficas sobre a decentralização de poder. É importante notar que muitos filósofos políticos apoiam a decentralização de poder, mas também acreditam que é importante equilibrar a decentralização com a necessidade de coesão e unidade na sociedade. Em última análise, a questão da decentralização de poder é complexa e depende de uma série de fatores, incluindo as circunstâncias políticas, sociais e históricas de uma sociedade.
 
-## Como a blockchain poderia ajudar na desentralização do poder ?
+## **Visão Libertária** : Como a blockchain poderia ajudar na desentralização do poder ?
 
 A blockchain é uma tecnologia distribuída que permite a criação de registros imutáveis ​​e seguros em uma rede descentralizada. Isso significa que não há necessidade de um intermediário central para verificar e validar as transações. Algumas formas pelas quais a blockchain pode ajudar na decentralização do poder incluem:
 
@@ -89,5 +89,21 @@ A blockchain é uma tecnologia distribuída que permite a criação de registros
 * **Voto eletrônico:** A blockchain pode ser usada para criar sistemas de voto eletrônico seguros e transparentes, que ajudam a garantir a integridade do processo eleitoral e a reduzir a concentração de poder nas mãos de poucas pessoas.
 
 Estes são apenas alguns exemplos das formas pelas quais a blockchain pode ajudar na decentralização do poder. No entanto, é importante notar que a blockchain ainda é uma tecnologia em desenvolvimento e que a sua aplicação na política e no governo ainda está em sua infância. Além disso, a implementação da blockchain na política e no governo enfrenta vários desafios, incluindo questões de privacidade, segurança e regulamentação.
+
+## **Visão Biblica** : O Leviatã (Poderoso Monstro Bíblico chamado Leviatã)
+
+O Leviatã é um monstro bíblico mencionado na Bíblia, especificamente no livro de Job e no livro de Isaías. O Leviatã é descrito como um ser poderoso e temido, com descrições que sugerem que ele é um tipo de monstro marinho ou réptil.
+
+Na filosofia, o Leviatã é mais conhecido pelo filósofo inglês Thomas Hobbes, que o usou como uma metáfora para o Estado. Em seu livro "Leviatã", Hobbes argumenta que o Estado é necessário para controlar a sociedade e evitar a "guerra de todos contra todos". Ele acreditava que a figura do Leviatã representava o poder absoluto do Estado e a necessidade de um único poder central para controlar a sociedade e manter a paz.
+
+Além disso, o Leviatã também é interpretado de forma diferente por diferentes filósofos e teólogos. Alguns o interpretam como um símbolo do mal e do pecado, enquanto outros o interpretam como uma representação da natureza humana desenfreada e do poder da sociedade sobre o indivíduo.
+
+Em resumo, o Leviatã é uma figura complexa e multifacetada na literatura bíblica e na filosofia. Ele é visto como um símbolo do poder, da autoridade, da natureza humana e do mal, dependendo da perspectiva do autor ou do leitor.
+
+## O Leviatã e o Estado.
+
+O Leviatã na filosofia de Thomas Hobbes é uma figura que representa o poder do Estado sobre os indivíduos. Hobbes acredita que o Estado deve ter poder absoluto para manter a paz e evitar a guerra entre as pessoas. Isso significa que o Estado teria poder para limitar e controlar os indivíduos. No entanto, essa visão é controversa e muitas pessoas acreditam que o poder do Estado deve ser limitado para proteger a liberdade individual.
+
+
 
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
