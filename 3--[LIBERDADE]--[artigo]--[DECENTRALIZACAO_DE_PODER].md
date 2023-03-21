@@ -2,6 +2,24 @@
 
 # [LIBERDADE] [DECENTRALIZACAO_DE_PODER]
 
+## Resumo
+
+O artigo aborda diferentes perspectivas sobre a descentralização de poder a partir de uma visão filosófica, libertária e bíblica. Na visão filosófica, o texto explora como a descentralização de poder é vista por diferentes filósofos, como John Locke, Jean-Jacques Rousseau, Aristotle, John Rawls, e Robert Nozick, como um meio de proteger a liberdade individual, aumentar a participação cidadã e garantir a justiça distributiva. Na visão libertária, o artigo explora como a tecnologia blockchain pode ajudar na descentralização do poder por meio da transparência, descentralização, participação cidadã e voto eletrônico. Na visão bíblica, o artigo discute a figura do Leviatã, que é interpretado de diferentes formas pelos filósofos e teólogos, mas é mais conhecido como uma metáfora para o Estado pelo filósofo Thomas Hobbes, que argumenta que o Estado é necessário para controlar a sociedade e evitar a guerra de todos contra todos, **no entanto, essa visão é controversa e muitas pessoas acreditam que o poder do Estado deve ser limitado para proteger a liberdade individual.**
+
+## Por que o poder do Estado tem que ser limitado?
+
+Existem várias razões pelas quais algumas pessoas acreditam que o poder do Estado deve ser limitado. Aqui estão algumas das principais razões:
+
+**Proteção dos direitos individuais:** Limitar o poder do Estado é uma maneira de proteger os direitos individuais e garantir que o Estado não exceda seus limites em relação à liberdade, privacidade e propriedade dos cidadãos.
+
+**Prevenção de abuso de poder:** Quando o Estado tem muito poder, há um risco maior de abuso de poder por parte dos líderes políticos e funcionários públicos. A limitação do poder do Estado ajuda a prevenir esse abuso e proteger os cidadãos contra a tirania.
+
+**Promoção da democracia:** Limitar o poder do Estado é uma maneira de promover a democracia e garantir que o poder seja distribuído de maneira mais justa entre os cidadãos. Isso permite que mais pessoas tenham voz no processo político e ajuda a evitar a concentração de poder nas mãos de poucos.
+
+**Estímulo ao livre mercado:** Quando o Estado tem muito poder, pode interferir no livre mercado e limitar a concorrência. A limitação do poder do Estado ajuda a promover um ambiente de livre mercado mais justo e competitivo.
+
+**Proteção contra o autoritarismo:** A limitação do poder do Estado é uma maneira de proteger contra o autoritarismo e a ditadura, garantindo que o poder seja distribuído e controlado de maneira mais equilibrada entre as diferentes instituições e órgãos do governo.
+
 ## **Visão Filosófica** : O que a filosofia fala sobre a decentralização de poder?
 
 A filosofia política tem debatido a questão da decentralização de poder há séculos. Existem várias perspectivas filosóficas diferentes sobre a decentralização de poder, mas algumas das ideias mais comuns incluem:
