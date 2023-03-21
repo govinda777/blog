@@ -1,6 +1,6 @@
 # 3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER]
 
-## **Visão Filosófica** O que a filosofia fala sobre a decentralização de poder?
+## **Visão Filosófica** : O que a filosofia fala sobre a decentralização de poder?
 
 A filosofia política tem debatido a questão da decentralização de poder há séculos. Existem várias perspectivas filosóficas diferentes sobre a decentralização de poder, mas algumas das ideias mais comuns incluem:
 
@@ -100,7 +100,7 @@ Além disso, o Leviatã também é interpretado de forma diferente por diferente
 
 Em resumo, o Leviatã é uma figura complexa e multifacetada na literatura bíblica e na filosofia. Ele é visto como um símbolo do poder, da autoridade, da natureza humana e do mal, dependendo da perspectiva do autor ou do leitor.
 
-## O Leviatã e o Estado.
+### O Leviatã e o Estado.
 
 O Leviatã na filosofia de Thomas Hobbes é uma figura que representa o poder do Estado sobre os indivíduos. Hobbes acredita que o Estado deve ter poder absoluto para manter a paz e evitar a guerra entre as pessoas. Isso significa que o Estado teria poder para limitar e controlar os indivíduos. No entanto, essa visão é controversa e muitas pessoas acreditam que o poder do Estado deve ser limitado para proteger a liberdade individual.
 
