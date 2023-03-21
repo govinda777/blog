@@ -1,6 +1,6 @@
 # 3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER]
 
-## **Visão Filosófica**O que a filosofia fala sobre a decentralização de poder?
+## **Visão Filosófica** O que a filosofia fala sobre a decentralização de poder?
 
 A filosofia política tem debatido a questão da decentralização de poder há séculos. Existem várias perspectivas filosóficas diferentes sobre a decentralização de poder, mas algumas das ideias mais comuns incluem:
 
