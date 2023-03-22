@@ -4,6 +4,15 @@
 
 # [Ágil](./Agil_Entendendo_Seu_Comportamento-pt.md) - O que Ética e Moral tem haver com Liberdade ?
 
+A ética e a moral são conceitos que se relacionam com o comportamento humano e as decisões que tomamos em relação a ele. Ambas envolvem um conjunto de valores, normas e princípios que orientam nossas ações e nos ajudam a distinguir o certo do errado.
+
+A liberdade, por sua vez, refere-se à capacidade de agir de acordo com nossa própria vontade e sem restrições externas. Ela é um valor fundamental em muitas sociedades democráticas e é vista como um direito inalienável do ser humano.
+
+Embora a ética e a moral possam parecer opostas à liberdade, elas na verdade têm uma relação intrínseca com ela. Isso porque a liberdade sem limites pode levar a comportamentos imorais ou antiéticos que prejudicam outras pessoas ou a sociedade como um todo.
+
+Por exemplo, uma pessoa pode sentir-se livre para mentir ou enganar os outros, mas isso pode ser considerado antiético ou imoral em muitas culturas. Portanto, a ética e a moral servem como um guia para limitar a liberdade individual em nome do bem comum.
+
+Por outro lado, a ética e a moral também podem ajudar a proteger e promover a liberdade individual. Isso acontece porque quando as pessoas agem de acordo com padrões éticos e morais, elas criam um ambiente de confiança e respeito mútuo que é essencial para a preservação da liberdade e da justiça.
 
 
 Ética e Moral, não tem relação com limitar ou restringir a liberdade, pelo contrário, a liberdade é um elemento essencial para com que os mesmos ocorram. Quando não há liberdade de escolha, não há moral.
