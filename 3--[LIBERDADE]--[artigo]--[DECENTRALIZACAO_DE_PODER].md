@@ -32,15 +32,9 @@ A filosofia política tem debatido a questão da decentralização de poder há 
 
 Estes são apenas alguns exemplos das perspectivas filosóficas sobre a decentralização de poder. É importante notar que muitos filósofos políticos apoiam a decentralização de poder, mas também acreditam que é importante equilibrar a decentralização com a necessidade de coesão e unidade na sociedade. Em última análise, a questão da decentralização de poder é complexa e depende de uma série de fatores, incluindo as circunstâncias políticas, sociais e históricas de uma sociedade.
 
-### Referencias :
+### Pensamentos de Platão.
 
-https://www.youtube.com/watch?v=f1QeK2R4EA8
-
-kkkk, os Sofistas.
-
-### top 10 pensamentos de Platão.
-
-Pensamentos de Platão que continuam a ser influentes até hoje:
+Vamos rever alguns dos principais pensamentos Filosóficos.
 
 * **"Não se pode aprender nada novo através da palavra, mas apenas lembrar."** - Platão acreditava que o conhecimento verdadeiro não pode ser adquirido através da aprendizagem sensorial, mas sim através da memória das ideias eternas.
 
@@ -62,11 +56,9 @@ Pensamentos de Platão que continuam a ser influentes até hoje:
 
 * **"A política é a arte de governar a cidade com justiça."** - Platão acreditava que a política é a arte de governar a cidade com justiça e que os filósofos devem governar as cidades para garantir a justiça.
 
-Estes pensamentos de Platão ilustram sua visão da filosofia, da verdade, da moralidade, da política e da vida. Eles continuam a ser debatidos e estudados até hoje e são considerados importantes para a compreensão da filosofia antiga e da história da filosofia ocidental.
+### Pensamentos de Socrates.
 
-### Principais pensamentos de Socrates.
-
-Sócrates foi um filósofo grego antigo conhecido como um dos mais importantes precursores da filosofia ocidental. Aqui estão alguns de seus pensamentos mais conhecidos:
+Sócrates foi um filósofo grego antigo conhecido como um dos mais importantes precursores da filosofia ocidental.
 
 * **"Eu só sei que nada sei."** - Sócrates acreditava que a humildade era importante para alcançar o conhecimento e que a consciência de sua ignorância era o primeiro passo para a sabedoria.
 
@@ -83,18 +75,6 @@ Sócrates foi um filósofo grego antigo conhecido como um dos mais importantes p
 * **"Não faças ao outro o que não gostarias que te fizessem."** - Sócrates acreditava no princípio da reciprocidade e que as ações de uma pessoa devem ser baseadas no que ela gostaria que fizessem a ela.
 
 Estes pensamentos de Sócrates ilustram sua abordagem humilde e questionadora da vida e do conhecimento e sua crença na importância da virtude e do diálogo para alcançar a verdade e a sabedoria. Eles continuam a ser influentes na filosofia e em muitos outros campos até hoje.
-
-### O que a filosofia fala sobre a decentralização de poder.
-
-A filosofia política tem debatido a questão da decentralização de poder há séculos. Existem várias perspectivas filosóficas diferentes sobre a decentralização de poder, mas algumas das ideias mais comuns incluem:
-
-* **Liberdade política:** Alguns filósofos, como John Locke e Jean-Jacques Rousseau, acreditam que a decentralização de poder é importante para proteger a liberdade individual. Eles argumentam que o poder centralizado tende a ser opressivo e que a dispersão do poder entre várias fontes garante a liberdade política.
-
-* **Participação cidadã:** Outros filósofos, como Aristotle e Rousseau, acreditam que a decentralização de poder é importante para a participação cidadã ativa. Eles argumentam que quando os cidadãos têm uma voz no processo político, eles são mais propensos a se sentirem responsáveis ​​pela sociedade e a trabalhar juntos para o bem comum.
-
-* **Justiça distributiva:** Ainda outros filósofos, como John Rawls e Robert Nozick, argumentam que a decentralização de poder é importante para garantir a justiça distributiva. Eles argumentam que o poder centralizado tende a ser concentrado nas mãos de poucas pessoas e que a dispersão do poder entre várias fontes é mais justa para todos.
-
-Estes são apenas alguns exemplos das perspectivas filosóficas sobre a decentralização de poder. É importante notar que muitos filósofos políticos apoiam a decentralização de poder, mas também acreditam que é importante equilibrar a decentralização com a necessidade de coesão e unidade na sociedade. Em última análise, a questão da decentralização de poder é complexa e depende de uma série de fatores, incluindo as circunstâncias políticas, sociais e históricas de uma sociedade.
 
 ## **Visão Libertária** : Como a blockchain poderia ajudar na desentralização do poder ?
 
@@ -118,12 +98,10 @@ Na filosofia, o Leviatã é mais conhecido pelo filósofo inglês Thomas Hobbes,
 
 Além disso, o Leviatã também é interpretado de forma diferente por diferentes filósofos e teólogos. Alguns o interpretam como um símbolo do mal e do pecado, enquanto outros o interpretam como uma representação da natureza humana desenfreada e do poder da sociedade sobre o indivíduo.
 
-Em resumo, o Leviatã é uma figura complexa e multifacetada na literatura bíblica e na filosofia. Ele é visto como um símbolo do poder, da autoridade, da natureza humana e do mal, dependendo da perspectiva do autor ou do leitor.
-
 ### O Leviatã e o Estado.
 
-O Leviatã na filosofia de Thomas Hobbes é uma figura que representa o poder do Estado sobre os indivíduos. Hobbes acredita que o Estado deve ter poder absoluto para manter a paz e evitar a guerra entre as pessoas. Isso significa que o Estado teria poder para limitar e controlar os indivíduos. No entanto, essa visão é controversa e muitas pessoas acreditam que o poder do Estado deve ser limitado para proteger a liberdade individual.
+O Leviatã na filosofia de Thomas Hobbes é uma figura que representa o poder do Estado sobre os indivíduos. Hobbes acredita que o Estado deve ter poder absoluto para manter a paz e evitar a guerra entre as pessoas. Isso significa que o Estado teria poder para limitar e controlar os indivíduos. No entanto, essa visão é controversa, acreditamos que o poder do Estado deve ser limitado para proteger a liberdade individual.
 
+## Referencias :
 
-
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
+https://www.youtube.com/watch?v=f1QeK2R4EA8
