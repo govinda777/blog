@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./imgs/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="50%" width="100%" alt="Unform" />
+<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%" alt="Unform" />
 </p>
 
 # Aplicações WEB3 Blockchain e a Revolução na Produtividade dos Desenvolvedores
