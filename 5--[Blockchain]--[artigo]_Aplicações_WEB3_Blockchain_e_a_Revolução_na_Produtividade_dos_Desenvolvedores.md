@@ -2,8 +2,6 @@
 <img src="./imgs/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="50%" width="100%" alt="Unform" />
 </p>
 
-# [Ágil](./Agil_Entendendo_Seu_Comportamento-pt.md) - O que Ética e Moral tem haver com Liberdade ?
-
 # Aplicações WEB3 Blockchain e a Revolução na Produtividade dos Desenvolvedores
 
 A evolução da tecnologia tem um impacto significativo no modo como desenvolvemos software. Com o surgimento de aplicações WEB3 e blockchain, a produtividade dos desenvolvedores aumentou consideravelmente, e a tendência do futuro é que o desenvolvimento de software se torne cada vez mais simples. Neste cenário, a construção de softwares baseados em comunidades e redes se tornará cada vez mais importante.
