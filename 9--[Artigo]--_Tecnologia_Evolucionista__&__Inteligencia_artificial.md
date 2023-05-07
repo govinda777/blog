@@ -1,4 +1,4 @@
-# Título: O Dilema da Tecnologia e a Convivência com Inteligências Artificiais: Progresso ou Perigo?
+# O Dilema da Tecnologia e a Convivência com Inteligências Artificiais: Progresso ou Perigo?
 
 ## Parte 1: Comentário sobre a notícia
 
