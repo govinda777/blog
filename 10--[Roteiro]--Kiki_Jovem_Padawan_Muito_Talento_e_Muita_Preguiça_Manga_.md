@@ -1,6 +1,8 @@
-Roteiro do Manga "Kiki Jovem Padawan, Muito Talento e Muita Preguiça"
+<img src="./imgs/10--[Roteiro]--Kiki_Jovem_Padawan_Muito_Talento_e_Muita_Preguiça_Manga_.jpeg" height="100%" width="100%" alt="Unform" />
 
-Capítulo 1: "A bronca de Ganesha"
+# Roteiro do Manga "Kiki Jovem Padawan, Muito Talento e Muita Preguiça"
+
+## Capítulo 1: "A bronca de Ganesha"
 
 Kiki está em seu quarto, jogando videogame, quando é surpreendido pela entrada de seu pai, Ganesha.
 
@@ -14,7 +16,7 @@ Kiki: (pensando) Ai que chato, lá vem ele de novo com esses sermões.
 
 Ganesha explica a história da formiga e a cigarra, mostrando que é importante se esforçar e trabalhar duro para alcançar objetivos na vida.
 
-Capítulo 2: "O treinamento"
+## Capítulo 2: "O treinamento"
 
 Kiki se sente desmotivado, mas Ganesha o convence a treinar artes marciais para ajudá-lo a focar mais e desenvolver disciplina.
 
@@ -26,7 +28,7 @@ Ganesha: Sim, um aprendiz. Vou te ensinar a força.
 
 Kiki aprende os princípios das artes marciais e começa a aplicá-los na vida cotidiana.
 
-Capítulo 3: "A competição"
+## Capítulo 3: "A competição"
 
 Kiki se inscreve em uma competição de artes marciais e começa a treinar duro para vencer.
 
@@ -36,7 +38,7 @@ Ganesha: (orgulhoso) Ele está usando tudo o que eu ensinei a ele.
 
 Kali: (emocionada) Meu filho está crescendo...
 
-Capítulo 4: "A vitória"
+## Capítulo 4: "A vitória"
 
 Kiki vence a competição, mostrando que com dedicação e esforço é possível alcançar grandes conquistas.
 
