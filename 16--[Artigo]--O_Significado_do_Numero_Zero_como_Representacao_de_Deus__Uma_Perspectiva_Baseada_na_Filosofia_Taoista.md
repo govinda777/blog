@@ -2,8 +2,6 @@
 
 <img src="./imgs/16--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="20%" width="20%" alt="Unform" />
 
-O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista
-
 # O Significado do Número Zero como Representação de Deus: Uma Perspectiva Baseada na Filosofia Taoísta
 
 Introdução:
