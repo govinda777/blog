@@ -1,5 +1,7 @@
 # A Incrível Capacidade que os Governos têm de Transformar Atos Pacíficos em Crimes: Uma Perspectiva da Escola Austríaca de Economia
 
+<img src="./imgs/13--[Artigo]--A_incrivel_capacidade_que_os_Governos_tem_de_transformar_Atos_Pacificos_em_Crimes__Uma_Perspectiva_da_Escola Austriaca_de_Economia.png" height="100%" width="100%" alt="Unform" />
+
 ## Introdução
 
 A autoridade estatal tem a capacidade controversa de transformar atos pacíficos em crimes. Autores da Escola Austríaca de Economia como Friedrich Hayek, Ludwig von Mises e Murray Rothbard, destacam a liberdade individual e o livre mercado como motores do progresso. Este artigo discutirá como governos podem transformar atos pacíficos em crimes. Analisaremos exemplos, como tabelamento de preços, controle de câmbio e restrições à liberdade de expressão.

@@ -1,3 +1,7 @@
+
+
+<img src="./imgs/14--[Artigo]--Liberdade_e_Inovacao__Como_a_Humanidade_Adquiriu_a_Capacidade_de_Desestatização_do_Dinheiro.png" height="100%" width="100%" alt="Unform" />
+
 # Liberdade e Inovação: Como a Humanidade Adquiriu a Capacidade de Desestatização do Dinheiro
 
 > ## "Como a Humanidade Está Tirando o Estado do Seu Dinheiro"
