@@ -49,3 +49,5 @@ Em resumo, governos ao redor do mundo têm o poder de transformar atos pacífico
 A liberdade é um direito inalienável de todo indivíduo. Nesse sentido, é preciso questionar e resistir a todas as formas de autoridade estatal que limitam essa liberdade. Somente assim será possível alcançar uma sociedade verdadeiramente livre e próspera.
 
 No final, como disse Friedrich Hayek: "Nada é mais importante para a preservação de uma sociedade livre do que impedir que poder ou coerção monopolísticos se tornem fortes demais." A mensagem é clara - é hora de recuperar nossas liberdades e resistir à criminalização de atos pacíficos pelos governos. A luta pela liberdade continua.
+
+[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
