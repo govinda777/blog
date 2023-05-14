@@ -1,6 +1,6 @@
 
 
-<img src="./imgs/16--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/16--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="20%" width="20%" alt="Unform" />
 
 O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista
 
