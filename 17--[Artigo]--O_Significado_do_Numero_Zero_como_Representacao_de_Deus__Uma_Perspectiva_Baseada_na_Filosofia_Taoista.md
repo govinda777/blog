@@ -1,11 +1,10 @@
 # Por que Profissionais do Serviço Social devem Estudar a Tecnologia Web3
 
+<img src="./imgs/17--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="50%" width="50%" alt="Unform" />
+
 *Uma Nova Era para Transformação Social*
 
 *Por Govinda Systems*
-
-![Imagem ilustrativa](./imgs/17--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png)
-
 
 A tecnologia está em constante evolução e, no campo do Serviço Social, não é diferente. Nesse contexto, a tecnologia Web3 tem se destacado como uma ferramenta poderosa para transformação social. Neste artigo, discutiremos a importância do estudo da Web3 para os profissionais do Serviço Social e como ela pode abrir novos horizontes para sua atuação.
 
