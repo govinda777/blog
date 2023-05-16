@@ -1,6 +1,6 @@
 
 
-<img src="./imgs/14--[Artigo]--Liberdade_e_Inovacao__Como_a_Humanidade_Adquiriu_a_Capacidade_de_Desestatização_do_Dinheiro.png" height="100%" width="100%" alt="Unform" />
+<img src="./imgs/14--[Artigo]--Liberdade_e_Inovacao__Como_a_Humanidade_Adquiriu_a_Capacidade_de_Desestatização_do_Dinheiro.png" height="50%" width="50%" alt="Unform" />
 
 
 # A Contradição do Salário Mínimo: Uma Perspectiva Anarcocapitalista
