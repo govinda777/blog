@@ -4,8 +4,6 @@
 
 *Uma Nova Era para Transformação Social*
 
-*Por Govinda Systems*
-
 A tecnologia está em constante evolução e, no campo do Serviço Social, não é diferente. Nesse contexto, a tecnologia Web3 tem se destacado como uma ferramenta poderosa para transformação social. Neste artigo, discutiremos a importância do estudo da Web3 para os profissionais do Serviço Social e como ela pode abrir novos horizontes para sua atuação.
 
 ## A Web3 e seus Benefícios

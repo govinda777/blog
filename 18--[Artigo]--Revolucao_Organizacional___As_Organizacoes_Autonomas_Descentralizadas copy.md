@@ -4,8 +4,6 @@
 
 *As Organizações Autônomas Descentralizadas*
 
-*Por Govinda Systems*
-
 A humanidade sempre teve uma relação fascinante com a inovação tecnológica. Desde a invenção da roda até a chegada da Internet, cada nova tecnologia moldou a forma como vivemos, trabalhamos e interagimos uns com os outros. Hoje, estamos testemunhando outra revolução tecnológica em andamento: a ascensão das Organizações Autônomas Descentralizadas (DAOs).
 
 As DAOs são estruturas organizacionais baseadas em blockchain que permitem a tomada de decisões de forma coletiva e descentralizada. Estamos vendo uma grande variedade de DAOs surgindo, cada uma com sua própria estrutura de governança, objetivos e projetos que buscam apoiar. Elas são como navios na vasta oceanos da economia digital, cada uma com seu próprio curso e tripulação.
