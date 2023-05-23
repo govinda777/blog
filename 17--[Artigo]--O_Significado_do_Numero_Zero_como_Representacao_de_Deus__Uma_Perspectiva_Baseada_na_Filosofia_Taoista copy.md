@@ -1,6 +1,8 @@
-# Por que Profissionais do Serviço Social devem Estudar a Tecnologia Web3
-
+<p align="center">
 <img src="./imgs/17--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+# Por que Profissionais do Serviço Social devem Estudar a Tecnologia Web3
 
 *Uma Nova Era para Transformação Social*
 

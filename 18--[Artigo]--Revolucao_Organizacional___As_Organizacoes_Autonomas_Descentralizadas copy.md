@@ -1,6 +1,8 @@
 # Revolução Organizacional: 
 
+<p align="center">
 <img src="./imgs/18--[Artigo]--Revolucao_Organizacional___As_Organizacoes_Autonomas_Descentralizadas.png" height="50%" width="50%" alt="Unform" />
+</p>
 
 *As Organizações Autônomas Descentralizadas*
 
