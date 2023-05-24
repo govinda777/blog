@@ -50,19 +50,6 @@ Como Satoshi Nakamoto levou tão a serio essa questão de decentralização (nin
 
 As criptomoedas estão ganhando cada vez mais destaque no mundo financeiro e tecnológico. Duas das moedas digitais mais conhecidas e amplamente utilizadas são o Bitcoin e o Ethereum. Cada uma delas possui características e usos distintos que as tornam únicas e relevantes em suas respectivas áreas.
 
-```mermaid
-erDiagram
-    Bitcoin ||..|{ Lastro
-    Bitcoin ||..|{ Confiança
-    Bitcoin ||--|{ Liquidez
-    Bitcoin ||..|{ Meio de troca
-    Bitcoin ||..|{ Reserva de valor
-    Ethereum ||..|{ Contratos inteligentes
-    Ethereum ||..|{ Aplicações descentralizadas
-    Ethereum ||--|{ Tokenização de Ativos
-    Ethereum ||..|{ Participação em DAOs
-```
-
 ## Bitcoin: O Ouro Digital
 
 O Bitcoin é frequentemente chamado de "ouro digital" devido à sua semelhança com o metal precioso. Ele apresenta características que o tornam uma moeda forte e atraente para os investidores e entusiastas das criptomoedas. Alguns dos principais aspectos do Bitcoin incluem:
