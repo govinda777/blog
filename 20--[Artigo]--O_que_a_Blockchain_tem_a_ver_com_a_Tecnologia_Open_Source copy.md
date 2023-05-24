@@ -6,13 +6,11 @@
 
 > ## A transparência das transações
 
-Os benefícios da transparência da Comunicação (transações abertas) para a evolução do Ecossistema tecnológico.
-
 A blockchain é uma estrutura de dados distribuída, onde as transações são registradas em blocos e encadeadas sequencialmente. Esses blocos são compartilhados e armazenados em uma rede de computadores, conhecida como rede descentralizada. Uma das características marcantes da blockchain é a sua transparência, pois todas as transações são visíveis para todos os participantes da rede.
 
 Da mesma forma, o open source promove a transparência na tecnologia. O código aberto permite que qualquer pessoa tenha acesso ao código-fonte de um software, podendo estudá-lo, modificá-lo e distribuí-lo livremente. Essa abertura possibilita uma maior transparência no desenvolvimento de soluções tecnológicas.
 
-## Benefícios da transparência
+## Benefícios da transparência código aberto
 
 A transparência proporcionada pela blockchain e pelo open source trazem uma série de benefícios para o ecossistema tecnológico:
 
@@ -32,9 +30,13 @@ A transparência na blockchain e a disponibilidade do código-fonte no open sour
 
 A interseção entre a tecnologia blockchain e o open source tem o potencial de revolucionar ainda mais o ecossistema tecnológico. Com a crescente adoção da blockchain em diferentes setores, é possível vislumbrar um futuro em que a transparência das transações e a colaboração open source se tornem a base para soluções inovadoras e confiáveis. A combinação desses dois elementos oferece uma poderosa combinação de segurança, colaboração e acessibilidade, abrindo portas para um mundo tecnológico mais justo e inclusivo.
 
+### O que é dinheiro? 
+
+O dinheiro é um meio de troca amplamente aceito para aquisição de bens e serviços. Também é usado como uma reserva de valor para aquisição de bens e serviços no futuro. O dinheiro é um ativo líquido, o que significa que pode ser facilmente convertido em outros ativos ou usado para pagamentos imediatos.
+
 ## O Valor do Dinheiro
 
-Até então o dinheiro possuia 6 valores principais
+Para entendermos o valor que o Bitcoin trouxe a humanidade precisamos entender o que é o dinheiro e qual o seu valor.
 
 **Lastro:** O lastro é um valor tangível que apoia a moeda, como metais preciosos (ouro, prata) ou ativos reais. No passado, muitas moedas eram lastreadas por uma quantidade específica de um determinado metal precioso, fornecendo uma base física para o valor do dinheiro.
 
@@ -48,7 +50,7 @@ Até então o dinheiro possuia 6 valores principais
 
 **Liquidez:** O dinheiro é altamente líquido, o que significa que pode ser facilmente convertido em outros ativos ou usado para pagamentos imediatos. Sua liquidez proporciona flexibilidade e agilidade nas transações financeiras.
 
-# Visão Libertária
+## Visão Libertária
 
 ## O que o anonimato de transações trará de benefícios a liberdade dos indivíduos.
 
@@ -64,33 +66,20 @@ A possibilidade de realizar transações financeiras sem revelar a identidade tr
 
 **Acesso a serviços financeiros:** Para certos grupos de pessoas, especialmente em regiões onde o acesso a serviços financeiros é limitado, o anonimato nas transações pode abrir oportunidades para participar da economia digital. Isso pode incluir pessoas desbancarizadas, migrantes, refugiados ou qualquer pessoa que enfrente barreiras para o acesso a serviços financeiros tradicionais.
 
-## Transações anonimas na blockchain
+## Mas já que as transações são abertas a todos na Blockchain, como é garantida a anonimidade dos utilizadores?
 
+Embora as transações na blockchain sejam visíveis a todos, a anonimidade dos usuários é garantida por meio de várias técnicas utilizadas nas criptomoedas, como o Bitcoin. Vou explicar algumas delas:
 
- 
-```mermaid
-erDiagram
-    Bitcoin ||..|{ Lastro
-    Bitcoin ||..|{ Confiança
-    Bitcoin ||--|{ Liquidez
-    Bitcoin ||..|{ Meio de troca
-    Bitcoin ||..|{ Reserva de valor
-    Ethereum ||..|{ Contratos inteligentes
-    Ethereum ||..|{ Aplicações descentralizadas
-    Ethereum ||--|{ Tokenização de Ativos
-    Ethereum ||..|{ Participação em DAOs
-```
+1. Pseudônimos: Os usuários na blockchain são identificados por endereços públicos, que são pseudônimos. Em vez de usar nomes reais, as transações são vinculadas a esses endereços, o que ajuda a preservar a privacidade dos usuários.
 
-> Diagrama de entidade e relacionamento (erDiagram) que mostra a relação entre Bitcoin e suas características, bem como a relação entre Ethereum e suas características.
+2. Chaves Criptográficas: Cada usuário possui um par de chaves criptográficas: uma chave pública e uma chave privada. A chave pública é usada para criar o endereço público e pode ser compartilhada com outros usuários para receber pagamentos. A chave privada é mantida em sigilo e é usada para assinar transações, provando que o usuário tem controle sobre os fundos.
 
+3. Transações Multissig: As transações de Bitcoin podem ser configuradas com várias assinaturas (multissig), o que significa que várias partes devem concordar para que a transação seja concluída. Isso pode fornecer uma camada adicional de anonimato, pois não é possível identificar qual parte específica está envolvida em uma transação.
 
-## Reference
+4. Endereços Descartáveis: Alguns usuários optam por usar endereços descartáveis para cada transação que realizam. Isso dificulta a vinculação de várias transações a um único usuário, aumentando a privacidade.
 
-https://www.youtube.com/watch?v=qFgOHZevSE4
+5. Mixers/Tumblers: Mixers ou tumblers são serviços que misturam as transações de diferentes usuários para dificultar o rastreamento das transações. Eles embaralham os fundos de várias pessoas antes de enviá-los para os endereços de destino, tornando mais difícil rastrear a origem dos fundos.
 
-https://www.youtube.com/watch?v=0O-quwBBcDI
-
-https://www.youtube.com/watch?v=C2LjXrKEy18&t=43s
-
+É importante observar que, embora essas técnicas forneçam um certo grau de anonimato, elas não são totalmente infalíveis. Se houver uma análise cuidadosa e detalhada da blockchain, é possível traçar padrões e relações entre endereços e transações. Portanto, é fundamental que os usuários estejam cientes das limitações da anonimidade e tomem medidas adicionais, como o uso de carteiras e serviços de privacidade especializados, para proteger sua identidade e privacidade ao realizar transações na blockchain.
 
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
