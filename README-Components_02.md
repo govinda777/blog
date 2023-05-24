@@ -153,7 +153,7 @@ tkinter.messagebox.askyesnocancel(title="[title]", message="""
 
 Here is a simple flow chart:
 
-```mermaid
+``` mermaid
 graph TD;
     A-->B;
     A-->C;
