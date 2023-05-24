@@ -1,7 +1,7 @@
 # O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin
 
 <p align="center">
-<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
 </p>
 
 ## Index
