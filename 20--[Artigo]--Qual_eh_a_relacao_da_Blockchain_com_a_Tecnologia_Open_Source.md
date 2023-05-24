@@ -1,4 +1,4 @@
-# O_que_a_Blockchain_tem_a_ver_com_a_Tecnologia_Open_Source
+# Qual_eh_a_relacao_da_Blockchain_com_a_Tecnologia_Open_Source
 
 <p align="center">
 <img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
