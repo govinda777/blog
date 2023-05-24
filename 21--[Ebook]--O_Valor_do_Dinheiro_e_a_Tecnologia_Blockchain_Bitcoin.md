@@ -1,7 +1,7 @@
 # O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin
 
 <p align="center">
-<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="10%" width="10%" alt="Unform" />
+<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="20%" width="20%" alt="Unform" />
 </p>
 
 ## Index
