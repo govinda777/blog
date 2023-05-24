@@ -10,7 +10,7 @@
 
 Neste eBook, exploraremos a correlação entre o valor do dinheiro e a tecnologia blockchain Bitcoin. Abordaremos a percepção de utilização das moedas, como o Bitcoin e o Ethereum, a importância da descentralização, a definição de dinheiro, a forma como os governos utilizam a inflação como meio de cobrar impostos e como utilizar criptomoedas como meio de troca. Também apresentaremos referências de pensadores como Professor Clóvis de Barros Filho, Professor Leandro Carnal e Étienne de La Boétie.
 
-## Capítulo 1: Percepção de Utilização das Moedas
+## Capítulo 1: Percepção de Utilização das criptomoedas.
 
 Neste capítulo, exploraremos as características e usos do Bitcoin e do Ethereum:
 
