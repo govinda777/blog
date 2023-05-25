@@ -18,13 +18,10 @@ jobs:
       with:
         python-version: '3.x'
         cache: 'pip' 
-      run: pip install -r requirements.txt
+      run: pip install -r .github/workflows/requirements.txt
 
     - name: Install dependencies
-      run: pip install -r .github/workflows/requirements.txt; fi
-
-    - name: Run script
-      run: ls -la .github/workflows/
+      run: pip install -r .github/workflows/requirements.txt
 
     - name: Run script
       run: python .github/workflows/twitter.py
