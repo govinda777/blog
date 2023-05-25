@@ -24,7 +24,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
 
     - name: Run script
-      run: ls -la
+      run: ls -la .github/workflows/
 
     - name: Run script
       run: python .github/workflows/twitter.py
