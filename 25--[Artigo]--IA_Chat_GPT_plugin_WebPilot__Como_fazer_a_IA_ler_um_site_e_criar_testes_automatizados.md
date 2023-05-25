@@ -1,8 +1,15 @@
-# IA_Chat_GPT_plugin_WebPilot
+# [-IA-][- ChatGPT-] plugin WebPilot
+
+
 
 <p align="center">
 <img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+> ### Tutorial: Como fazer o plugin WebPilot 
+    - 1 - ler Casos de testes em Gherkin 
+    - 2 - ler uma página Html
+    - 3 - criar um script Cypress correspondente a cada Caso de teste
 
 Neste tutorial, vamos explorar como usar o plugin WebPilot do ChatGPT para ler casos de teste escritos na linguagem Gherkin e gerar um script de teste Cypress correspondente. Vamos usar um caso de teste simples que valida se todos os links em uma página da web levam a uma página com o código de resposta HTTP 200.
 
