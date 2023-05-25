@@ -1,17 +1,9 @@
-name: Run Python script after checkout
+name: Run Python script
 
 on:
   push:
     branches:
       - main
-
-name: Python package
-
-on:
-  push:
-    branches: [ $default-branch ]
-  pull_request:
-    branches: [ $default-branch ]
 
 jobs:
   build:
