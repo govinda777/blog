@@ -6,6 +6,12 @@
 
 <img src="./imgs/Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.jpeg" height="100%" width="100%" alt="Unform" />
 
+# Referencias :
+
+ How are memories stored in neural networks? | The Hopfield Network #SoME2  : https://youtu.be/piF6D6CQxUw
+
+
+
 ## Como funciona a transferencia de informação de um neuronio para outro
 
 Pulsos elétricos
@@ -87,18 +93,3 @@ Anatomia do corpo _ X _ Anatomia da Block chain
 #### Sentimentos  (Token | NFT)
 #### Estado corporal (NFT)
 
----------------------
-
-O que estamos fazendo ?
-
-Corelacionando o 
-
-> Anatomida do Corpo Humano
-   > Agentes
-
-> Anatomia da Blockchain
-   > Agentes
-
->  Capasidade de uma comunidade criar um Governo, PQ , Capasidade de uma pessoa criar um sistema Transparente Monetário .... $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-
-##
