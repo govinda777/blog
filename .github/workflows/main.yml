@@ -24,4 +24,4 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Run script
-      run: python .github/workflow/twitter.py
+      run: python ./.github/workflow/twitter.py
