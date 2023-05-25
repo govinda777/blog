@@ -23,7 +23,7 @@ Primeiro, vamos fornecer ao ChatGPT o caso de teste em Gherkin. Gherkin é uma l
 Funcionalidade: Acesso a página https://www.productmanagementexercises.com/blog/getting-into-web3-product-managers/
 
 Cenário: Validar se todos os links está indo para uma página com o resultado http code 200
-Quando clico em Blog
+Quando clico em qualquer link da página
 Então o resultado da requisição será http code 200
 ```
 
@@ -59,7 +59,7 @@ Este script de teste visita a página da web, encontra todos os links na página
 
 Esperamos que este tutorial tenha sido útil para mostrar como você pode usar o plugin WebPilot do ChatGPT para ler casos de teste em Gherkin e gerar scripts de teste Cypress correspondentes. Lembre-se de que este é apenas um exemplo simples e que o WebPilot é uma ferramenta poderosa que pode ser usada de muitas outras maneiras para ajudar a automatizar e melhorar seus processos de teste.
 
-## Exemplo de comando para o ChartGPT
+## Exemplo de comando para o ChartGPT (copie e cole o comando no ChatGPT com o plugin WebPilot instalado)
 
 Caso de teste : 
 
