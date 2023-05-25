@@ -20,6 +20,3 @@ jobs:
         cache: 'pip' 
       run: pip install -r .github/workflows/requirements.txt
 
-    - name: Run script
-      run: python .github/workflows/twitter.py
-
