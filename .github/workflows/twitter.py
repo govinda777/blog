@@ -21,9 +21,7 @@ def get_latest_article(user, repo):
     url = f"{GITHUB_API}/repos/{user}/{repo}/commits"
     response = requests.get(url)
     commits = response.json()
-    print(commits)
-    latest_commit = commits[0]
-    return latest_commit["commit"]["message"], latest_commit["html_url"]
+    return commits["message"], commits["documentation_url"]
 
 def post_to_twitter(message, url):
     tweet = f"{message} {url}"
