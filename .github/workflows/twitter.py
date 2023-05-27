@@ -27,5 +27,5 @@ def post_to_twitter(message, url):
     tweet = f"{message} {url}"
     api.update_status(tweet)
 
-message, url = get_latest_article(USER, REPO)
-post_to_twitter(message, url)
+## message, url = get_latest_article(USER, REPO)
+## post_to_twitter(message, url)
