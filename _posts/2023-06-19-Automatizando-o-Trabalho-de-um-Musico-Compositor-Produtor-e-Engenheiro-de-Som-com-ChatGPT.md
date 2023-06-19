@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT"
+date: 2023-06-19
+---
+
 # [-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT
 
 <p align="center">
