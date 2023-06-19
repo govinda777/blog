@@ -1,0 +1,8 @@
+<!-- _includes/header.html -->
+<nav>
+    <ul>
+      {% for nav in site.navigation %}
+        <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>

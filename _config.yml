@@ -1,0 +1,8 @@
+# _config.yml
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Sobre"
+    url: "/sobre"
+  - title: "Contato"
+    url: "/contato"
