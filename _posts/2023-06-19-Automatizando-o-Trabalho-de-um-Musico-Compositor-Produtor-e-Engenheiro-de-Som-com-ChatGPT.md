@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT"
 date: 2023-06-19
 ---
 
-# [-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT
+## [-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT
 
 <p align="center">
-<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+<img src="./../images/2023-06-19-Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 A inteligência artificial tem revolucionado diversos setores, incluindo a indústria musical. Com o advento de modelos de linguagem avançados, como o ChatGPT, músicos, compositores, produtores e engenheiros de som podem aproveitar os benefícios da automação para aprimorar seus processos de trabalho e impulsionar sua criatividade. Neste artigo, exploraremos exemplos detalhados de como o ChatGPT pode ajudar profissionais da música em várias áreas.
