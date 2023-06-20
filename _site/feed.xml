@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-20T16:37:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your Name</title><subtitle>Web Developer from Somewhere</subtitle><entry><title type="html">Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT</title><link href="http://localhost:4000/Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT/" rel="alternate" type="text/html" title="Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT" /><published>2023-06-19T00:00:00-03:00</published><updated>2023-06-19T00:00:00-03:00</updated><id>http://localhost:4000/Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT</id><content type="html" xml:base="http://localhost:4000/Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT/"><![CDATA[<h1 id="-música--automatizando-o-trabalho-de-um-músico-compositor-produtor-e-engenheiro-de-som-com-chatgpt">[-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-20T16:54:36-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your Name</title><subtitle>Web Developer from Somewhere</subtitle><entry><title type="html">Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT</title><link href="http://localhost:4000/Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT/" rel="alternate" type="text/html" title="Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT" /><published>2023-06-19T00:00:00-03:00</published><updated>2023-06-19T00:00:00-03:00</updated><id>http://localhost:4000/Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT</id><content type="html" xml:base="http://localhost:4000/Automatizando-o-Trabalho-de-um-Musico-Compositor-Produtor-e-Engenheiro-de-Som-com-ChatGPT/"><![CDATA[<h1 id="-música--automatizando-o-trabalho-de-um-músico-compositor-produtor-e-engenheiro-de-som-com-chatgpt">[-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT</h1>
 
 <p align="center">
 <img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
@@ -66,4 +66,778 @@
 
 <p>Portanto, músicos, compositores, produtores e engenheiros de som podem aproveitar o poder do ChatGPT para impulsionar sua criatividade, aprimorar seu trabalho e levar a música a novos patamares. A combinação de talento humano e inteligência artificial promete um futuro brilhante e emocionante para a indústria musical.</p>
 
-<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[[-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT]]></summary></entry></feed>
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[[-Música-] Automatizando o Trabalho de um Músico, Compositor, Produtor e Engenheiro de Som com ChatGPT]]></summary></entry><entry><title type="html">O_teorema_cap_e_sua_relacao_com_a_blockchain</title><link href="http://localhost:4000/O_Teorema_CAP_e_sua_relacao_com_a_Blockchain/" rel="alternate" type="text/html" title="O_teorema_cap_e_sua_relacao_com_a_blockchain" /><published>2023-05-28T00:00:00-03:00</published><updated>2023-05-28T00:00:00-03:00</updated><id>http://localhost:4000/O_Teorema_CAP_e_sua_relacao_com_a_Blockchain</id><content type="html" xml:base="http://localhost:4000/O_Teorema_CAP_e_sua_relacao_com_a_Blockchain/"><![CDATA[<h1 id="-ti--o-teorema-cap-e-sua-relação-com-a-blockchain">[-TI-] O Teorema CAP e sua relação com a Blockchain</h1>
+
+<p align="center">
+<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p>Você já ouviu falar do Teorema CAP? Não, não é um teorema sobre chapéus ou sobre como equilibrar uma caneta na ponta do nariz. O Teorema CAP é uma ideia fundamental em sistemas distribuídos e tem uma relação interessante com a tecnologia blockchain. Vamos explorar esse assunto de forma descontraída e didática, entendendo como esses conceitos se entrelaçam.</p>
+
+<h2 id="o-que-é-o-teorema-cap">O que é o Teorema CAP?</h2>
+
+<p>Antes de mergulharmos na Blockchain, vamos entender o básico do Teorema CAP. Essa teoria, também conhecida como o Teorema de Brewer, foi proposta pelo brilhante Eric Brewer em 2000. Basicamente, o Teorema CAP estabelece que é impossível garantir simultaneamente as três propriedades: Consistência, Disponibilidade e Tolerância a Partições.</p>
+
+<ul>
+  <li>Consistência: todos os nós do sistema devem sempre ver os mesmos dados ao mesmo tempo.</li>
+  <li>Disponibilidade: o sistema deve estar sempre disponível e respondendo a solicitações.</li>
+  <li>Tolerância a Partições: o sistema deve continuar operando mesmo em caso de partições de rede.</li>
+</ul>
+
+<h2 id="o-lado-divertido-da-blockchain">O lado divertido da Blockchain</h2>
+
+<p>Agora que entendemos o Teorema CAP, vamos explorar a relação com a Blockchain de uma maneira mais descontraída. A Blockchain é um livro-razão digital descentralizado, que registra transações de forma transparente e segura. Mas como isso se relaciona com o Teorema CAP? Vamos descobrir!</p>
+
+<h3 id="consistência-e-integridade">Consistência e Integridade</h3>
+
+<p>Na Blockchain, a consistência é fundamental. Cada bloco de transações é conectado ao bloco anterior, formando uma corrente imutável. Isso garante a integridade dos dados, pois qualquer tentativa de alterar um bloco antigo exigiria a modificação de todos os blocos subsequentes. Imagine tentar reescrever a história! Seria como voltar no tempo para mudar algo que já aconteceu. Impossível, né?</p>
+
+<pre><code class="language-mermaid">sequenceDiagram
+    participant Alice
+    participant Blockchain
+    Alice-&gt;&gt;Blockchain: Envio de transação
+    Blockchain-&gt;&gt;Blockchain: Validação da transação
+    Blockchain--&gt;&gt;Alice: Confirmação de inclusão no bloco
+    Alice-&gt;&gt;Blockchain: Verificação da inclusão
+</code></pre>
+
+<h3 id="disponibilidade-e-redes-peer-to-peer">Disponibilidade e Redes Peer-to-Peer</h3>
+
+<p>Quando falamos de disponibilidade, a Blockchain brilha! A tecnologia Blockchain permite que os nós da rede sejam independentes e autônomos, eliminando a necessidade de um ponto central de falha. Isso significa que, mesmo que alguns nós saiam da rede, outros continuarão a processar e validar transações. É como um jogo de dominó, se um cai, os outros permanecem de pé.</p>
+
+<pre><code class="language-mermaid">sequenceDiagram
+    participant Nó1
+    participant Nó2
+    participant Nó3
+    participant Blockchain
+    Nó1-&gt;&gt;Blockchain: Validação de transação
+    Nó2-&gt;&gt;Blockchain: Validação de transação
+    Nó3-&gt;&gt;Blockchain: Validação de transação
+    Blockchain--&gt;&gt;Nó1: Confirmação
+    Blockchain--&gt;&gt;Nó2: Confirmação
+    Blockchain--&gt;&gt;Nó3: Confirmação
+</code></pre>
+
+<h3 id="tolerância-a-partições-e-descentralização">Tolerância a Partições e Descentralização</h3>
+
+<p>A tolerância a partições é uma habilidade fundamental da Blockchain. Ela permite que a rede continue funcionando mesmo quando ocorrem problemas de conectividade ou divisões na rede. Se uma parte da rede fica indisponível, as outras partes continuam a operar e validar transações. É como ter vários grupos de amigos que podem se comunicar entre si, mesmo quando não estão todos juntos.</p>
+
+<pre><code class="language-mermaid">sequenceDiagram
+    participant Nó1
+    participant Nó2
+    participant Nó3
+    participant Blockchain
+    Nó1-&gt;&gt;Blockchain: Validação de transação
+    Nó2-&gt;&gt;Blockchain: Validação de transação
+    Nó3-&gt;&gt;Blockchain: Validação de transação
+    Blockchain--&gt;&gt;Nó1: Confirmação
+    Blockchain--&gt;&gt;Nó2: Confirmação
+    Blockchain--&gt;&gt;Nó3: Confirmação
+</code></pre>
+
+<h2 id="autores-e-conceitos-em-sistemas-distribuídos">Autores e Conceitos em Sistemas Distribuídos</h2>
+
+<p>Em sistemas distribuídos, há uma série de autores e conceitos importantes que moldaram essa área fascinante. Aqui estão alguns deles:</p>
+
+<ul>
+  <li>Leslie Lamport: conhecido por seus trabalhos em algoritmos de consenso e relógios lógicos, Lamport é uma referência na área de sistemas distribuídos.</li>
+  <li>Fale com seu orientador acadêmico para obter mais informações sobre autores e conceitos relevantes para sua pesquisa.</li>
+</ul>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>O Teorema CAP e a tecnologia Blockchain são dois tópicos empolgantes em sistemas distribuídos. Enquanto o Teorema CAP nos lembra das escolhas necessárias entre consistência, disponibilidade e tolerância a partições, a Blockchain demonstra como é possível alcançar um equilíbrio entre essas propriedades. Com suas características de consistência, disponibilidade e tolerância a partições, a Blockchain revoluciona setores e abre caminho para novas possibilidades.</p>
+
+<p>Agora você está pronto para enfrentar uma conversa sobre o Teorema CAP e a Blockchain com confiança! Divirta-se explorando esses conceitos e continue aprendendo sobre sistemas distribuídos. E lembre-se, não se esqueça de fazer um backup da sua blockchain de LEGO favorita!</p>
+
+<p><a href="#referencias">Referências</a></p>
+
+<h2 id="referências">Referências</h2>
+
+<ol>
+  <li>Brewer, E. (2000). Towards robust distributed systems. In Proceedings of the nineteenth annual ACM symposium on Principles of distributed computing (pp. 7-10).</li>
+  <li>Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. Retrieved from https://bitcoin.org/bitcoin.pdf</li>
+</ol>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[[-TI-] O Teorema CAP e sua relação com a Blockchain]]></summary></entry><entry><title type="html">Como_o_chatgpt_pode_ajudar_um_advogado</title><link href="http://localhost:4000/Como_o_ChatGPT_pode_ajudar_um_Advogado/" rel="alternate" type="text/html" title="Como_o_chatgpt_pode_ajudar_um_advogado" /><published>2023-05-27T00:00:00-03:00</published><updated>2023-05-27T00:00:00-03:00</updated><id>http://localhost:4000/Como_o_ChatGPT_pode_ajudar_um_Advogado</id><content type="html" xml:base="http://localhost:4000/Como_o_ChatGPT_pode_ajudar_um_Advogado/"><![CDATA[<h1 id="-direito--como-o-chatgpt-pode-ajudar-um-advogado">[-Direito-] Como o ChatGPT pode ajudar um Advogado</h1>
+
+<p align="center">
+<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p>A inteligência artificial (IA) tem se tornado cada vez mais presente em diversas áreas de atuação, e o direito não é exceção. Uma das ferramentas de IA mais promissoras para advogados é o ChatGPT, um modelo de linguagem desenvolvido pela OpenAI. Este artigo explora como o ChatGPT pode ser uma ferramenta valiosa para profissionais do direito.</p>
+
+<h2 id="pesquisa-jurídica">Pesquisa Jurídica</h2>
+
+<p>A pesquisa é uma parte fundamental do trabalho de um advogado. No entanto, pode ser um processo demorado e tedioso. O ChatGPT pode ajudar a acelerar esse processo, realizando pesquisas rápidas e eficientes em bancos de dados jurídicos, jurisprudências e legislações. Ele pode fornecer resumos de casos relevantes, destacar leis aplicáveis e até mesmo sugerir argumentos legais com base em precedentes.</p>
+
+<h2 id="redação-jurídica">Redação Jurídica</h2>
+
+<p>A redação jurídica é outra tarefa que consome muito tempo para os advogados. O ChatGPT pode auxiliar na elaboração de documentos jurídicos, como contratos, petições e memorandos. Ele pode gerar rascunhos de documentos com base em instruções fornecidas, economizando tempo e esforço do advogado.</p>
+
+<h2 id="preparação-para-o-tribunal">Preparação para o Tribunal</h2>
+
+<p>O ChatGPT pode ser uma ferramenta útil na preparação para audiências e julgamentos. Ele pode ajudar a formular perguntas para testemunhas, sugerir estratégias com base em casos semelhantes e fornecer respostas rápidas a perguntas legais que possam surgir durante o processo.</p>
+
+<h2 id="atendimento-ao-cliente">Atendimento ao Cliente</h2>
+
+<p>O ChatGPT pode ser usado para responder a perguntas comuns de clientes, liberando o advogado para se concentrar em tarefas mais complexas. Ele pode fornecer informações sobre o status do caso, explicar conceitos jurídicos de maneira fácil de entender e até mesmo agendar reuniões.</p>
+
+<h2 id="educação-continuada">Educação Continuada</h2>
+
+<p>A aprendizagem contínua é essencial para os advogados, e o ChatGPT pode ser uma ferramenta valiosa para isso. Ele pode fornecer informações atualizadas sobre mudanças na lei, resumir artigos jurídicos recentes e até mesmo ajudar a preparar-se para exames de educação continuada.</p>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Embora a IA nunca substitua a habilidade e o julgamento de um advogado humano, ferramentas como o ChatGPT podem ser extremamente úteis para aumentar a eficiência e a produtividade. Ao assumir tarefas rotineiras e demoradas, o ChatGPT permite que os advogados se concentrem no que fazem de melhor: aconselhar seus clientes e defender seus interesses.</p>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[[-Direito-] Como o ChatGPT pode ajudar um Advogado]]></summary></entry><entry><title type="html">Sociedade_anonima_de_capital_aberto copy</title><link href="http://localhost:4000/Sociedade_Anonima_de_Capital_Aberto-copy/" rel="alternate" type="text/html" title="Sociedade_anonima_de_capital_aberto copy" /><published>2023-05-26T00:00:00-03:00</published><updated>2023-05-26T00:00:00-03:00</updated><id>http://localhost:4000/Sociedade_Anonima_de_Capital_Aberto%20copy</id><content type="html" xml:base="http://localhost:4000/Sociedade_Anonima_de_Capital_Aberto-copy/"><![CDATA[<h1 id="-direito--sociedade-anônima-de-capital-aberto-uma-análise-à-luz-do-direito-civil-empresarial">[-Direito-] Sociedade Anônima de Capital Aberto: Uma Análise à Luz do Direito Civil-empresarial</h1>
+
+<p align="center">
+<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p>Por um Assistente AI inspirado no estilo do Professor Flávio Tartuce</p>
+
+<p>A sociedade anônima de capital aberto é uma figura jurídica de grande relevância no cenário econômico brasileiro e internacional. Trata-se de uma forma de organização empresarial que permite a captação de recursos junto ao público investidor, mediante a emissão e negociação de ações em bolsa de valores.</p>
+
+<p>A natureza jurídica da sociedade anônima de capital aberto é de uma pessoa jurídica de direito privado, conforme preceitua o artigo 44, II, do Código Civil. Sua regulamentação, no entanto, encontra-se majoritariamente na Lei 6.404/76, conhecida como Lei das Sociedades por Ações.</p>
+
+<p>A característica principal da sociedade anônima de capital aberto é a possibilidade de negociação de suas ações no mercado de valores mobiliários. Isso significa que qualquer pessoa, física ou jurídica, pode se tornar acionista da empresa, adquirindo uma parcela de seu capital social.</p>
+
+<p>A abertura de capital, contudo, não é um processo simples. Exige-se uma série de procedimentos e requisitos legais, como a elaboração de um estatuto social que atenda às exigências da Comissão de Valores Mobiliários (CVM), a realização de uma assembleia geral de constituição e a obtenção de registro junto à CVM e à bolsa de valores.</p>
+
+<p>A transparência é um princípio fundamental das sociedades anônimas de capital aberto. A empresa deve divulgar regularmente suas informações financeiras e contábeis, permitindo que os investidores avaliem sua saúde financeira e tomem decisões de investimento informadas.</p>
+
+<p>A governança corporativa é outro aspecto crucial. A empresa deve ter um conselho de administração e um conselho fiscal, garantindo a gestão eficiente e a fiscalização dos atos dos administradores.</p>
+
+<p>No entanto, a abertura de capital também traz desafios. O principal deles é o risco de perda de controle da empresa. Se um grupo de acionistas adquirir uma quantidade suficiente de ações, poderá ter poder de voto suficiente para influenciar as decisões da empresa.</p>
+
+<p>Em termos de tendências futuras, é possível vislumbrar um aumento na digitalização e na globalização das sociedades anônimas de capital aberto. Além disso, a demanda por investimentos sustentáveis pode levar a um aumento no número de empresas de capital aberto que se concentram em práticas de negócios sustentáveis.</p>
+
+<p>Em conclusão, a sociedade anônima de capital aberto é uma forma de organização empresarial que oferece muitas oportunidades, mas também apresenta desafios. É essencial que os empresários, investidores e profissionais do direito compreendam suas características, requisitos legais e tendências futuras para navegar com sucesso no mundo das sociedades anônimas de capital aberto.</p>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[[-Direito-] Sociedade Anônima de Capital Aberto: Uma Análise à Luz do Direito Civil-empresarial]]></summary></entry><entry><title type="html">Artigo_ia_chat_gpt_plugin_webpilot__como_fazer_a_ia_ler_um_site_e_criar_testes_automatizados copy</title><link href="http://localhost:4000/Artigo_IA_Chat_GPT_plugin_WebPilot__Como_fazer_a_IA_ler_um_site_e_criar_testes_automatizados-copy/" rel="alternate" type="text/html" title="Artigo_ia_chat_gpt_plugin_webpilot__como_fazer_a_ia_ler_um_site_e_criar_testes_automatizados copy" /><published>2023-05-25T00:00:00-03:00</published><updated>2023-05-25T00:00:00-03:00</updated><id>http://localhost:4000/Artigo_IA_Chat_GPT_plugin_WebPilot__Como_fazer_a_IA_ler_um_site_e_criar_testes_automatizados%20copy</id><content type="html" xml:base="http://localhost:4000/Artigo_IA_Chat_GPT_plugin_WebPilot__Como_fazer_a_IA_ler_um_site_e_criar_testes_automatizados-copy/"><![CDATA[<h1 id="-ia---chatgpt--plugin-webpilot">[-IA-][- ChatGPT-] plugin WebPilot</h1>
+
+<p align="center">
+<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+<blockquote>
+  <h3 id="tutorial-como-fazer-o-plugin-webpilot">Tutorial: Como fazer o plugin WebPilot</h3>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- 1 - ler Casos de testes em Gherkin 
+- 2 - ler uma página Html
+- 3 - criar um script Cypress correspondente a cada Caso de teste
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Neste tutorial, vamos explorar como usar o plugin WebPilot do ChatGPT para ler casos de teste escritos na linguagem Gherkin e gerar um script de teste Cypress correspondente. Vamos usar um caso de teste simples que valida se todos os links em uma página da web levam a uma página com o código de resposta HTTP 200.</p>
+
+<h2 id="passo-1-leitura-de-casos-de-teste-em-gherkin">Passo 1: Leitura de Casos de Teste em Gherkin</h2>
+
+<p>Primeiro, vamos fornecer ao ChatGPT o caso de teste em Gherkin. Gherkin é uma linguagem de domínio específico (DSL) que é usada para escrever casos de teste de forma clara e compreensível. Aqui está o nosso caso de teste:</p>
+
+<div class="language-gherkin highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># language: pt</span>
+
+<span class="kd">Funcionalidade</span><span class="p">:</span> <span class="err">Acesso a página https</span><span class="p">:</span><span class="err">//www.productmanagementexercises.com/blog/getting-into-web3-product-managers/</span>
+
+<span class="kn">Cenário</span><span class="p">:</span> Validar se todos os links está indo para uma página com o resultado http code 200
+<span class="nf">Quando </span>clico em qualquer link da página
+<span class="nf">Então </span>o resultado da requisição será http code 200
+</code></pre></div></div>
+
+<h2 id="passo-2-leitura-da-página-da-web">Passo 2: Leitura da Página da Web</h2>
+
+<p>Em seguida, vamos usar o plugin WebPilot para visitar a página da web que queremos testar. Aqui está o comando que usamos para isso:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>web_pilot.visitWebPage({ link: "https://www.productmanagementexercises.com/blog/getting-into-web3-product-managers/", user_has_request: false })
+</code></pre></div></div>
+
+<h2 id="passo-3-criação-do-script-de-teste-cypress">Passo 3: Criação do Script de Teste Cypress</h2>
+
+<p>Finalmente, vamos usar o ChatGPT para gerar um script de teste Cypress que implementa o nosso caso de teste. Aqui está o script de teste Cypress:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>describe('Product Management Exercises Blog Page', () =&gt; {
+  beforeEach(() =&gt; {
+    cy.visit('https://www.productmanagementexercises.com/blog/getting-into-web3-product-managers/')
+  })
+
+  it('Validar se todos os links está indo para uma página com o resultado http code 200', () =&gt; {
+    cy.get('a').each(($a) =&gt; {
+      const href = $a.prop('href')
+
+      cy.request(href).its('status').should('eq', 200)
+    })
+  })
+})
+</code></pre></div></div>
+
+<p>Este script de teste visita a página da web, encontra todos os links na página e verifica se cada link leva a uma página com o código de resposta HTTP 200.</p>
+
+<p>Esperamos que este tutorial tenha sido útil para mostrar como você pode usar o plugin WebPilot do ChatGPT para ler casos de teste em Gherkin e gerar scripts de teste Cypress correspondentes. Lembre-se de que este é apenas um exemplo simples e que o WebPilot é uma ferramenta poderosa que pode ser usada de muitas outras maneiras para ajudar a automatizar e melhorar seus processos de teste.</p>
+
+<h2 id="exemplo-de-comando-para-o-chartgpt-copie-e-cole-o-comando-no-chatgpt-com-o-plugin-webpilot-instalado">Exemplo de comando para o ChartGPT (copie e cole o comando no ChatGPT com o plugin WebPilot instalado)</h2>
+
+<p>Caso de teste :</p>
+
+<div class="language-gherkin highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c"># language: pt</span>
+
+<span class="kd">Funcionalidade</span><span class="p">:</span> <span class="err">Acesso a página https</span><span class="p">:</span><span class="err">//www.productmanagementexercises.com/blog/getting-into-web3-product-managers/</span>
+
+<span class="kn">Cenário</span><span class="p">:</span> Validar se todos os links está indo para uma página com o resultado http code 200
+<span class="nf">Quando </span>clico em Blog
+<span class="nf">Então </span>o resultado da requisição será http code 200
+
+</code></pre></div></div>
+
+<p>Página : web_pilot.visitWebPage({ link: “https://www.productmanagementexercises.com/blog/getting-into-web3-product-managers/”, user_has_request: false })</p>
+
+<p>Crie um script de testes em cypress implementando o Caso de teste para a Página informada.</p>
+
+<h2 id="resultado">Resultado</h2>
+
+<pre><code class="language-cypress">
+describe('Acesso a página', () =&gt; {
+  beforeEach(() =&gt; {
+    cy.visit('https://www.productmanagementexercises.com/blog/getting-into-web3-product-managers/')
+  })
+
+  it('Validar se todos os links está indo para uma página com o resultado http code 200', () =&gt; {
+    cy.get('a').each(($a) =&gt; {
+      const href = $a.prop('href')
+
+      // Ignorando links sem href ou que começam com "#"
+      if (href &amp;&amp; !href.startsWith('#')) {
+        cy.request(href).its('status').should('eq', 200)
+      }
+    })
+  })
+})
+</code></pre>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[[-IA-][- ChatGPT-] plugin WebPilot]]></summary></entry><entry><title type="html">Artigo_ia_chat_gpt_plugin_webpilot</title><link href="http://localhost:4000/Artigo_IA_Chat_GPT_plugin_WebPilot/" rel="alternate" type="text/html" title="Artigo_ia_chat_gpt_plugin_webpilot" /><published>2023-05-24T00:00:00-03:00</published><updated>2023-05-24T00:00:00-03:00</updated><id>http://localhost:4000/Artigo_IA_Chat_GPT_plugin_WebPilot</id><content type="html" xml:base="http://localhost:4000/Artigo_IA_Chat_GPT_plugin_WebPilot/"><![CDATA[<h1 id="ia_chat_gpt_plugin_webpilot">IA_Chat_GPT_plugin_WebPilot</h1>
+
+<p align="center">
+<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p>O plugin WebPilot é uma ferramenta que permite ao ChatGPT interagir com a web de maneira mais dinâmica. Ele pode visitar páginas da web, extrair informações específicas, reescrever ou traduzir o conteúdo e muito mais.</p>
+
+<p>Aqui está um exemplo de como você pode usar o plugin WebPilot:</p>
+
+<p>Visitar uma página da web</p>
+
+<p>Para visitar uma página da web, você pode usar a ação visitWebPage. Aqui está um exemplo de como você pode fazer isso:</p>
+
+<p>jsx
+Copy code
+web_pilot.visitWebPage({ link: “https://www.example.com”, user_has_request: false })
+Neste exemplo, o ChatGPT visitará a página da web “https://www.example.com”. O parâmetro user_has_request é definido como false porque não há nenhuma solicitação específica do usuário neste caso.</p>
+
+<p>Visitar uma página da web com uma solicitação específica</p>
+
+<p>Se você quiser que o ChatGPT faça algo específico com o conteúdo da página da web, você pode definir o parâmetro user_has_request como true. Aqui está um exemplo:</p>
+
+<p>jsx
+Copy code
+web_pilot.visitWebPage({ link: “https://www.example.com”, user_has_request: true })
+Neste caso, o ChatGPT visitará a página da web e também estará pronto para processar qualquer solicitação específica que você possa ter. As solicitações podem incluir coisas como extrair informações específicas, reescrever o conteúdo, traduzir o conteúdo, etc.</p>
+
+<p>Por favor, note que o plugin WebPilot é uma ferramenta poderosa, mas também complexa. Ele requer uma compreensão clara de como a web funciona e como as informações são estruturadas em uma página da web. Além disso, o WebPilot não pode interagir com todas as páginas da web devido a restrições de segurança, privacidade e outras limitações técnicas.</p>
+
+<h2 id="exemplo-de-execução">Exemplo de execução</h2>
+
+<p>web_pilot.visitWebPage({ link: “https://www.productmanagementexercises.com/blog/getting-into-web3-product-managers/”, user_has_request: false })</p>
+
+<h2 id="parâmetros-que-posso-utilizar-no-webpilot">Parâmetros que posso utilizar no WebPilot</h2>
+
+<p>WebPilot tem uma ação principal chamada visitWebPage. Esta ação tem dois parâmetros:</p>
+
+<p>link: Este é o URL da página da web que você deseja que o ChatGPT visite.</p>
+
+<p>user_has_request: Este é um booleano (verdadeiro/falso) que indica se você tem uma solicitação específica para o ChatGPT realizar na página da web. Se você definir isso como true, o ChatGPT estará pronto para processar qualquer solicitação específica que você possa ter, como extrair informações específicas, reescrever o conteúdo, traduzir o conteúdo, etc.</p>
+
+<p>Aqui está um exemplo de como você pode usar esses parâmetros:</p>
+
+<p>web_pilot.visitWebPage({ link: “https://www.example.com”, user_has_request: true })</p>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[IA_Chat_GPT_plugin_WebPilot]]></summary></entry><entry><title type="html">Artigo_blockchain__tutorial_como_conseguir_tokens_de_test</title><link href="http://localhost:4000/Artigo_Blockchain__Tutorial_como_conseguir_tokens_de_test/" rel="alternate" type="text/html" title="Artigo_blockchain__tutorial_como_conseguir_tokens_de_test" /><published>2023-05-23T00:00:00-03:00</published><updated>2023-05-23T00:00:00-03:00</updated><id>http://localhost:4000/Artigo_Blockchain__Tutorial_como_conseguir_tokens_de_test</id><content type="html" xml:base="http://localhost:4000/Artigo_Blockchain__Tutorial_como_conseguir_tokens_de_test/"><![CDATA[<h1 id="blockchain">[–Blockchain–]</h1>
+
+<blockquote>
+  <h3 id="tutorial-como-conseguir-tokens-de-test-na-görli-testnet-">Tutorial como conseguir tokens de test na Görli Testnet ?</h3>
+</blockquote>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="100%" width="100%" alt="Unform" /></p>
+
+<h2 id="o-que-você-vai-precisar-">O que você vai precisar ?</h2>
+
+<details>
+  <summary>[+]</summary>
+Uma carteira na MetaMesk.
+
+| [&lt;img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=100%&gt;<br /><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
+| :---: |
+
+* Estar conectado na Görli Testnet
+
+Dados: 
+
+Rede de testes Goerli
+https://goerli.infura.io/v3/
+5
+GoerliETH
+https://goerli.etherscan.io
+
+
+</details>
+
+<h2 id="passo-1">Passo 1</h2>
+
+<p>Entre no Site : https://faucets.chain.link/</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_01.jpeg" alt="" /></p>
+
+<h2 id="passo-2">Passo 2</h2>
+
+<p>Informe o ID da sua carteira no campo “Wallet address” .</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_05.jpeg" alt="" /></p>
+
+<p>No meu caso :  0x17eDfB8a794ec4f13190401EF7aF1c17f3cc90c5</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_02.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_03.jpeg" alt="" /></p>
+
+<h2 id="passo-3">Passo 3</h2>
+
+<p>Mostre que você não é uma máquina.</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_06.jpeg" alt="" /></p>
+
+<p>Esse botão terá que ficar azul para você conseguir prosseguir.</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_07.jpeg" alt="" /></p>
+
+<p>Ficou azul :)</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_08.jpeg" alt="" /></p>
+
+<h2 id="passo-4---aguarde-a-sua-transação-ser-indexada-e-processada">Passo 4 - Aguarde a sua Transação ser Indexada e processada.</h2>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_99.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_12.jpeg" alt="" /></p>
+
+<blockquote>
+  <p>Vamos agora analisar a tranzação.</p>
+</blockquote>
+
+<p>Link da transação (vc pode ver tb): https://goerli.etherscan.io/tx/0x2c35bfb44546c5bee766ddbc2fcd28c325a873d37a65752717df82e02849ed89</p>
+
+<p>Transaction Hash: 0x2c35bfb44546c5bee766ddbc2fcd28c325a873d37a65752717df82e02849ed89</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_09.jpeg" alt="" /></p>
+
+<h2 id="passo-5---clique-no-link-chainlink-to-link">Passo 5 - Clique no link (ChainLink To… (LINK))</h2>
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_10.jpeg" alt="" /></p>
+
+<p>https://goerli.etherscan.io/token/0x326c977e6efc84e512bb9c30f76e30c160ed06fb</p>
+
+<h2 id="passo-6----realise-a-importação-do-contrato-na-sua-carteira">Passo 6  - Realise a importação do contrato na sua carteira:</h2>
+
+<p>0x326c977e6efc84e512bb9c30f76e30c160ed06fb</p>
+
+<p><img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_11.jpeg" alt="" /></p>
+
+<p align="left">
+
+<a href="https://github.com/govinda777?tab=followers">
+<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+</a>
+
+</p>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>
+
+<h2 id="link">Link</h2>
+
+<p>Repo exemplo DApp Web 3.0 : https://github.com/CleverProgrammers/opensea-blockchain-youtube</p>
+
+<p>Investopedia: https://www.investopedia.com/</p>
+
+<p>Banner Img: https://moralis.io/wp-content/uploads/2022/07/22_07_How-to-Authenticate-Dapp-Users-with-MetaMask-1.jpg</p>
+
+<p>Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y</p>
+
+<p>Arquitetura P2P: https://www.youtube.com/watch?v=LiOZcck8dfU</p>
+
+<p>P2Ps Escrow Service Work : https://www.binance.com/en/blog/all/how-does-binance-p2ps-escrow-service-work-421499824684900825</p>
+
+<p>Link plataforma: https://www.kaleido.io/</p>
+
+<p>Link de video mostrando como utilizar: https://www.youtube.com/watch?v=2XzxdlqN0ks&amp;ab_channel=Kaleido</p>
+
+<p>Documentação firefly: https://github.com/hyperledger/firefly</p>
+
+<p>AML : https://www.sec.gov/about/offices/ocie/amlsourcetool.htm</p>
+
+<p>Bitcoin Escrow Script: https://www.youtube.com/watch?v=hljavgPb6Yw</p>
+
+<p>What is Escrow: https://www.youtube.com/watch?v=Xt5pUmeicqo</p>
+
+<p>Escrow : https://www.youtube.com/watch?v=jBIfyVFMoHc</p>
+
+<p>Smart Contract : https://www.youtube.com/watch?v=ooN6kZ9vqNQ</p>
+
+<p>Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.alura.com.br/course/blockchain-para-negocios</p>
+
+<p>Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao</p>
+
+<p>Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&amp;t=197s</p>
+
+<p>Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/</p>]]></content><author><name></name></author><summary type="html"><![CDATA[[–Blockchain–]]]></summary></entry><entry><title type="html">Artigo_blockchain__como_realizar_uma_autenticacao_utilizando_blockchain</title><link href="http://localhost:4000/Artigo_Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain/" rel="alternate" type="text/html" title="Artigo_blockchain__como_realizar_uma_autenticacao_utilizando_blockchain" /><published>2023-05-22T00:00:00-03:00</published><updated>2023-05-22T00:00:00-03:00</updated><id>http://localhost:4000/Artigo_Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain</id><content type="html" xml:base="http://localhost:4000/Artigo_Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain/"><![CDATA[<h1 id="blockchain">[–Blockchain–]</h1>
+
+<blockquote>
+  <h3 id="como-realizar-uma-autenticacao-utilizando-sua-carteira-hot-wallet-">Como realizar uma autenticacao utilizando sua Carteira (hot wallet) ?</h3>
+</blockquote>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="100%" width="100%" alt="Unform" /></p>
+
+<h2 id="o-que-você-vai-precisar-">O que você vai precisar ?</h2>
+
+<p>Uma carteira na MetaMesk.</p>
+
+<p>| <a href="https://www.youtube.com/watch?v=SDYBxKlqIhw">&lt;img style=”text-align: left;” src=”https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg” width=100%&gt;<br />&lt;h3 style="text-align: left;"&gt;COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)&lt;/h3&gt;</a> |
+| :—: |</p>
+
+<h2 id="passo-1">Passo 1</h2>
+
+<p>Após configurar a sua carteira MetaMask, entre no site:</p>
+
+<ul>
+  <li>https://uniswap.org/</li>
+</ul>
+
+<details>
+  <summary>[+]</summary>
+
+| [&lt;img style="text-align: left;" src="https://img.youtube.com/vi/7tQdgxRJXsg/0.jpg" width=100%&gt;<br /><h3 style="text-align: left;">UNISWAP EXPLICADA</h3>](https://www.youtube.com/watch?v=7tQdgxRJXsg) |
+| :---: |
+
+
+</details>
+
+<h2 id="passo-2-autenticação">Passo 2 (Autenticação)</h2>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_01.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_02.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_03.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_04.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_05.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_06.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_07.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_08.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_09.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_10.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_11.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_12.jpeg" alt="" /></p>
+
+<p><img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_13.jpeg" alt="" /></p>
+
+<p>Endereço da carteira na etherscan: https://goerli.etherscan.io/address/0xB8a0c3e8f4f5F1325d878A10591cE3562009Ea6A</p>
+
+<p>| <a href="https://www.youtube.com/watch?v=x3eRXeMB-4k&amp;t=36s">&lt;img src=”https://img.youtube.com/vi/x3eRXeMB-4k/0.jpg” width=100%&gt;<br />&lt;p style="text-align: left"&gt;Entendendo o seu Comportamento - Raphael Molesim&lt;/p&gt;</a> |
+| :—: |</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="n">help</span><span class="p">.</span><span class="n">msg</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s">"[Documentação|Links]"</span><span class="p">,</span> <span class="n">message</span><span class="o">=</span><span class="s">"""
+
+https://www.youtube.com/watch?v=x3eRXeMB-4k&amp;t=36s
+
+"""</span>
+<span class="p">,</span> <span class="o">**</span><span class="n">options</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<ul>
+  <li>00:46:58 - Set up Metamask Authentication with NextJS</li>
+</ul>
+
+<p align="left">
+
+<a href="https://github.com/govinda777?tab=followers">
+<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+</a>
+
+</p>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>
+
+<h2 id="link">Link</h2>
+
+<p>Repo exemplo DApp Web 3.0 : https://github.com/CleverProgrammers/opensea-blockchain-youtube</p>
+
+<p>Investopedia: https://www.investopedia.com/</p>
+
+<p>Banner Img: https://moralis.io/wp-content/uploads/2022/07/22_07_How-to-Authenticate-Dapp-Users-with-MetaMask-1.jpg</p>
+
+<p>Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y</p>
+
+<p>Arquitetura P2P: https://www.youtube.com/watch?v=LiOZcck8dfU</p>
+
+<p>P2Ps Escrow Service Work : https://www.binance.com/en/blog/all/how-does-binance-p2ps-escrow-service-work-421499824684900825</p>
+
+<p>Link plataforma: https://www.kaleido.io/</p>
+
+<p>Link de video mostrando como utilizar: https://www.youtube.com/watch?v=2XzxdlqN0ks&amp;ab_channel=Kaleido</p>
+
+<p>Documentação firefly: https://github.com/hyperledger/firefly</p>
+
+<p>AML : https://www.sec.gov/about/offices/ocie/amlsourcetool.htm</p>
+
+<p>Bitcoin Escrow Script: https://www.youtube.com/watch?v=hljavgPb6Yw</p>
+
+<p>What is Escrow: https://www.youtube.com/watch?v=Xt5pUmeicqo</p>
+
+<p>Escrow : https://www.youtube.com/watch?v=jBIfyVFMoHc</p>
+
+<p>Smart Contract : https://www.youtube.com/watch?v=ooN6kZ9vqNQ</p>
+
+<p>Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.alura.com.br/course/blockchain-para-negocios</p>
+
+<p>Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao</p>
+
+<p>Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&amp;t=197s</p>
+
+<p>Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/</p>]]></content><author><name></name></author><summary type="html"><![CDATA[[–Blockchain–]]]></summary></entry><entry><title type="html">Ebook_o_valor_do_dinheiro_e_a_tecnologia_blockchain_bitcoin</title><link href="http://localhost:4000/Ebook_O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin/" rel="alternate" type="text/html" title="Ebook_o_valor_do_dinheiro_e_a_tecnologia_blockchain_bitcoin" /><published>2023-05-21T00:00:00-03:00</published><updated>2023-05-21T00:00:00-03:00</updated><id>http://localhost:4000/Ebook_O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin</id><content type="html" xml:base="http://localhost:4000/Ebook_O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin/"><![CDATA[<h1 id="o_valor_do_dinheiro_e_a_tecnologia_blockchain_bitcoin">O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin</h1>
+
+<p align="center">
+<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="20%" width="20%" alt="Unform" />
+</p>
+
+<h2 id="index">Index</h2>
+
+<h2 id="introdução">Introdução</h2>
+
+<p>Neste eBook, exploraremos a correlação entre o valor do dinheiro e a tecnologia blockchain Bitcoin. Abordaremos a percepção de utilização das moedas, como o Bitcoin e o Ethereum, a importância da descentralização, a definição de dinheiro, a forma como os governos utilizam a inflação como meio de cobrar impostos e como utilizar criptomoedas como meio de troca. Também apresentaremos referências de pensadores como Professor Clóvis de Barros Filho, Professor Leandro Carnal e Étienne de La Boétie.</p>
+
+<h2 id="capítulo-1-percepção-de-utilização-das-criptomoedas">Capítulo 1: Percepção de Utilização das criptomoedas.</h2>
+
+<p>Neste capítulo, exploraremos as características e usos do Bitcoin e do Ethereum:</p>
+
+<ul>
+  <li>
+    <p>Bitcoin: O chamado ouro digital, é uma moeda muito forte, pois compre todos os requisitos de uma moeda FORTE (como: Lastro / Confiança / Liquidez [exemplo: exchange https://uniswap.org/ , … , … , …] / Meio de troca / Reserva de valor)</p>
+  </li>
+  <li>
+    <p>Etheriun: Mais utilizado para subir novas aplicações, contratos inteligentes (smart contract), aplicações decentralizadas utilizam a sua própria moeda (para: Vender Produtos / Cupom de desconto / Cash Back / Quantidade de participação em uma DAO / … )</p>
+  </li>
+</ul>
+
+<h2 id="capítulo-2-vamos-falar-um-pouco-mais-da-importância-da-descentralização">Capítulo 2: Vamos falar um pouco mais da importância da Descentralização.</h2>
+
+<ul>
+  <li>Uma breve história de Satoshi Nakamoto.</li>
+</ul>
+
+<p>Como Satoshi Nakamoto levou tão a serio essa questão de decentralização (ninguem sabe a sua identidade, nem sabemos se ele é apenas uma pessoa ou grupo de pessoas)</p>
+
+<ul>
+  <li>Visões referente ao Assunto Decentralização. Uma Visão Filosófica / Econômica / Libertária.</li>
+</ul>
+
+<h2 id="capítulo-3-definição-de-dinheiro-seus-valores-sua-característica-de-inflação-forma-que-os-governos-usam-a-inflação-como-meio-de-cobrar-imposto-de-uma-população-correlacionado-a-tecnologia-blockchain-bitcoin">Capítulo 3: Definição de Dinheiro, seus valores, sua característica de Inflação, Forma que os Governos usam a Inflação como meio de cobrar imposto de uma população. Correlacionado a Tecnologia Blockchain Bitcoin.</h2>
+
+<ul>
+  <li>
+    <p>O Bitcoin possui todos os valores que uma Moeda deve ter? Lastro / Confiança / Reserva de valor / Liquidez / {caso tenha mais algum valor adicione aqui}.</p>
+  </li>
+  <li>
+    <p>Forma que os Governos usam a Inflação como meio de cobrar imposto de uma população</p>
+  </li>
+</ul>
+
+<h2 id="capítulo-4-vamos-ser-mais-práticos-como-utilizar-criptos-como-meio-de-troca">Capítulo 4: Vamos ser mais práticos, como utilizar criptos como meio de troca</h2>
+
+<ul>
+  <li>
+    <p>El Salvador, pais que utiliza o Bitcoin como moeda local.</p>
+  </li>
+  <li>
+    <p>Como fazer uma transação em Bitcoin?</p>
+  </li>
+  <li>
+    <p>Qual é custo das taxas?</p>
+  </li>
+  <li>
+    <p>Alternativa as altas taxas, rede Lightning Network (segunda camada do Bitcoin)</p>
+  </li>
+  <li>
+    <p>O que é uma segunda camada do Bitcoin (vantagens e desvantagens)</p>
+  </li>
+</ul>
+
+<h2 id="capítulo-1-percepção-de-utilização-das-moedas">Capítulo 1: Percepção de Utilização das Moedas</h2>
+
+<h1 id="percepção-de-utilização-das-moedas-bitcoin-e-ethereum">Percepção de Utilização das Moedas: Bitcoin e Ethereum</h1>
+
+<p>As criptomoedas estão ganhando cada vez mais destaque no mundo financeiro e tecnológico. Duas das moedas digitais mais conhecidas e amplamente utilizadas são o Bitcoin e o Ethereum. Cada uma delas possui características e usos distintos que as tornam únicas e relevantes em suas respectivas áreas.</p>
+
+<h2 id="bitcoin-o-ouro-digital">Bitcoin: O Ouro Digital</h2>
+
+<p>O Bitcoin é frequentemente chamado de “ouro digital” devido à sua semelhança com o metal precioso. Ele apresenta características que o tornam uma moeda forte e atraente para os investidores e entusiastas das criptomoedas. Alguns dos principais aspectos do Bitcoin incluem:</p>
+
+<ul>
+  <li>
+    <p><strong>Lastro</strong>: Ao contrário das moedas tradicionais, o Bitcoin não possui lastro em um ativo físico ou garantia governamental. Seu valor é determinado pela oferta e demanda no mercado, bem como pela confiança e adoção dos usuários.</p>
+  </li>
+  <li>
+    <p><strong>Confiança</strong>: A confiança é um elemento fundamental para a utilização de qualquer moeda. O Bitcoin foi projetado para ser uma moeda descentralizada, livre de controle governamental ou institucional. A confiança é baseada na transparência da tecnologia blockchain, que registra todas as transações de forma pública e imutável.</p>
+  </li>
+  <li>
+    <p><strong>Liquidez</strong>: A liquidez do Bitcoin se refere à sua capacidade de ser convertido em dinheiro fiduciário, como dólares ou euros. A ampla adoção do Bitcoin e a existência de plataformas de troca confiáveis, como a <a href="https://uniswap.org/">Uniswap</a>, proporcionam alta liquidez e facilitam a conversão entre Bitcoin e moedas tradicionais.</p>
+  </li>
+  <li>
+    <p><strong>Meio de troca</strong>: O Bitcoin pode ser utilizado como meio de troca para comprar bens e serviços em estabelecimentos que o aceitam como forma de pagamento. Embora nem todos os comerciantes aceitem Bitcoin, o número está em constante crescimento, especialmente em setores como e-commerce, turismo e gastronomia.</p>
+  </li>
+  <li>
+    <p><strong>Reserva de valor</strong>: Muitos veem o Bitcoin como uma reserva de valor de longo prazo, semelhante ao ouro. Sua oferta limitada (apenas 21 milhões de bitcoins serão criados) e a possibilidade de se proteger contra a inflação e a desvalorização de moedas fiduciárias atraem investidores em busca de preservação de capital.</p>
+  </li>
+</ul>
+
+<h2 id="ethereum-contratos-inteligentes-e-aplicações-descentralizadas">Ethereum: Contratos Inteligentes e Aplicações Descentralizadas</h2>
+
+<p>Enquanto o Bitcoin é amplamente reconhecido como uma forma de dinheiro digital, o Ethereum é uma plataforma que permite a criação e execução de contratos inteligentes e aplicações descentralizadas (DApps). O Ethereum possui sua própria moeda chamada Ether (ETH), que desempenha um papel fundamental em sua rede. Alguns dos usos do Ethereum incluem:</p>
+
+<ul>
+  <li>
+    <p><strong>Contratos inteligentes</strong>: O Ethereum revolucionou o conceito de contratos inteligentes, que são acordos digitais autoexecutáveis e autoverificáveis. Eles permitem que as transações ocorram automaticamente assim que as condições especificadas forem atendidas. Isso traz maior segurança, eficiência e transparência para uma ampla variedade de setores, como imobiliário, financeiro e supply chain.</p>
+  </li>
+  <li>
+    <p><strong>Aplicações descentralizadas (DApps)</strong>: O Ethereum é a base para o desenvolvimento de aplicações descentralizadas. Essas aplicações são executadas na rede Ethereum, utilizando contratos inteligentes para fornecer funcionalidades específicas. DApps podem abranger desde jogos e redes sociais até plataformas de finanças descentralizadas (DeFi) e tokens não fungíveis (NFTs).</p>
+  </li>
+  <li>
+    <p><strong>Tokenização de Ativos</strong>: O Ethereum permite a tokenização de ativos reais, como imóveis, obras de arte e commodities. Isso permite a representação digital desses ativos no blockchain e a facilitação de transações e negociações mais eficientes e transparentes.</p>
+  </li>
+  <li>
+    <p><strong>Participação em DAOs</strong>: As Organizações Autônomas Descentralizadas (DAOs) são entidades digitais que operam com base em contratos inteligentes. Os detentores de tokens Ethereum podem participar de DAOs e ter voz ativa nas decisões tomadas pela comunidade.</p>
+  </li>
+</ul>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Tanto o Bitcoin quanto o Ethereum desempenham papéis significativos na revolução financeira e tecnológica impulsionada pela tecnologia blockchain. O Bitcoin oferece um meio de troca descentralizado, confiável e com características semelhantes ao ouro. Por outro lado, o Ethereum possibilita a criação de contratos inteligentes e aplicações descentralizadas, abrindo novas possibilidades para a inovação e a descentralização.</p>
+
+<p>Cada uma dessas criptomoedas tem seu próprio valor e utilidade, e a percepção de utilização delas pode variar de acordo com as necessidades e preferências individuais. À medida que a adoção das criptomoedas cresce, é importante entender suas características e usos para tomar decisões informadas sobre como aproveitar ao máximo esse novo paradigma financeiro.</p>
+
+<h2 id="reference">Reference</h2>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[O_Valor_do_Dinheiro_e_a_Tecnologia_Blockchain_Bitcoin]]></summary></entry><entry><title type="html">Artigo_qual_eh_a_relacao_da_blockchain_com_a_tecnologia_open_source</title><link href="http://localhost:4000/Artigo_Qual_eh_a_relacao_da_Blockchain_com_a_Tecnologia_Open_Source/" rel="alternate" type="text/html" title="Artigo_qual_eh_a_relacao_da_blockchain_com_a_tecnologia_open_source" /><published>2023-05-20T00:00:00-03:00</published><updated>2023-05-20T00:00:00-03:00</updated><id>http://localhost:4000/Artigo_Qual_eh_a_relacao_da_Blockchain_com_a_Tecnologia_Open_Source</id><content type="html" xml:base="http://localhost:4000/Artigo_Qual_eh_a_relacao_da_Blockchain_com_a_Tecnologia_Open_Source/"><![CDATA[<h1 id="qual_eh_a_relacao_da_blockchain_com_a_tecnologia_open_source">Qual_eh_a_relacao_da_Blockchain_com_a_Tecnologia_Open_Source</h1>
+
+<p align="center">
+<img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+<blockquote>
+  <h2 id="a-transparência-das-transações">A transparência das transações</h2>
+</blockquote>
+
+<p>A blockchain é uma estrutura de dados distribuída, onde as transações são registradas em blocos e encadeadas sequencialmente. Esses blocos são compartilhados e armazenados em uma rede de computadores, conhecida como rede descentralizada. Uma das características marcantes da blockchain é a sua transparência, pois todas as transações são visíveis para todos os participantes da rede.</p>
+
+<p>Da mesma forma, o open source promove a transparência na tecnologia. O código aberto permite que qualquer pessoa tenha acesso ao código-fonte de um software, podendo estudá-lo, modificá-lo e distribuí-lo livremente. Essa abertura possibilita uma maior transparência no desenvolvimento de soluções tecnológicas.</p>
+
+<h2 id="benefícios-da-transparência-código-aberto">Benefícios da transparência código aberto</h2>
+
+<p>A transparência proporcionada pela blockchain e pelo open source trazem uma série de benefícios para o ecossistema tecnológico:</p>
+
+<h3 id="1-confiança-e-segurança">1. Confiança e segurança</h3>
+
+<p>A transparência das transações na blockchain e a disponibilidade do código-fonte no open source aumentam a confiança entre os participantes. Os usuários podem verificar a autenticidade das transações e a integridade dos dados registrados na blockchain. Da mesma forma, o acesso ao código-fonte permite que desenvolvedores identifiquem e corrijam possíveis vulnerabilidades de segurança, promovendo uma maior segurança nas soluções tecnológicas.</p>
+
+<h3 id="2-colaboração-e-inovação">2. Colaboração e inovação</h3>
+
+<p>Tanto a blockchain quanto o open source incentivam a colaboração e a troca de conhecimento. A transparência das transações na blockchain permite que os participantes compartilhem informações e ideias de forma aberta, fomentando a colaboração entre diferentes atores. Da mesma forma, o código aberto no desenvolvimento de software possibilita que a comunidade contribua com melhorias, correções de bugs e novas funcionalidades, impulsionando a inovação tecnológica.</p>
+
+<h3 id="3-acessibilidade-e-inclusão">3. Acessibilidade e inclusão</h3>
+
+<p>A transparência na blockchain e a disponibilidade do código-fonte no open source promovem a acessibilidade e a inclusão tecnológica. Com a transparência das transações, todos os participantes têm acesso igualitário às informações registradas na blockchain. No caso do open source, o acesso ao código-fonte permite que qualquer pessoa possa estudar, aprender e contribuir com o desenvolvimento de soluções tecnológicas, independentemente de sua origem ou recursos financeiros.</p>
+
+<h2 id="o-futuro-da-tecnologia-open-source-na-blockchain">O futuro da tecnologia open source na blockchain</h2>
+
+<p>A interseção entre a tecnologia blockchain e o open source tem o potencial de revolucionar ainda mais o ecossistema tecnológico. Com a crescente adoção da blockchain em diferentes setores, é possível vislumbrar um futuro em que a transparência das transações e a colaboração open source se tornem a base para soluções inovadoras e confiáveis. A combinação desses dois elementos oferece uma poderosa combinação de segurança, colaboração e acessibilidade, abrindo portas para um mundo tecnológico mais justo e inclusivo.</p>
+
+<h3 id="o-que-é-dinheiro">O que é dinheiro?</h3>
+
+<p>O dinheiro é um meio de troca amplamente aceito para aquisição de bens e serviços. Também é usado como uma reserva de valor para aquisição de bens e serviços no futuro. O dinheiro é um ativo líquido, o que significa que pode ser facilmente convertido em outros ativos ou usado para pagamentos imediatos.</p>
+
+<h2 id="o-valor-do-dinheiro">O Valor do Dinheiro</h2>
+
+<p>Para entendermos o valor que o Bitcoin trouxe a humanidade precisamos entender o que é o dinheiro e qual o seu valor.</p>
+
+<p><strong>Lastro:</strong> O lastro é um valor tangível que apoia a moeda, como metais preciosos (ouro, prata) ou ativos reais. No passado, muitas moedas eram lastreadas por uma quantidade específica de um determinado metal precioso, fornecendo uma base física para o valor do dinheiro.</p>
+
+<p><strong>Confiança:</strong> A confiança é um valor fundamental associado ao dinheiro. As pessoas confiam que o dinheiro terá valor aceito e poderá ser trocado por bens e serviços. A confiança na estabilidade econômica e nas instituições financeiras é essencial para a aceitação generalizada e o valor do dinheiro.</p>
+
+<p><strong>Unidade de conta:</strong> O dinheiro atua como uma unidade de medida para determinar o valor de bens, serviços e transações. Ele permite a comparação de preços e valores, facilitando as trocas econômicas.</p>
+
+<p><strong>Meio de troca:</strong> O dinheiro é amplamente aceito como um meio de troca para aquisição de bens e serviços. Simplifica o processo de comércio, permitindo transações mais eficientes e eliminando a necessidade de trocas diretas (troca de mercadorias).</p>
+
+<p><strong>Reserva de valor:</strong> O dinheiro serve como uma reserva de valor ao longo do tempo. As pessoas podem acumular dinheiro para uso futuro, confiando que ele manterá seu valor ao longo do tempo, apesar das flutuações econômicas e inflação.</p>
+
+<p><strong>Liquidez:</strong> O dinheiro é altamente líquido, o que significa que pode ser facilmente convertido em outros ativos ou usado para pagamentos imediatos. Sua liquidez proporciona flexibilidade e agilidade nas transações financeiras.</p>
+
+<h2 id="visão-libertária">Visão Libertária</h2>
+
+<h2 id="o-que-o-anonimato-de-transações-trará-de-benefícios-a-liberdade-dos-indivíduos">O que o anonimato de transações trará de benefícios a liberdade dos indivíduos.</h2>
+
+<p>A possibilidade de realizar transações financeiras sem revelar a identidade traz certos benefícios à liberdade dos indivíduos. Aqui estão alguns pontos a serem considerados:</p>
+
+<p><strong>Privacidade:</strong> O anonimato nas transações oferece um nível adicional de privacidade aos indivíduos. Isso significa que suas informações pessoais e transações financeiras não estão diretamente vinculadas a eles, proporcionando uma camada de proteção contra o acesso não autorizado ou abuso desses dados.</p>
+
+<p><strong>Segurança:</strong> Ao não revelar a identidade nas transações, os indivíduos reduzem o risco de serem alvos de crimes cibernéticos, como roubo de identidade ou fraude financeira. Isso ocorre porque informações pessoais sensíveis não estão diretamente associadas às transações, dificultando o rastreamento e a violação desses dados.</p>
+
+<p><strong>Autonomia financeira:</strong> O anonimato nas transações permite que os indivíduos tenham maior controle sobre suas finanças. Eles podem realizar transações sem a necessidade de intermediários ou terceiros monitorando e registrando suas atividades financeiras. Isso promove a liberdade de gerenciar seu próprio dinheiro de acordo com suas necessidades e preferências.</p>
+
+<p><strong>Liberdade de expressão:</strong> Transações financeiras anônimas também podem apoiar a liberdade de expressão. Em alguns casos, indivíduos podem optar por realizar transações sem revelar sua identidade para evitar possíveis repercussões sociais, políticas ou profissionais. Isso pode permitir que expressem suas opiniões, apoiem causas ou participem de atividades sem medo de represálias.</p>
+
+<p><strong>Acesso a serviços financeiros:</strong> Para certos grupos de pessoas, especialmente em regiões onde o acesso a serviços financeiros é limitado, o anonimato nas transações pode abrir oportunidades para participar da economia digital. Isso pode incluir pessoas desbancarizadas, migrantes, refugiados ou qualquer pessoa que enfrente barreiras para o acesso a serviços financeiros tradicionais.</p>
+
+<h2 id="mas-já-que-as-transações-são-abertas-a-todos-na-blockchain-como-é-garantida-a-anonimidade-dos-utilizadores">Mas já que as transações são abertas a todos na Blockchain, como é garantida a anonimidade dos utilizadores?</h2>
+
+<p>Embora as transações na blockchain sejam visíveis a todos, a anonimidade dos usuários é garantida por meio de várias técnicas utilizadas nas criptomoedas, como o Bitcoin. Vou explicar algumas delas:</p>
+
+<ol>
+  <li>
+    <p>Pseudônimos: Os usuários na blockchain são identificados por endereços públicos, que são pseudônimos. Em vez de usar nomes reais, as transações são vinculadas a esses endereços, o que ajuda a preservar a privacidade dos usuários.</p>
+  </li>
+  <li>
+    <p>Chaves Criptográficas: Cada usuário possui um par de chaves criptográficas: uma chave pública e uma chave privada. A chave pública é usada para criar o endereço público e pode ser compartilhada com outros usuários para receber pagamentos. A chave privada é mantida em sigilo e é usada para assinar transações, provando que o usuário tem controle sobre os fundos.</p>
+  </li>
+  <li>
+    <p>Transações Multissig: As transações de Bitcoin podem ser configuradas com várias assinaturas (multissig), o que significa que várias partes devem concordar para que a transação seja concluída. Isso pode fornecer uma camada adicional de anonimato, pois não é possível identificar qual parte específica está envolvida em uma transação.</p>
+  </li>
+  <li>
+    <p>Endereços Descartáveis: Alguns usuários optam por usar endereços descartáveis para cada transação que realizam. Isso dificulta a vinculação de várias transações a um único usuário, aumentando a privacidade.</p>
+  </li>
+  <li>
+    <p>Mixers/Tumblers: Mixers ou tumblers são serviços que misturam as transações de diferentes usuários para dificultar o rastreamento das transações. Eles embaralham os fundos de várias pessoas antes de enviá-los para os endereços de destino, tornando mais difícil rastrear a origem dos fundos.</p>
+  </li>
+</ol>
+
+<p>É importante observar que, embora essas técnicas forneçam um certo grau de anonimato, elas não são totalmente infalíveis. Se houver uma análise cuidadosa e detalhada da blockchain, é possível traçar padrões e relações entre endereços e transações. Portanto, é fundamental que os usuários estejam cientes das limitações da anonimidade e tomem medidas adicionais, como o uso de carteiras e serviços de privacidade especializados, para proteger sua identidade e privacidade ao realizar transações na blockchain.</p>
+
+<p><a href="https://www.buymeacoffee.com/govinda777"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Qual_eh_a_relacao_da_Blockchain_com_a_Tecnologia_Open_Source]]></summary></entry></feed>
