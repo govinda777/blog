@@ -3,7 +3,7 @@
 ## O que é 
 
 <p align="center">
-<img src="./imgs/representacao-de-um-bloco.png" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/representacao-de-um-bloco.png" height="100%" width="100%" alt="Unform" />
 </p>
 
 Quais são os elementos essenciais de um blockchain que possibilitam a resolução do Dilema dos Generais Bizantinos e viabilizam essa inovação? Elementos básicos dos blockchains" (from "Blockchain e Organizações Descentralizadas" by João Guilherme Lyra)
@@ -87,19 +87,19 @@ Nodos completos podem verificar de maneira autônoma e autoritária qualquer tra
 
 As transações que não forem reconhecidas pelos ledgers dos usuários do bloco não são válidas (MEIKLEJOHN et al., 2016). Uma vez que um nodo recebe dados de outro nodo, ele verifica a autenticação dos dados em seu próprio ledger." (from "Blockchain e Organizações Descentralizadas" by João Guilherme Lyra)
 
-![Screenshot](./imgs/git_branchs_ex.png)
+![Screenshot]({{ site.baseurl }}/images/git_branchs_ex.png)
 
 ## Mapas de uma Blockchain
 
 > Blockchain jull
-![Screenshot](./imgs/blockchain_map_1.png)
+![Screenshot]({{ site.baseurl }}/images/blockchain_map_1.png)
 
 > Zoom na Merkle Tree
-![Screenshot](./imgs/blockchain_map_2.png)
+![Screenshot]({{ site.baseurl }}/images/blockchain_map_2.png)
 
-![Screenshot](./imgs/blockchain_map_3.png)
-![Screenshot](./imgs/blockchain_map_4.png)
-![Screenshot](./imgs/blockchain_map_5.jpg)
+![Screenshot]({{ site.baseurl }}/images/blockchain_map_3.png)
+![Screenshot]({{ site.baseurl }}/images/blockchain_map_4.png)
+![Screenshot]({{ site.baseurl }}/images/blockchain_map_5.jpg)
 
 ## O que é uma Merkle Tree ?
 
@@ -107,18 +107,18 @@ Merkel Tree é a forma que a Blockchain usa para salvar e indexar os dados, no c
 
 ## Como Esse banco de dados se Indexa (semelhante a uma arvore binária)
 
-![Screenshot](./imgs/mode_de_indexacao_do_banco_de_dados.jpeg)
+![Screenshot]({{ site.baseurl }}/images/mode_de_indexacao_do_banco_de_dados.jpeg)
 
 
 ## Endereço de uma Arvore Binária
 
-![Screenshot](./imgs/arvore_binaria_simples.jpeg)
+![Screenshot]({{ site.baseurl }}/images/arvore_binaria_simples.jpeg)
 
 > Qual é o Endereço : 001001 ?
-![Screenshot](./imgs/arvore_binaria.jpeg)
+![Screenshot]({{ site.baseurl }}/images/arvore_binaria.jpeg)
 
 > É esse.
-![Screenshot](./imgs/arvore_binaria_caminho.jpeg)
+![Screenshot]({{ site.baseurl }}/images/arvore_binaria_caminho.jpeg)
 
 ## Link
 
@@ -162,7 +162,7 @@ Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

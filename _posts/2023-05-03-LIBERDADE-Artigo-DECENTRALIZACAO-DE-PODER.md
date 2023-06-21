@@ -4,7 +4,7 @@ date: 2023-05-03
 ---
 
 <p align="center">
-<img src="./imgs/3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER].jpeg" height="50%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER].jpeg" height="50%" width="100%" alt="Unform" />
 </p>
 
 # [LIBERDADE] [DECENTRALIZACAO_DE_PODER]

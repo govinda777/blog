@@ -4,7 +4,7 @@ date: 2023-05-22
 ---
 
 <p align="center">
-<img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
 
 # [--Blockchain--]
@@ -35,33 +35,33 @@ Após configurar a sua carteira MetaMask, entre no site:
 
 ## Passo 2 (Autenticação)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_01.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_01.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_02.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_02.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_03.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_03.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_04.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_04.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_05.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_05.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_06.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_06.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_07.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_07.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_08.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_08.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_09.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_09.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_10.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_10.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_11.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_11.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_12.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_12.jpeg)
 
-![](./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_13.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_13.jpeg)
 
 Endereço da carteira na etherscan: https://goerli.etherscan.io/address/0xB8a0c3e8f4f5F1325d878A10591cE3562009Ea6A
 
@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="350" width="250" alt="Unform" />
 </a>
 
 </p>

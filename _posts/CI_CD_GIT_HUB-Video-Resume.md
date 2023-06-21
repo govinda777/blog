@@ -1,32 +1,32 @@
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+> # CI/CD Git Hub ![CI/CD Git Hub]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB.jpeg)
 
 ### CI & CD
 
-[](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+[]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-1.jpeg)
 https://youtu.be/R8_veQiYBjI 
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-3.jpeg)[^1]
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-3.jpeg)[^1]
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-4.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-4.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-5.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-5.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-6.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-6.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-7.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-7.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-8.jpeg)
 https://www.youtube.com/c/TechWorldwithNana
 :smirk_cat:
 [top](##ci--cd)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-9.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-9.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-10.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-10.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-11.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-11.jpeg)
 
 ## Footer
 
@@ -40,7 +40,7 @@ https://www.youtube.com/c/TechWorldwithNana
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

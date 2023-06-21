@@ -1,6 +1,6 @@
 # Hyperledger Firefly and The Super node.
 
-<img src="./imgs/firefly02.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/firefly02.jpeg" height="100%" width="100%" alt="Unform" />
 
 Objetivo: 
 
@@ -24,31 +24,31 @@ https://hyperledger.github.io/firefly/gettingstarted/firefly_cli.html
 
 - Web UI: http://127.0.0.1:5000/ui
 
-![](./imgs/firefly06.jpeg)
+![]({{ site.baseurl }}/images/firefly06.jpeg)
 
 - Sandbox UI: http://127.0.0.1:5109
 
-![](./imgs/firefly07.jpeg)
+![]({{ site.baseurl }}/images/firefly07.jpeg)
 
 - Swagger: http://127.0.0.1:5000/api
 
-![](./imgs/firefly08.jpeg)
+![]({{ site.baseurl }}/images/firefly08.jpeg)
 
 ## Exemplo
 
-![](./imgs/firefly03.jpeg)
+![]({{ site.baseurl }}/images/firefly03.jpeg)
 
-![Link_GitHub](./imgs/firefly04.jpeg)
+![Link_GitHub]({{ site.baseurl }}/images/firefly04.jpeg)
 
 ### Dashboard monitoração
 
 > (network) > (node) > (org)
 
-![](./imgs/firefly06.jpeg)
+![]({{ site.baseurl }}/images/firefly06.jpeg)
 
 ## Complexidade na construção de um web3 app
 
-![](./imgs/firefly09.jpeg)
+![]({{ site.baseurl }}/images/firefly09.jpeg)
 
 ## FireFly: vantagem, simplicidade
 
@@ -71,17 +71,17 @@ https://hyperledger.github.io/firefly/gettingstarted/firefly_cli.html
 
  para a utilização e administração de uma rede blockchain
 
-![](./imgs/firefly10.jpeg)
+![]({{ site.baseurl }}/images/firefly10.jpeg)
 
-* ![](./imgs/firefly11.jpeg)
+* ![]({{ site.baseurl }}/images/firefly11.jpeg)
 
-* ![](./imgs/firefly12.jpeg)
+* ![]({{ site.baseurl }}/images/firefly12.jpeg)
 
-* ![](./imgs/firefly14.jpeg)
+* ![]({{ site.baseurl }}/images/firefly14.jpeg)
 
-* ![](./imgs/firefly15.jpeg)
+* ![]({{ site.baseurl }}/images/firefly15.jpeg)
 
-* ![](./imgs/firefly16.jpeg)
+* ![]({{ site.baseurl }}/images/firefly16.jpeg)
 
 
 ## My Profile Resume
@@ -96,7 +96,7 @@ https://hyperledger.github.io/firefly/gettingstarted/firefly_cli.html
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>
@@ -109,7 +109,7 @@ https://hyperledger.github.io/firefly/gettingstarted/firefly_cli.html
 
 ## <$- Buy-me-a-coffe -$>
 
-<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
+<img src="{{ site.baseurl }}/images/buymea.jpg" height="177" width="177" alt="Unform" />
 </a>
 
 </p>

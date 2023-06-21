@@ -4,7 +4,7 @@
 
 > ### A anatomia de uma rede neural Corelacionado com a anatomia de uma rede Blockchain
 
-<img src="./imgs/Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.jpeg" height="100%" width="100%" alt="Unform" />
 
 # Referencias :
 

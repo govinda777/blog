@@ -4,7 +4,7 @@ date: 2023-05-27
 ---
 
 <p align="center">
-<img src="./../images/2023-05-27-Como-o-ChatGPT-pode-ajudar-um-Advogado.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-05-27-Como-o-ChatGPT-pode-ajudar-um-Advogado.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # [-Direito-] Como o ChatGPT pode ajudar um Advogado

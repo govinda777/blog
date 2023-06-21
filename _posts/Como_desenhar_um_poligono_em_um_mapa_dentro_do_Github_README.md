@@ -2,7 +2,7 @@
 
 # Como desenhar um poligono em um mapa, dentro do Github README.md
 
-<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## Exemplo
 
@@ -83,7 +83,7 @@ type: geojson
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

@@ -4,7 +4,7 @@ date: 2023-05-16
 ---
 
 <p align="center">
-<img src="./imgs/16--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/16--[Artigo]--O_Significado_do_Numero_Zero_como_Representacao_de_Deus__Uma_Perspectiva_Baseada_na_Filosofia_Taoista.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 

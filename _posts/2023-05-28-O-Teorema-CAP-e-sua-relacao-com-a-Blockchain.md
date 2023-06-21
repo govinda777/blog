@@ -4,7 +4,7 @@ date: 2023-05-28
 ---
 
 <p align="center">
-<img src="./../images/2023-05-28-O-Teorema-CAP-e-sua-relacao-com-a-Blockchain.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-05-28-O-Teorema-CAP-e-sua-relacao-com-a-Blockchain.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # [-TI-] O Teorema CAP e sua relação com a Blockchain

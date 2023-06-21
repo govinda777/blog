@@ -1,6 +1,6 @@
 # [Ágil > Técnicas de Facilitação] - Entendendo o seu Comportamento
 
-<img src="./imgs/Agil_Entendendo_Seu_Comportamento.png" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento.png" height="100%" width="100%" alt="Unform" />
 
 ## Resumo:
 
@@ -18,17 +18,17 @@ O objetivo final dessa disciplina é entender e trazer ferramentas que tornará 
 
 > ## O Modelo do aprendizado mútuo é o "manifesto ágil" do Facilitador.
 
-!["Valores modelo de aprendizado mútuo"](./imgs/Agil_Entendendo_Seu_Comportamento-pt_02.jpeg)
+!["Valores modelo de aprendizado mútuo"]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento-pt_02.jpeg)
 
 ## Theories of Action
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_01.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_01.jpeg)
 
 ```cmd
 
 ```
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_02.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_02.jpeg)
 
 
 ## Significado
@@ -42,11 +42,11 @@ então eu devo fazer "[_A_]".
 
 ```
 
-![](./imgs/what.jpeg)
+![]({{ site.baseurl }}/images/what.jpeg)
 
 ## [Explicando] : Theories of Action
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_03.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_03.jpeg)
 
 
 ## No diagrama "acima"
@@ -59,50 +59,50 @@ Poucas coisas estão sobre nosso controle.
 
 * Muito menos, conseguimos parar de agir a partir das explicações e razões obtidas.
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_04.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_05.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_06.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_07.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_04.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_05.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_06.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_07.jpeg)
 
 ## Nem sempre as nossas <b>Premissas</b> são um <b>espelho</b> do <b>Mundo real</b>
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_08.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_09.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_10.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_08.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_09.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_10.jpeg)
 
 <details>
   <summary>[+]</summary>
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_17.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_18.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_19.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_17.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_18.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_19.jpeg)
 
 </details>
 
-![](./imgs/Agil_Entendendo_Seu_Comportamento_11.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_12.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_13.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_14.jpeg)
-![](./imgs/Agil_Entendendo_Seu_Comportamento_15.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_11.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_12.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_13.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_14.jpeg)
+![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_15.jpeg)
 
 ## Unilateral Control Approach (Modelo de Controle Unilateral)
 
-![](./imgs/UNILATERAL_CONTROL_APPROACH.jpeg)
+![]({{ site.baseurl }}/images/UNILATERAL_CONTROL_APPROACH.jpeg)
 
 ## Glossário
 
 <details>
   <summary>[+]</summary>
 
-![](./imgs/glossario.jpeg)
+![]({{ site.baseurl }}/images/glossario.jpeg)
 
-![](./imgs/razao.jpeg)
+![]({{ site.baseurl }}/images/razao.jpeg)
 
-![](./imgs/explicacao.jpeg)
+![]({{ site.baseurl }}/images/explicacao.jpeg)
 
-![](./imgs/acao.jpeg)
+![]({{ site.baseurl }}/images/acao.jpeg)
 
-![](./imgs/tacito.jpeg)
+![]({{ site.baseurl }}/images/tacito.jpeg)
 
 </details>
 
@@ -120,13 +120,13 @@ congruência e aprendizagem : http://www.aral.com.au/resources/argyris.html
 
 * Book : Smart Leaders, Smarter Teams: How You and Your Team Get Unstuck to Get Results (English Edition): https://www.amazon.com.br/dp/B00BMU3IC4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-![Screenshot](./imgs/Agil_Entendendo_Seu_Comportamento-1-BOOK.jpeg)
+![Screenshot]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento-1-BOOK.jpeg)
 
 * [Técnicas de facilitação] - Desenvolva habilidades de facilitar interações. : https://k21.global/br/treinamentos/tecnicas-ageis-facilitacao?cupom=GOVIN
 
-![Screenshot](./imgs/k21-course-facilitation.jpeg)
+![Screenshot]({{ site.baseurl }}/images/k21-course-facilitation.jpeg)
 
-[<img src="./imgs/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
+[<img src="{{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
 https://www.youtube.com/watch?v=zIIgBgPRA9Q
 
 

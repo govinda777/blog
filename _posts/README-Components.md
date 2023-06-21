@@ -17,18 +17,18 @@ Teste 123[^1]
 
 ## Image
 
-<img src="./imgs/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## Image 2
 
-![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
 # Image_with_link
 
 <p>
 
-<a href="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg">
-<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
+<a href="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg">
+<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
 </a>
 
 </p>
@@ -37,9 +37,9 @@ Teste 123[^1]
 
 <p>
 
-<a href="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg">
-<img src="./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
-./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg
+<a href="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg">
+<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
+{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg
 </a>
 
 </p>
@@ -80,11 +80,11 @@ ou
 
 ## Video Reference Summarized
 
-> ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
+> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
 https://www.youtube.com/watch?v=UVtgFN3K6kE
 ## Emoji personagem (Mulher cacto)
 
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
 
 
 
@@ -143,14 +143,14 @@ graph TD;
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>
 
 ## Subscribe 2 [Deprecated]
 
-| [<img src="./imgs/sub.jpeg" height="70" width="140"><br><sub>Subscribe_ME</sub>](https://github.com/govinda777?tab=followers) |
+| [<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140"><br><sub>Subscribe_ME</sub>](https://github.com/govinda777?tab=followers) |
 | :---: |
 
 ## Follow
@@ -158,7 +158,7 @@ graph TD;
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="350" width="250" alt="Unform" />
 </a>
 
 </p>
@@ -246,7 +246,7 @@ Criar uma automação para os compoenentes usando o gulpfile
 
 <a href="https://github.com/govinda777/buy-me-a-coffe">
 
-<img src="./imgs/buymea.jpg" height="177" width="177" alt="Unform" />
+<img src="{{ site.baseurl }}/images/buymea.jpg" height="177" width="177" alt="Unform" />
 
 <$- Buy-me-a-coffe -$>
 

@@ -4,14 +4,14 @@
 
 > ### Como a tecnologia esta tentando imitar algumas qualidades divinas
 
-<img src="./imgs/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## Estrutura de dados de uma Rede Blockchain.
 
 Como falamos no artigo [Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md](Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md)
 os dados de uma Blockchain, são armazenados em cada nó da rede.
 
-![](./imgs/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_02.png)
+![]({{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_02.png)
 
 Na imagem acima, cada numero representa um Nó (node).
 
@@ -29,7 +29,7 @@ Então, cada nó sabe :
 
 ## Onipresença
 
-![Onipresença](./imgs/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_01.jpeg)
+![Onipresença]({{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_01.jpeg)
 
 ## Onipresença Divina 
 

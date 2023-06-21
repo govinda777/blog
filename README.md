@@ -3,7 +3,7 @@
 
 ## My-Competitors [Meus concorrentes]
 
-* ![](./imgs/my-competitors.jpeg)
+* ![]({{ site.baseurl }}/images/my-competitors.jpeg)
 
 ```python
 
@@ -21,7 +21,7 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ## What do I have better than the my competitors? (No que eu sou melhor que os meus competidores?)
 
-* ![](./imgs/better.jpeg)
+* ![]({{ site.baseurl }}/images/better.jpeg)
 
 ### I don't know, I don't like to compete. :) kkkkk
 
@@ -50,7 +50,7 @@ https://medium.com/
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

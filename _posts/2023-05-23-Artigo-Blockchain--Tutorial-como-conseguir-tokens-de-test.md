@@ -4,7 +4,7 @@ date: 2023-05-23
 ---
 
 <p align="center">
-<img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
 
 # [--Blockchain--]
@@ -37,39 +37,39 @@ https://goerli.etherscan.io
 
 Entre no Site : https://faucets.chain.link/
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_01.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_01.jpeg)
 
 ## Passo 2
 
 Informe o ID da sua carteira no campo "Wallet address" .
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_05.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_05.jpeg)
 
 No meu caso :  0x17eDfB8a794ec4f13190401EF7aF1c17f3cc90c5
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_02.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_02.jpeg)
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_03.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_03.jpeg)
 
 ## Passo 3
 
 Mostre que você não é uma máquina.
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_06.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_06.jpeg)
 
 Esse botão terá que ficar azul para você conseguir prosseguir.
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_07.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_07.jpeg)
 
 Ficou azul :)
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_08.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_08.jpeg)
 
 ## Passo 4 - Aguarde a sua Transação ser Indexada e processada.
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_99.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_99.jpeg)
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_12.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_12.jpeg)
 
 
 > Vamos agora analisar a tranzação.
@@ -78,10 +78,10 @@ Link da transação (vc pode ver tb): https://goerli.etherscan.io/tx/0x2c35bfb44
 
 Transaction Hash: 0x2c35bfb44546c5bee766ddbc2fcd28c325a873d37a65752717df82e02849ed89
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_09.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_09.jpeg)
 
 ## Passo 5 - Clique no link (ChainLink To... (LINK))
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_10.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_10.jpeg)
 
 https://goerli.etherscan.io/token/0x326c977e6efc84e512bb9c30f76e30c160ed06fb
 
@@ -89,12 +89,12 @@ https://goerli.etherscan.io/token/0x326c977e6efc84e512bb9c30f76e30c160ed06fb
 
 0x326c977e6efc84e512bb9c30f76e30c160ed06fb
 
-![](./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test_11.jpeg)
+![]({{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test_11.jpeg)
 
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="350" width="250" alt="Unform" />
 </a>
 
 </p>

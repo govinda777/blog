@@ -1,6 +1,6 @@
 # Como Criar pull request template no Github
 
-<img src="./imgs/Como_criar_pull_request_template__GITHUB.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## Como implementar ?
 
@@ -31,18 +31,18 @@ pull_request_template.md
 
 ## Veja funcionando
 
-![""](./imgs/Como_criar_pull_request_template__GITHUB_01.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_02.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_03.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_04.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_05.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_06.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_07.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_08.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_09.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_10.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_11.jpeg)
-![""](./imgs/Como_criar_pull_request_template__GITHUB_12.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_01.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_02.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_03.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_04.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_05.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_06.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_07.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_08.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_09.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_10.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_11.jpeg)
+![""]({{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB_12.jpeg)
 
 ## Ref
 
@@ -74,7 +74,7 @@ pull_request_template.md
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

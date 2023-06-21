@@ -2,17 +2,17 @@
 
 > ### Como integrar 2 sistemas sem precisar de um desenvolvedor.
 
-<img src="./imgs/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_02.png" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_02.png" height="100%" width="100%" alt="Unform" />
 
 ## Conheça o ZAPIER
 
 Ferramenta de integração entre sistemas.
 
-![](./imgs/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_01.png)
+![]({{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_01.png)
 
 O Zapier é um produto que permite que os usuários finais integrem os aplicativos da Web que usam e automatizem os fluxos de trabalho. A partir de 2021, ele se conecta a mais de 4.000 aplicativos, com planos gratuitos e pagos.
 
-![](./imgs/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_05.jpeg)
+![]({{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_05.jpeg)
 
 ## Integre e automatize seus processos de vendas, marketing e operações com o Zapier
 
@@ -26,16 +26,16 @@ O Zapier ajuda a resolver AMBOS esses desafios (e muito mais).
 
 O Zapier permite que sua empresa opere com mais eficiência e economize muito tempo no trabalho manual de administração. É uma ferramenta para criar integrações personalizáveis ​​e automações de fluxo de trabalho que conectam diferentes aplicativos e softwares para criar automações totalmente personalizáveis, chamadas “zaps”.
 
-![](./imgs/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_04.png)
+![]({{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_04.png)
 
 ## Quanto que custa ?
 
-![](./imgs/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_03.png)
+![]({{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_03.png)
 
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="350" width="250" alt="Unform" />
 </a>
 
 </p>

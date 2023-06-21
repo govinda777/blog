@@ -4,7 +4,7 @@ date: 2023-05-04
 ---
 
 <p align="center">
-<img src="./imgs/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="50%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Agil_O_que_ETICA_e_MORAL__tem_haver_com_Liberdade_50.jpeg" height="50%" width="100%" alt="Unform" />
 </p>
 
 # [Ágil](./Agil_Entendendo_Seu_Comportamento-pt.md) - O que Ética e Moral tem haver com Liberdade ?
@@ -103,7 +103,7 @@ São existem soluções padrões para problemas complexos. *Soluções genérica
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

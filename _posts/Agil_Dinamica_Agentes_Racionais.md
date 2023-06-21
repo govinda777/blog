@@ -1,4 +1,4 @@
-![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
+![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg)
 
 # [Agil] - Dinâmica_Agentes_Racionais
 
@@ -20,7 +20,7 @@ Dinâmica para mostrar para o time que é bem melhor quanto todos Ganham.
 
 - Quem escolheu o menor número mais próximo que a Somatória de todos os palpites, vezes 2/3 (dois terços)
 
-![](./imgs/Agil_Dinamica_Agentes_Racionais_01.jpeg)
+![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais_01.jpeg)
 
 Como ler a função matemática acima: Suja a somatória , vezes dois terços.
 
@@ -56,7 +56,7 @@ Então :
 
 * Se todos escolherem o ZERO todos venceriam.
 
-![](./imgs/Agil_Dinamica_Agentes_Racionais_03.jpeg)
+![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais_03.jpeg)
 > ## Eu não falei que teria que ser apenas um ganhador
 
 ## Provocação
@@ -71,9 +71,9 @@ Você toma suas decições Racionalmente, ou apenas o faz pela força do hábito
 
 ## Será que você tomou essa decisão de forma consciente ou foi apenas um hábito ?
 
-![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
+![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg)
 
-![](./imgs/Agil_Dinamica_Agentes_Racionais_02.jpeg)
+![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais_02.jpeg)
 
 ## Link
 
@@ -93,7 +93,7 @@ Funções no git : https://ajustetecnico.github.io/blog/2018/09/19/equacoes-late
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
 
 </p>

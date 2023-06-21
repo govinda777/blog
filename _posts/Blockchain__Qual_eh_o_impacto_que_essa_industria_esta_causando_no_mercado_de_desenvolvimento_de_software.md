@@ -15,18 +15,18 @@ Vamos focar nesse ultimo ponto * Faturamento *.
 
 Hoje Google Play, App Store são lojas com um faturamento multibilionário.
 
-!["Google Play faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_01.jpeg)
+!["Google Play faturamento"]({{ site.baseurl }}/images/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_01.jpeg)
 
-!["Apple store faturamento"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_02.jpeg)
+!["Apple store faturamento"]({{ site.baseurl }}/images/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_02.jpeg)
 
 
 ## Tamanho mercado cripto:
 
-!["Mercado cripto"](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_03.jpeg)
+!["Mercado cripto"]({{ site.baseurl }}/images/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_03.jpeg)
 
 ## Comparação Bitcoin vs Big Techs
 
-![""](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_04.jpeg)
+![""]({{ site.baseurl }}/images/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_04.jpeg)
 
 ## Fato.
 
@@ -34,7 +34,7 @@ Hoje, com as cripto moedas, é muito fácil você subir uma aplicação utilizan
 
 ## Será que o mercado Cripto conseguirá fazer frente ao mercado de APPs ? Ou cada um tem o seu espaço garantido no mercado ?
 
-![""](./imgs/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_05.gif)
+![""]({{ site.baseurl }}/images/Blockchain__Qual_eh_o_impacto_que_essa_industria_esta_causando_no_mercado_de_desenvolvimento_de_software_05.gif)
 
 ## Tutoriais
 
@@ -55,7 +55,7 @@ Aqui estão alguns tutoriais que sinceramente achei incríveis.
 <p align="left">
 
 <a href="https://github.com/govinda777?tab=followers">
-<img src="./imgs/sub.jpeg" height="350" width="250" alt="Unform" />
+<img src="{{ site.baseurl }}/images/sub.jpeg" height="350" width="250" alt="Unform" />
 </a>
 
 </p>

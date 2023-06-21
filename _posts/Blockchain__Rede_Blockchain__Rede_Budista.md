@@ -4,7 +4,7 @@
 
 > ### Rede Blockchain / Rede Budista / Teia de Indra
 
-<img src="./imgs/Blockchain__Rede_Blockchain__Rede_Budista.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__Rede_Blockchain__Rede_Budista.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## Teia de Indra
 
@@ -25,7 +25,7 @@ O conceito geralmente usado de "Eu Superior", "Ser Espiritual", que está para a
 > ### Como falamos no artigo [Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md](Blockchain__A_anatomia_de_uma_rede_neural__corelacionado_com_uma_rede_Blockchain.md)
 os dados de uma Blockchain, são armazenados em cada nó da rede.
 
-![](./imgs/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_02.png)
+![]({{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_02.png)
 
 Na imagem acima, cada numero representa um Nó (node) 
 
@@ -36,7 +36,7 @@ Fato interessante desses dados, é que eles são armazenados de uma forma com qu
 
 ## Onipresente
 
-![Onipresença](./imgs/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_01.jpeg)
+![Onipresença]({{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas_01.jpeg)
 
 ## Onipresença Divina 
 

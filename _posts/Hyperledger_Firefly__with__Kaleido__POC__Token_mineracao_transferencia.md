@@ -1,4 +1,4 @@
-<img src="./imgs/Hyperledger_Firefly__with__Kaleido__POC__Token_mineracao_transferencia.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Hyperledger_Firefly__with__Kaleido__POC__Token_mineracao_transferencia.jpeg" height="100%" width="100%" alt="Unform" />
 
 # Hyperledger Firefly [Tutorial] Token / mineracao / transferência 
 
@@ -26,15 +26,15 @@ https://hyperledger.github.io/firefly/gettingstarted/firefly_cli.html
 
 - Web UI: http://127.0.0.1:5000/ui
 
-![](./imgs/firefly06.jpeg)
+![]({{ site.baseurl }}/images/firefly06.jpeg)
 
 - Sandbox UI: http://127.0.0.1:5109
 
-![](./imgs/firefly07.jpeg)
+![]({{ site.baseurl }}/images/firefly07.jpeg)
 
 - Swagger: http://127.0.0.1:5000/api
 
-![](./imgs/firefly08.jpeg)
+![]({{ site.baseurl }}/images/firefly08.jpeg)
 
 ## Realizar a transferencia de Tokens para outra Organização
 

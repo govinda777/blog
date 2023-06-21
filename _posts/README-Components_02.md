@@ -8,7 +8,7 @@
 
 https://agenciamktideas.com/wp-content/uploads/2018/09/identidade-visual-importancia.jpg
 
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
 
 ## Title : 
 * How to create a visual identity just using GIT / HTML / gulpfile
@@ -103,30 +103,30 @@ Teste 123[^1]
 
 # Image
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
 
 # Video Reference
 
 ## Video Reference Summarized
 
-> ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
+> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
 * https://www.youtube.com/watch?v=UVtgFN3K6kE
 
 ## Video Reference Complete
 
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+> # CI/CD Git Hub ![CI/CD Git Hub]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB.jpeg)
 ### https://youtu.be/R8_veQiYBjI
 
 
 ## Video Reference Complete with more elements
 
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+> # CI/CD Git Hub ![CI/CD Git Hub]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB.jpeg)
 ### https://youtu.be/R8_veQiYBjI
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-1.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
 ```python
 
@@ -136,9 +136,9 @@ tkinter.messagebox.askyes(title="[title]", message="""
 , **options)
 
 ```
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg)
 7777
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
 
 ```python
 
@@ -163,11 +163,11 @@ graph TD;
 
 ## Subscribe Button Style 1
 
-[<img src="./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+[<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-8.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
 
 ## Subscribe Button Style 2
 
-[<img src="./imgs/sub.jng"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+[<img src="{{ site.baseurl }}/images/sub.jng"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
 
 
 
@@ -187,7 +187,7 @@ graph TD;
 
 ## My Profile Style 3
 
-[<img src="./imgs/profile-shere.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
+[<img src="{{ site.baseurl }}/images/profile-shere.jpeg"><br><sub>github: Luã Govinda</sub>](https://github.com/govinda777?tab=followers)
 
 ## Profile Experience List
 
@@ -236,16 +236,16 @@ https://github.com/govinda777/profile
 
 # Posts in WHATSAPP
 
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-1.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-2.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-6.jpeg)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-7.mp4)
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-8.mp4)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-1.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-2.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-3.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-5.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-6.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-7.mp4)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-8.mp4)
 
-[![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
+[![Watch the video]({{ site.baseurl }}/images/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
 
 
 # Posts in Linkedin
@@ -301,15 +301,15 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ## Img
 
-![](./imgs/COMPONENTES_README-List-POST.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST.jpeg)
 
 ## Next steps
 
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
 
 Criar uma automação para os compoenentes usando o gulpfile
 
-![](./imgs/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
+![]({{ site.baseurl }}/images/COMPONENTES_README-List-POST-WHATSAPP-4.jpeg)
 
 # FOOTER
 

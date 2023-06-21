@@ -109,8 +109,8 @@ Value 4: Act rational. The more you value acting rational, the more you expect y
 
 Book : Smart Leaders, Smarter Teams: How You and Your Team Get Unstuck to Get Results (English Edition): https://www.amazon.com.br/dp/B00BMU3IC4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-![Screenshot](./imgs/book-smart-leads.jpeg)
+![Screenshot]({{ site.baseurl }}/images/book-smart-leads.jpeg)
 
 Course : Develop decision-making, learning and decision-making skills : https://k21.global/br/treinamentos/tecnicas-ageis-facilitacao?cupom=GOVIN
 
-![Screenshot](./imgs/k21-course-facilitation.jpeg)
+![Screenshot]({{ site.baseurl }}/images/k21-course-facilitation.jpeg)

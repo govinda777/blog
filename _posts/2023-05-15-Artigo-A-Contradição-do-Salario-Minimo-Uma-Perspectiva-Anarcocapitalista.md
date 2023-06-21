@@ -3,7 +3,7 @@ layout: post
 date: 2023-05-15
 ---
 <p align="center">
-<img src="./imgs/14--[Artigo]--Liberdade_e_Inovacao__Como_a_Humanidade_Adquiriu_a_Capacidade_de_Desestatização_do_Dinheiro.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/14--[Artigo]--Liberdade_e_Inovacao__Como_a_Humanidade_Adquiriu_a_Capacidade_de_Desestatização_do_Dinheiro.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # A Contradição do Salário Mínimo: Uma Perspectiva Anarcocapitalista
