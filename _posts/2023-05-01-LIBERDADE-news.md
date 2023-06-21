@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2023-05-01
+---
+
 # [ARTIGO]
 
 O atentado terrorista no Salão do Reino das Testemunhas de Jeová é uma triste notícia que nos faz refletir sobre a violência e o papel do governo na proteção dos cidadãos. É indignante ver pessoas pacíficas sendo alvo de ataques covardes, e é importante questionar a justificativa para tal violência.
