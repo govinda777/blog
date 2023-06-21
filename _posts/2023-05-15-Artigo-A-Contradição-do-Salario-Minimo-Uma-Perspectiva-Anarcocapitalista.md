@@ -2,11 +2,12 @@
 layout: post
 date: 2023-05-15
 ---
-
+<p align="center">
 <img src="./imgs/14--[Artigo]--Liberdade_e_Inovacao__Como_a_Humanidade_Adquiriu_a_Capacidade_de_Desestatização_do_Dinheiro.png" height="50%" width="50%" alt="Unform" />
-
+</p>
 
 # A Contradição do Salário Mínimo: Uma Perspectiva Anarcocapitalista
+
 Em qualquer discussão séria sobre economia, parece haver um consenso: a interferência do governo na precificação de bens e serviços é uma afronta à liberdade econômica. A mão invisível do mercado é preferível à mão pesada do estado. Entretanto, essa mesma sociedade que defende vigorosamente a não intervenção nos preços dos bens e serviços, paradoxalmente, tolera e até aplaude a implementação de um salário mínimo. Por que essa discrepância?
 
 ## O Preço do Trabalho

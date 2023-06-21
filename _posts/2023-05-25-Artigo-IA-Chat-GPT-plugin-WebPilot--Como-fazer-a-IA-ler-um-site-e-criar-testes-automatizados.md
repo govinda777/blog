@@ -3,12 +3,11 @@ layout: post
 date: 2023-05-25
 ---
 
-
-# [-IA-][- ChatGPT-] plugin WebPilot
-
 <p align="center">
 <img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# [-IA-][- ChatGPT-] plugin WebPilot
 
 > ### Tutorial: Como fazer o plugin WebPilot 
     - 1 - ler Casos de testes em Gherkin 

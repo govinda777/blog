@@ -2,12 +2,11 @@
 layout: post
 date: 2023-05-24
 ---
-
-# IA_Chat_GPT_plugin_WebPilot
-
 <p align="center">
 <img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# IA_Chat_GPT_plugin_WebPilot
 
 O plugin WebPilot é uma ferramenta que permite ao ChatGPT interagir com a web de maneira mais dinâmica. Ele pode visitar páginas da web, extrair informações específicas, reescrever ou traduzir o conteúdo e muito mais.
 

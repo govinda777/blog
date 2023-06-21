@@ -3,11 +3,13 @@ layout: post
 date: 2023-05-23
 ---
 
+<p align="center">
+<img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
 # [--Blockchain--]
 
 > ### Tutorial como conseguir tokens de test na Görli Testnet ?
-
-<img src="./imgs/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## O que você vai precisar ?
 

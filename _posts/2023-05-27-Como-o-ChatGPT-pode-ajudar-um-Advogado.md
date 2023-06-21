@@ -3,11 +3,11 @@ layout: post
 date: 2023-05-27
 ---
 
-# [-Direito-] Como o ChatGPT pode ajudar um Advogado
-
 <p align="center">
 <img src="./../images/2023-05-27-Como-o-ChatGPT-pode-ajudar-um-Advogado.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# [-Direito-] Como o ChatGPT pode ajudar um Advogado
 
 A inteligência artificial (IA) tem se tornado cada vez mais presente em diversas áreas de atuação, e o direito não é exceção. Uma das ferramentas de IA mais promissoras para advogados é o ChatGPT, um modelo de linguagem desenvolvido pela OpenAI. Este artigo explora como o ChatGPT pode ser uma ferramenta valiosa para profissionais do direito.
 

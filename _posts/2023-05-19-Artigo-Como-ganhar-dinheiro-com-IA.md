@@ -2,12 +2,11 @@
 layout: post
 date: 2023-05-19
 ---
-
-# Como ganhar dinheiro com IA
-
 <p align="center">
 <img src="./imgs/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# Como ganhar dinheiro com IA
 
 > ## Ideias para Monetizar: Criação de Conteúdo, Gestão de Mídias Sociais e Marketing Digital
 

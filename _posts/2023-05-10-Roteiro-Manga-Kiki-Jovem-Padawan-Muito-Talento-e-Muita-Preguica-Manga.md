@@ -3,7 +3,9 @@ layout: post
 date: 2023-05-10
 ---
 
-<img src="./imgs/10--[Roteiro]--Kiki_Jovem_Padawan_Muito_Talento_e_Muita_Preguiça_Manga_.jpeg" height="100%" width="100%" alt="Unform" />
+<p align="center">
+<img src="./imgs/10--[Roteiro]--Kiki_Jovem_Padawan_Muito_Talento_e_Muita_Preguiça_Manga_.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
 
 # Roteiro do Manga "Kiki Jovem Padawan, Muito Talento e Muita Preguiça"
 

@@ -3,11 +3,13 @@ layout: post
 date: 2023-05-22
 ---
 
+<p align="center">
+<img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
 # [--Blockchain--]
 
 > ### Como realizar uma autenticacao utilizando sua Carteira (hot wallet) ?
-
-<img src="./imgs/Blockchain__Como_realizar_uma_autenticacao_utilizando_Blockchain_banner.jpeg" height="100%" width="100%" alt="Unform" />
 
 ## O que você vai precisar ?
 

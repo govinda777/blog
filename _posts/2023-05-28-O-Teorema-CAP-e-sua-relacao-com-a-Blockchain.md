@@ -3,11 +3,11 @@ layout: post
 date: 2023-05-28
 ---
 
-# [-TI-] O Teorema CAP e sua relação com a Blockchain
-
 <p align="center">
 <img src="./../images/2023-05-28-O-Teorema-CAP-e-sua-relacao-com-a-Blockchain.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# [-TI-] O Teorema CAP e sua relação com a Blockchain
 
 Você já ouviu falar do Teorema CAP? Não, não é um teorema sobre chapéus ou sobre como equilibrar uma caneta na ponta do nariz. O Teorema CAP é uma ideia fundamental em sistemas distribuídos e tem uma relação interessante com a tecnologia blockchain. Vamos explorar esse assunto de forma descontraída e didática, entendendo como esses conceitos se entrelaçam.
 

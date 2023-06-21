@@ -3,11 +3,11 @@ layout: post
 date: 2023-05-13
 ---
 
-# A Incrível Capacidade que os Governos têm de Transformar Atos Pacíficos em Crimes: Uma Perspectiva da Escola Austríaca de Economia
-
 <p align="center">
 <img src="./imgs/13--[Artigo]--A_incrivel_capacidade_que_os_Governos_tem_de_transformar_Atos_Pacificos_em_Crimes__Uma_Perspectiva_da_Escola Austriaca_de_Economia.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# A Incrível Capacidade que os Governos têm de Transformar Atos Pacíficos em Crimes: Uma Perspectiva da Escola Austríaca de Economia
 
 ## Introdução
 

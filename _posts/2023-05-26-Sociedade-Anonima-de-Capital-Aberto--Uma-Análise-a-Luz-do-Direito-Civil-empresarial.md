@@ -2,12 +2,13 @@
 layout: post
 date: 2023-05-26
 ---
-
-# [-Direito-] Sociedade Anônima de Capital Aberto: Uma Análise à Luz do Direito Civil-empresarial
-
 <p align="center">
 <img src="./../images/2023-05-26-Sociedade-Anonima-de-Capital-Aberto--Uma-Análise-a-Luz-do-Direito-Civil-empresarial.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+# [-Direito-] Sociedade Anônima de Capital Aberto: Uma Análise à Luz do Direito Civil-empresarial
+
+
 
 Por um Assistente AI inspirado no estilo do Professor Flávio Tartuce
 

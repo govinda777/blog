@@ -3,7 +3,9 @@ layout: post
 date: 2023-05-03
 ---
 
-<img src="./imgs/3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER].jpeg" height="100%" width="100%" alt="Unform" />
+<p align="center">
+<img src="./imgs/3--[LIBERDADE]--[artigo]--[DECENTRALIZACAO_DE_PODER].jpeg" height="50%" width="100%" alt="Unform" />
+</p>
 
 # [LIBERDADE] [DECENTRALIZACAO_DE_PODER]
 
