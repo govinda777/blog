@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-02
+categories: [Lesões]
 ---
 
 # 2--[Escalada]--[artigo]--[lesões]--[causa.falta.de.treino.panturrilha_&_sapatilha.apertada.md

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-16
+categories: [Filosofia]
 ---
 
 <p align="center">

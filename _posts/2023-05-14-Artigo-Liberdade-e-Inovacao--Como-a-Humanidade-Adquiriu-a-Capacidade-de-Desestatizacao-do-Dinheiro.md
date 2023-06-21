@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-14
+categories: [Anarcocapitalismo, Dinheiro, Desestatização]
 ---
 
 <p align="center">

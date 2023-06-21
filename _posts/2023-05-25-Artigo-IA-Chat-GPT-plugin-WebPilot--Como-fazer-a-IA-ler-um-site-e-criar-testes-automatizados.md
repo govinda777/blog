@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-25
+categories: [IA, Testes automatizados]
 ---
 
 <p align="center">

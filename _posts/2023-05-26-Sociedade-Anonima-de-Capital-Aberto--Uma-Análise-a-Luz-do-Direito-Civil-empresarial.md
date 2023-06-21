@@ -1,16 +1,14 @@
 ---
 layout: post
 date: 2023-05-26
+categories: [Direito]
 ---
+
 <p align="center">
 <img src="{{ site.baseurl }}/images/2023-05-26-Sociedade-Anonima-de-Capital-Aberto--Uma-Análise-a-Luz-do-Direito-Civil-empresarial.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # [-Direito-] Sociedade Anônima de Capital Aberto: Uma Análise à Luz do Direito Civil-empresarial
-
-
-
-Por um Assistente AI inspirado no estilo do Professor Flávio Tartuce
 
 A sociedade anônima de capital aberto é uma figura jurídica de grande relevância no cenário econômico brasileiro e internacional. Trata-se de uma forma de organização empresarial que permite a captação de recursos junto ao público investidor, mediante a emissão e negociação de ações em bolsa de valores.
 

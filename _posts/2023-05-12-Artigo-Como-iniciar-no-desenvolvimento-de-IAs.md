@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-12
+categories: [AI, Tecnologia]
 ---
 
 # Iniciando no Desenvolvimento de Inteligência Artificial: Um Guia Prático

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-27
+categories: [Direito, IA]
 ---
 
 <p align="center">

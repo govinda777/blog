@@ -1,13 +1,14 @@
 ---
 layout: post
 date: 2023-05-18
+categories: [WEB3, Desestatização]
 ---
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/18--[Artigo]--Revolucao_Organizacional___As_Organizacoes_Autonomas_Descentralizadas.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-# [-Artigo-] [-Revolucao Organizacional-] As Organizacoes Autonomas Descentralizadas
+# [-Artigo-] [-Revolução Organizacional-] As Organizacoes Autonomas Descentralizadas
 
 *As Organizações Autônomas Descentralizadas*
 

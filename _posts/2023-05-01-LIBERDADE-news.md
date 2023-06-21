@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Liberdade]
 date: 2023-05-01
 ---
 

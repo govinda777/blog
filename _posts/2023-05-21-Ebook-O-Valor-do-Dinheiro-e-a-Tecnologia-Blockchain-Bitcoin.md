@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-21
+categories: [WEB3, Dinheiro]
 ---
 
 <p align="center">

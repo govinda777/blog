@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-17
+categories: [WEB3, Serviço Social]
 ---
 
 <p align="center">

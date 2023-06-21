@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-09
+categories: [AI, Tecnologia]
 ---
 
 # O Dilema da Tecnologia e a Convivência com Inteligências Artificiais: Progresso ou Perigo?

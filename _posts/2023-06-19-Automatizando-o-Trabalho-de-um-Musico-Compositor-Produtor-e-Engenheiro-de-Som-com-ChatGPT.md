@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-06-19
+categories: [IA]
 ---
 
 <p align="center">

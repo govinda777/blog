@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-11
+categories: [Tecnologia]
 ---
 
 # Tutorial: Como criar um pendrive de inicialização no Ubuntu

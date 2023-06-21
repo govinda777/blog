@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-28
+categories: [WEB3]
 ---
 
 <p align="center">

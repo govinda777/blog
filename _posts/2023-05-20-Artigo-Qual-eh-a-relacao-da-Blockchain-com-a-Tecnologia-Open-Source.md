@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-20
+categories: [WEB3]
 ---
 <p align="center">
 <img src="{{ site.baseurl }}/images/19--[Artigo]--Como_ganhar_dinheiro_com_IA.png" height="50%" width="50%" alt="Unform" />
