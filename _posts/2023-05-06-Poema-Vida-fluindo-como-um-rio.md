@@ -13,36 +13,65 @@ categories: [Poema]
 ## Titulo: Vida fluindo como um rio
 
 Flui a vida, sereno rio,
+
 Em constante movimento,
+
 Leva consigo o desafio
+
 De abraçar o tempo e o vento.
 
+---
+
 Nas curvas do seu caminho,
+
 Encontra pedras e dor,
+
 Mas desvia, com carinho,
+
 Segue adiante com ardor.
 
+---
+
 O rio nutre a terra e a vida,
+
 Interligando-nos em comunhão,
+
 Em um ciclo sem partida,
+
 Harmoniza a nossa canção.
 
+---
+
 A água molda e transforma,
+
 Mudança em seu coração,
+
 Aceita a dança da vida,
+
 Ensinando-nos a lição.
 
+---
+
 Em suas margens, aprendemos
+
 A superar obstáculos e dor,
+
 Com esperança, nos erguemos,
+
 Fortalecidos pelo amor.
 
+---
+
 Flua, vida, como o rio,
+
 Neste eterno bailar,
+
 Compreendamos o desafio,
+
 De aceitar, adaptar e amar.
 
-Autor : Govinda Systems
+---
+
 
 ## My Profile Resume
 
