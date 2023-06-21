@@ -4,7 +4,7 @@ date: 2023-05-07
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/7--[Poema]--Mae_deia_liberdade_felicidade.png" height="100%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/7--[Poema]--Mae_deia_liberdade_felicidade.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # Poema: Um passarinho alegre

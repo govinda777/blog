@@ -15,7 +15,7 @@ date: 2023-05-22
 
 Uma carteira na MetaMesk.
 
-| [<img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=100%><br><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
+| [<img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=50%><br><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
 | :---: |
 
 ## Passo 1
@@ -27,7 +27,7 @@ Após configurar a sua carteira MetaMask, entre no site:
 <details>
   <summary>[+]</summary>
 
-| [<img style="text-align: left;" src="https://img.youtube.com/vi/7tQdgxRJXsg/0.jpg" width=100%><br><h3 style="text-align: left;">UNISWAP EXPLICADA</h3>](https://www.youtube.com/watch?v=7tQdgxRJXsg) |
+| [<img style="text-align: left;" src="https://img.youtube.com/vi/7tQdgxRJXsg/0.jpg" width=50%><br><h3 style="text-align: left;">UNISWAP EXPLICADA</h3>](https://www.youtube.com/watch?v=7tQdgxRJXsg) |
 | :---: |
 
 
@@ -65,7 +65,7 @@ Após configurar a sua carteira MetaMask, entre no site:
 
 Endereço da carteira na etherscan: https://goerli.etherscan.io/address/0xB8a0c3e8f4f5F1325d878A10591cE3562009Ea6A
 
-| [<img src="https://img.youtube.com/vi/x3eRXeMB-4k/0.jpg" width=100%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s) |
+| [<img src="https://img.youtube.com/vi/x3eRXeMB-4k/0.jpg" width=50%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=x3eRXeMB-4k&t=36s) |
 | :---: |
 ```python
 

@@ -4,7 +4,7 @@
 
 > ### Como a tecnologia esta tentando imitar algumas qualidades divinas
 
-<img src="{{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__Como_a_tecnologia_esta_tentando_imitar_algumas_qualidades_divinas.jpeg" height="50%" width="50%" alt="Unform" />
 
 ## Estrutura de dados de uma Rede Blockchain.
 

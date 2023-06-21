@@ -17,7 +17,7 @@ date: 2023-05-23
   <summary>[+]</summary>
 Uma carteira na MetaMesk.
 
-| [<img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=100%><br><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
+| [<img style="text-align: left;" src="https://img.youtube.com/vi/SDYBxKlqIhw/0.jpg" width=50%><br><h3 style="text-align: left;">COMO CRIAR CARTEIRA METAMASK ATUALIZADO 2021 (TUTORIAL COMPLETO)</h3>](https://www.youtube.com/watch?v=SDYBxKlqIhw) |
 | :---: |
 
 * Estar conectado na Görli Testnet

@@ -1,6 +1,6 @@
 # Como Criar pull request template no Github
 
-<img src="{{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Como_criar_pull_request_template__GITHUB.jpeg" height="50%" width="50%" alt="Unform" />
 
 ## Como implementar ?
 

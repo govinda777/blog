@@ -1,6 +1,6 @@
 # [Ágil > Técnicas de Facilitação] - Entendendo o seu Comportamento
 
-<img src="{{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento.png" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento.png" height="50%" width="50%" alt="Unform" />
 
 ## Resumo:
 
@@ -126,7 +126,7 @@ congruência e aprendizagem : http://www.aral.com.au/resources/argyris.html
 
 ![Screenshot]({{ site.baseurl }}/images/k21-course-facilitation.jpeg)
 
-[<img src="{{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=100%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
+[<img src="{{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_16.jpeg" width=50%>](https://www.youtube.com/watch?v=zIIgBgPRA9Q)
 https://www.youtube.com/watch?v=zIIgBgPRA9Q
 
 

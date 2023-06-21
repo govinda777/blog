@@ -2,7 +2,7 @@
 
 > ### Como integrar 2 sistemas sem precisar de um desenvolvedor.
 
-<img src="{{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_02.png" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_02.png" height="50%" width="50%" alt="Unform" />
 
 ## Conheça o ZAPIER
 
@@ -44,7 +44,7 @@ O Zapier permite que sua empresa opere com mais eficiência e economize muito te
 
 ## Links
 
-| [<img src="https://img.youtube.com/vi/D4QD95VY2kA/0.jpg" width=100%><br><p style="text-align: left">O que é KIAI?</p>](https://www.youtube.com/watch?v=D4QD95VY2kA) |
+| [<img src="https://img.youtube.com/vi/D4QD95VY2kA/0.jpg" width=50%><br><p style="text-align: left">O que é KIAI?</p>](https://www.youtube.com/watch?v=D4QD95VY2kA) |
 | :---: |
 
 * KIAI! (気合) E a respiração : https://oyamaacademy.wordpress.com/2018/06/19/kiai-%E6%B0%97%E5%90%88-e-a-respiracao/

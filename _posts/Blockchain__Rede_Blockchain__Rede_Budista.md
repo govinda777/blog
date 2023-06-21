@@ -4,7 +4,7 @@
 
 > ### Rede Blockchain / Rede Budista / Teia de Indra
 
-<img src="{{ site.baseurl }}/images/Blockchain__Rede_Blockchain__Rede_Budista.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Blockchain__Rede_Blockchain__Rede_Budista.jpeg" height="50%" width="50%" alt="Unform" />
 
 ## Teia de Indra
 

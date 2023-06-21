@@ -2,7 +2,7 @@
 
 # Como desenhar um poligono em um mapa, dentro do Github README.md
 
-<img src="{{ site.baseurl }}/images/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="50%" width="50%" alt="Unform" />
 
 ## Exemplo
 

@@ -1,6 +1,6 @@
 # Hyperledger Firefly and The Super node.
 
-<img src="{{ site.baseurl }}/images/firefly02.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/firefly02.jpeg" height="50%" width="50%" alt="Unform" />
 
 Objetivo: 
 

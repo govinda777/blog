@@ -17,7 +17,7 @@ Teste 123[^1]
 
 ## Image
 
-<img src="{{ site.baseurl }}/images/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Como_desenhar_um_poligono_em_um_mapa_dentro_do_Github_README_2.jpeg" height="50%" width="50%" alt="Unform" />
 
 ## Image 2
 
@@ -28,7 +28,7 @@ Teste 123[^1]
 <p>
 
 <a href="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg">
-<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg" height="50%" width="50%" alt="Unform" />
 </a>
 
 </p>
@@ -38,7 +38,7 @@ Teste 123[^1]
 <p>
 
 <a href="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg">
-<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg" height="50%" width="50%" alt="Unform" />
 {{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg
 </a>
 
@@ -56,12 +56,12 @@ Teste 123[^1]
 
 ## Video 2
 
-| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=100%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
+| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=50%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
 | :---: |
 
 ## Video 3
 
-| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=100%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
+| [<img src="https://img.youtube.com/vi/zIIgBgPRA9Q/0.jpg" width=50%><br><p style="text-align: left">Entendendo o seu Comportamento - Raphael Molesim</p>](https://www.youtube.com/watch?v=zIIgBgPRA9Q) |
 | :---: |
 ```python
 

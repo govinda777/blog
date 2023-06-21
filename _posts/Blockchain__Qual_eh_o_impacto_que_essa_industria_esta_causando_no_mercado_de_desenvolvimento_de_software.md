@@ -1,7 +1,7 @@
 # Blockchain 
 > ### ¨Qual é o impacto que essa indústria está causando no mercado de desenvolvimento de software¨
 
-[<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%"><br>What is Market Cap (Market Capitalization) in Crypto? 📈</p>](https://www.youtube.com/watch?v=WV0Gr0PkCtY)
+[<p style="text-align: center"><img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%"><br>What is Market Cap (Market Capitalization) in Crypto? 📈</p>](https://www.youtube.com/watch?v=WV0Gr0PkCtY)
 
 ## Relembrando.
 
@@ -40,16 +40,16 @@ Hoje, com as cripto moedas, é muito fácil você subir uma aplicação utilizan
 
 Aqui estão alguns tutoriais que sinceramente achei incríveis.
 
-| [<img src="https://img.youtube.com/vi/LP6mRPBg_4I/0.jpg" width=100%><br><p style="text-align: left">Build OpenSea 2.0 Web3 dApp with Next.js, Replit, thirdweb, Infura, & Tailwind CSS</p>](https://www.youtube.com/watch?v=LP6mRPBg_4I) |
+| [<img src="https://img.youtube.com/vi/LP6mRPBg_4I/0.jpg" width=50%><br><p style="text-align: left">Build OpenSea 2.0 Web3 dApp with Next.js, Replit, thirdweb, Infura, & Tailwind CSS</p>](https://www.youtube.com/watch?v=LP6mRPBg_4I) |
 | :---: |
 
-| [<img src="https://img.youtube.com/vi/xR29afPvdxQ/0.jpg" width=100%><br><p style="text-align: left">Build Uniswap 3.0 App with Infura & NextJS (Full Swap Functionality)</p>](https://www.youtube.com/watch?v=xR29afPvdxQ) |
+| [<img src="https://img.youtube.com/vi/xR29afPvdxQ/0.jpg" width=50%><br><p style="text-align: left">Build Uniswap 3.0 App with Infura & NextJS (Full Swap Functionality)</p>](https://www.youtube.com/watch?v=xR29afPvdxQ) |
 | :---: |
 
-| [<img src="https://img.youtube.com/vi/HIWuUdo9utw/0.jpg" width=100%><br><p style="text-align: left">Build Airbnb with Solana & Next.js</p>](https://www.youtube.com/watch?v=HIWuUdo9utw) |
+| [<img src="https://img.youtube.com/vi/HIWuUdo9utw/0.jpg" width=50%><br><p style="text-align: left">Build Airbnb with Solana & Next.js</p>](https://www.youtube.com/watch?v=HIWuUdo9utw) |
 | :---: |
 
-| [<img src="https://img.youtube.com/vi/P5jetKCsupo/0.jpg" width=100%><br><p style="text-align: left">Build Bored Ape Yacht Club with Next.js, Tailwind & Thirdweb (NFT Drop Tutorial)</p>](https://www.youtube.com/watch?v=P5jetKCsupo) |
+| [<img src="https://img.youtube.com/vi/P5jetKCsupo/0.jpg" width=50%><br><p style="text-align: left">Build Bored Ape Yacht Club with Next.js, Tailwind & Thirdweb (NFT Drop Tutorial)</p>](https://www.youtube.com/watch?v=P5jetKCsupo) |
 | :---: |
 
 <p align="left">

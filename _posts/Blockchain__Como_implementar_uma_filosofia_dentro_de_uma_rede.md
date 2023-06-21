@@ -27,7 +27,7 @@ Me lembro em 2013 mais ou menos, recebi 2 desafios bem inusitados do meu Chefe.
 
 Solução 2013: A solução mais eficiente e com relação as tecnologías que tínhamos em mãos
 
-* Redes (Permissões / Envio de mensagens / Maior segurança em um possível ataque hacker / 100% de confiabilidade nas informações)
+* Redes (Permissões / Envio de mensagens / Maior segurança em um possível ataque hacker / 50% de confiabilidade nas informações)
 
 * Comunidades (Comunicações publicas e privadas / Time line de publicações / votações )
 

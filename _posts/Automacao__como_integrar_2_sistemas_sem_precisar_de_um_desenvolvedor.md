@@ -2,7 +2,7 @@
 
 > ### Como integrar 2 sistemas sem precisar de um desenvolvedor.
 
-<img src="{{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_02.png" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Automacao__como_integrar_2_sistemas_sem_precisar_de_um_desenvolvedor_02.png" height="50%" width="50%" alt="Unform" />
 
 ## Conheça o ZAPIER
 

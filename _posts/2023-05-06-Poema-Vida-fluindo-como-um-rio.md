@@ -4,7 +4,7 @@ date: 2023-05-06
 ---
 
 <p align="center">
-<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="100%" alt="Unform" />
+<img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
 </p>
 
 # Poema: Ode a minha donzela que viajou a terras longínquas 

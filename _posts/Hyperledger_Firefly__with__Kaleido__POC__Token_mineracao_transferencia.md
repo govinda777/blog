@@ -1,4 +1,4 @@
-<img src="{{ site.baseurl }}/images/Hyperledger_Firefly__with__Kaleido__POC__Token_mineracao_transferencia.jpeg" height="100%" width="100%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/Hyperledger_Firefly__with__Kaleido__POC__Token_mineracao_transferencia.jpeg" height="50%" width="50%" alt="Unform" />
 
 # Hyperledger Firefly [Tutorial] Token / mineracao / transferência 
 

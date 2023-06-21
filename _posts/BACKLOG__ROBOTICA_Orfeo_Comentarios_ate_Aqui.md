@@ -6,7 +6,7 @@
     </div>
     <i class="kt-icon-comment"></i>
   </a>
-</div></div><div class="sidebar-content"><div class="kt-extensions-collaboration_pane"><div class="kt-activity-stream" style="position: absolute; top: 0px; width: 100%; overflow: hidden;"><div class="nano has-scrollbar"><div class="nano-content" tabindex="-1" style="margin-right: -10px;"><ul class="stream" style="height: calc(100vh - 93px);">
+</div></div><div class="sidebar-content"><div class="kt-extensions-collaboration_pane"><div class="kt-activity-stream" style="position: absolute; top: 0px; width: 50%; overflow: hidden;"><div class="nano has-scrollbar"><div class="nano-content" tabindex="-1" style="margin-right: -10px;"><ul class="stream" style="height: calc(100vh - 93px);">
 
 
 
