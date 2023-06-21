@@ -8,9 +8,7 @@ categories: [Poema]
 <img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
 </p>
 
-# Poema: Ode a minha donzela que viajou a terras longínquas 
-
-## Titulo: Vida fluindo como um rio
+# Poema: Vida fluindo como um rio
 
 Flui a vida, sereno rio,
 
