@@ -92,4 +92,10 @@ E descubra a beleza de sua humanidade.
 
 ---
 
+## 
+
+Charles Bukowski, conhecido por sua poesia crua e honesta, aborda a fragilidade do homem em relação às responsabilidades, compromissos, inseguranças emocionais e sexuais. Neste poema, ele retrata o homem como alguém sobrecarregado pelo mundo e suas próprias expectativas, quebrando-se em momentos de intimidade e lutando com suas feridas emocionais.
+
+Bukowski destaca a importância de honrar a vulnerabilidade masculina, reconhecendo-a como parte da humanidade de cada indivíduo. Ele também aponta para a cura e o crescimento que podem ocorrer quando se permite a expressão e a compreensão dessas fraquezas. O poema convida o leitor a refletir sobre a complexidade da experiência masculina e a valorizar a autenticidade e a busca pela cura emocional.
+
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
