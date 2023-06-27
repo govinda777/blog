@@ -28,11 +28,13 @@ Bukowski, em sua abordagem crua, também celebra a vida em todo o seu esplendor 
 
 Bukowski, em sua poesia, celebra a beleza contida na imperfeição. Ele nos lembra que todos nós temos falhas e que é crucial abraçá-las em vez de escondê-las. "Somos todos belos e loucos", ele escreve, indicando que devemos amar a nós mesmos, com todas as nossas imperfeições e idiossincrasias.
 
-> "A única coisa que pode salvar um homem é ele mesmo." - Bukowski
+> "Algumas pessoas nunca enlouquecem. Que vida verdadeiramente horrível eles devem levar." - Charles Bukowski
 
 ## Autoconfiança e Fé: Pilares de Sustentação
 
 Ainda que a autoconfiança e o amor-próprio sejam essenciais, eles não bastam por si só. Também é fundamental ter fé em um poder superior e no amor daqueles que nos são queridos, especialmente a família. O amor deles serve como um refúgio em meio às tempestades da vida. É a segurança desse amor que nos oferece coragem para enfrentar o mundo, nos permite ser vulneráveis e arriscar.
+
+> "Minha ambição está limitada ao desejo de capturar algo que transcende a todos nós em poesia." - Charles Bukowski
 
 ## Confiança no Amor Familiar: Alimentando a Vontade de Poder
 
