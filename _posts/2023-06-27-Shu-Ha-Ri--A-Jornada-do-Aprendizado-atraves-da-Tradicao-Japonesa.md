@@ -8,8 +8,6 @@ categories: [Artigo]
 <img src="{{ site.baseurl }}/images/2023-06-27-Shu-Ha-Ri--A-Jornada-do-Aprendizado-atraves-da-Tradicao-Japonesa.jpg" height="50%" width="50%" alt="Unform" />
 </p>
 
-# Shu Ha Ri: A Jornada do Aprendizado através da Tradição Japonesa
-
 Shu Ha Ri (守破離) é um conceito japonês que descreve as três fases de aprendizado que um indivíduo atravessa no caminho para a maestria. Este conceito é profundamente enraizado na cultura e tradição japonesas e tem sido aplicado em várias disciplinas, incluindo artes marciais e, mais recentemente, metodologias ágeis de desenvolvimento de software. Neste artigo, exploraremos a etimologia dessas palavras e a correta pronúncia, bem como a aplicação deste conceito em diferentes campos.
 
 ## Etimologia e Pronúncia
