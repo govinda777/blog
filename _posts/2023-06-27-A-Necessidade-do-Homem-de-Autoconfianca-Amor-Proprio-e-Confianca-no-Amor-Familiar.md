@@ -1,5 +1,6 @@
 ---
 layout: post
+title: A necessidade do homem de Autoconfiança Amor Próprio e Confiança no amor da familiar
 date: 2023-06-27
 categories: [Artigo]
 ---
