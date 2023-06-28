@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Amor próprio segundo Rupi Kaur  Um manifesto poético para o auto respeito
 date: 2023-06-27
 categories: [Artigo]
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Shu Ha Ri" A Jornada do Aprendizado atraves da Tradicao Japonesa
 date: 2023-06-27
 categories: [Artigo]
 ---
