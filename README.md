@@ -1,6 +1,8 @@
 # blog
 [Govindas Tech Talk] - blog
 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=push)](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml)
+
 ## My-Competitors [Meus concorrentes]
 
 * ![]({{ site.baseurl }}/images/my-competitors.jpeg)
