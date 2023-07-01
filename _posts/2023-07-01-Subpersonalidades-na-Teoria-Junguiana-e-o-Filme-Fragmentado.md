@@ -27,7 +27,20 @@ Cada subpersonalidade pode ter sua própria visão de mundo, que pode ser muito 
 ## Subpersonalidade e o Conceito de Persona e Sombra
 Na teoria junguiana, a "persona" é a máscara social que usamos para interagir com o mundo, enquanto a "sombra" é o aspecto de nossa personalidade que rejeitamos ou ignoramos. No filme, as subpersonalidades de Kevin podem ser vistas como diferentes personas, cada uma com sua própria sombra. Por exemplo, a subpersonalidade "A Fera" pode ser vista como a sombra de Kevin, representando seus medos e impulsos mais escuros.
 
-Em conclusão, o filme "Fragmentado" oferece uma representação fascinante e perturbadora da teoria das subpersonalidades de Jung. Embora o filme seja uma obra de ficção, ele levanta questões interessantes sobre a natureza da personalidade e a maneira como lidamos com nossos próprios complexos e subpersonalidades.
+## Transtorno Dissociativo de Identidade (TDI)
+O Transtorno Dissociativo de Identidade (TDI), anteriormente conhecido como Transtorno de Personalidade Múltipla, é um diagnóstico psiquiátrico controverso que se caracteriza pela presença de duas ou mais personalidades distintas ou estados de identidade que assumem o controle do comportamento de um indivíduo. Cada personalidade tem suas próprias memórias, comportamentos, pensamentos e emoções.
+
+No filme "Fragmentado", o personagem de Kevin é retratado como tendo TDI, com suas 23 personalidades distintas. No entanto, é importante notar que a representação do TDI no filme é dramatizada e não deve ser vista como uma representação precisa do transtorno na vida real. Na prática clínica, o TDI é raro e os indivíduos que recebem este diagnóstico geralmente não têm um grande número de personalidades distintas como Kevin.
+
+A teoria junguiana das subpersonalidades e o conceito de TDI têm semelhanças, mas também diferenças importantes. Ambos reconhecem a existência de múltiplas personalidades ou estados de identidade dentro de um único indivíduo. No entanto, na teoria junguiana, as subpersonalidades são vistas como aspectos normais da personalidade humana e não são necessariamente associadas a traumas ou disfunções. Por outro lado, o TDI é considerado um transtorno mental que é frequentemente associado a traumas graves na infância.
+
+## A Interseção entre a Teoria Junguiana e o TDI
+Embora a teoria junguiana das subpersonalidades e o TDI sejam conceitos distintos, eles compartilham a ideia de que um indivíduo pode ter múltiplas personalidades ou estados de identidade. No entanto, enquanto a teoria junguiana vê as subpersonalidades como uma parte normal e saudável da psique humana, o TDI é visto como um transtorno mental que resulta de trauma e disfunção.
+
+A teoria junguiana pode oferecer uma lente útil para entender e tratar o TDI. Por exemplo, a ideia de que uma subpersonalidade pode se tornar dominante e suprimir as outras é semelhante à experiência de muitas pessoas com TDI. Da mesma forma, a ideia de que as subpersonalidades têm suas próprias visões de mundo pode ajudar a explicar a diversidade de personalidades observadas no TDI.
+
+## Conclusão
+"Fragmentado" é um filme intrigante que explora a teoria das subpersonalidades de Jung de uma maneira única e dramática. Embora a representação do TDI no filme seja exagerada e possa perpetuar estereótipos, o filme também levanta questões interessantes sobre a natureza da personalidade e a existência de múltiplas personalidades dentro de um único indivíduo. Ao fazer isso, "Fragmentado" nos desafia a refletir sobre nossas próprias subpersonalidades e a complexidade da psique humana.
 
 ## Referencias
 
