@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carl Jung-eo-Libido
+title: A Influência da Libido nos Complexos e Traumas "Uma Perspectiva Junguiana"
 date: 2023-06-28
 categories: [Artigo]
 ---
