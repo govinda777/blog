@@ -12,6 +12,10 @@ layout: default
         {{ post.excerpt }}
       </div>
 
+      {% for category in post.categories %}
+      <button data-category="#{{ category }}">{{ category }}</button>
+      {% endfor %}
+
       <a href="./{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}

@@ -57,6 +57,46 @@
       </div>
     </div>
 
+    <nav>
+      
+        <button data-category="#Liberdade">Liberdade</button>
+      
+        <button data-category="#Lesões">Lesões</button>
+      
+        <button data-category="#Agilidade">Agilidade</button>
+      
+        <button data-category="#WEB3">WEB3</button>
+      
+        <button data-category="#Poema">Poema</button>
+      
+        <button data-category="#Biografia">Biografia</button>
+      
+        <button data-category="#AI">AI</button>
+      
+        <button data-category="#Tecnologia">Tecnologia</button>
+      
+        <button data-category="#Manga">Manga</button>
+      
+        <button data-category="#Anarcocapitalismo">Anarcocapitalismo</button>
+      
+        <button data-category="#Dinheiro">Dinheiro</button>
+      
+        <button data-category="#Desestatização">Desestatização</button>
+      
+        <button data-category="#Filosofia">Filosofia</button>
+      
+        <button data-category="#Serviço Social">Serviço Social</button>
+      
+        <button data-category="#IA">IA</button>
+      
+        <button data-category="#Testes automatizados">Testes automatizados</button>
+      
+        <button data-category="#Direito">Direito</button>
+      
+        <button data-category="#Artigo">Artigo</button>
+      
+    </nav>
+
     <div id="main" role="main" class="container">
       <article class="post">
   <h1>Poema Vida Fluindo Como Um Rio</h1>
@@ -66,41 +106,67 @@
 <img src="https://i.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.webp" height="50%" width="50%" alt="Unform" />
 </p>
 
-<h1 id="poema-ode-a-minha-donzela-que-viajou-a-terras-longínquas">Poema: Ode a minha donzela que viajou a terras longínquas</h1>
+<h1 id="poema-vida-fluindo-como-um-rio">Poema: Vida fluindo como um rio</h1>
 
-<h2 id="titulo-vida-fluindo-como-um-rio">Titulo: Vida fluindo como um rio</h2>
+<p>Flui a vida, sereno rio,</p>
 
-<p>Flui a vida, sereno rio,
-Em constante movimento,
-Leva consigo o desafio
-De abraçar o tempo e o vento.</p>
+<p>Em constante movimento,</p>
 
-<p>Nas curvas do seu caminho,
-Encontra pedras e dor,
-Mas desvia, com carinho,
-Segue adiante com ardor.</p>
+<p>Leva consigo o desafio</p>
 
-<p>O rio nutre a terra e a vida,
-Interligando-nos em comunhão,
-Em um ciclo sem partida,
-Harmoniza a nossa canção.</p>
+<p>De abraçar o tempo e o vento.</p>
 
-<p>A água molda e transforma,
-Mudança em seu coração,
-Aceita a dança da vida,
-Ensinando-nos a lição.</p>
+<hr />
 
-<p>Em suas margens, aprendemos
-A superar obstáculos e dor,
-Com esperança, nos erguemos,
-Fortalecidos pelo amor.</p>
+<p>Nas curvas do seu caminho,</p>
 
-<p>Flua, vida, como o rio,
-Neste eterno bailar,
-Compreendamos o desafio,
-De aceitar, adaptar e amar.</p>
+<p>Encontra pedras e dor,</p>
 
-<p>Autor : Govinda Systems</p>
+<p>Mas desvia, com carinho,</p>
+
+<p>Segue adiante com ardor.</p>
+
+<hr />
+
+<p>O rio nutre a terra e a vida,</p>
+
+<p>Interligando-nos em comunhão,</p>
+
+<p>Em um ciclo sem partida,</p>
+
+<p>Harmoniza a nossa canção.</p>
+
+<hr />
+
+<p>A água molda e transforma,</p>
+
+<p>Mudança em seu coração,</p>
+
+<p>Aceita a dança da vida,</p>
+
+<p>Ensinando-nos a lição.</p>
+
+<hr />
+
+<p>Em suas margens, aprendemos</p>
+
+<p>A superar obstáculos e dor,</p>
+
+<p>Com esperança, nos erguemos,</p>
+
+<p>Fortalecidos pelo amor.</p>
+
+<hr />
+
+<p>Flua, vida, como o rio,</p>
+
+<p>Neste eterno bailar,</p>
+
+<p>Compreendamos o desafio,</p>
+
+<p>De aceitar, adaptar e amar.</p>
+
+<hr />
 
 <h2 id="my-profile-resume">My Profile Resume</h2>
 
@@ -143,5 +209,22 @@ De aceitar, adaptar e amar.</p>
 
     
 
+
+    <script>
+      document.querySelectorAll('#category-menu button').forEach(function(button) {
+        button.addEventListener('click', function() {
+          var category = this.getAttribute('data-category');
+          var posts = document.querySelectorAll('article');
+          posts.forEach(function(post) {
+            if (category === 'all' || post.classList.contains(category)) {
+              post.style.display = 'block';
+            } else {
+              post.style.display = 'none';
+            }
+          });
+        });
+      });
+    </script>
+    
   </body>
 </html>

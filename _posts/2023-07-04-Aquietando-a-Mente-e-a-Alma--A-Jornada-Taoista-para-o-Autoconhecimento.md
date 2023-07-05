@@ -2,7 +2,7 @@
 layout: post
 title: Aquietando a Mente e a Alma "A Jornada Taoista para o Autoconhecimento"
 date: 2023-07-04
-categories: [Artigo]
+categories: Artigo
 ---
 
 <p align="center">

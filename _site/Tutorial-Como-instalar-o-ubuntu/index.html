@@ -53,6 +53,46 @@
       </div>
     </div>
 
+    <nav>
+      
+        <button data-category="#Liberdade">Liberdade</button>
+      
+        <button data-category="#Lesões">Lesões</button>
+      
+        <button data-category="#Agilidade">Agilidade</button>
+      
+        <button data-category="#WEB3">WEB3</button>
+      
+        <button data-category="#Poema">Poema</button>
+      
+        <button data-category="#Biografia">Biografia</button>
+      
+        <button data-category="#AI">AI</button>
+      
+        <button data-category="#Tecnologia">Tecnologia</button>
+      
+        <button data-category="#Manga">Manga</button>
+      
+        <button data-category="#Anarcocapitalismo">Anarcocapitalismo</button>
+      
+        <button data-category="#Dinheiro">Dinheiro</button>
+      
+        <button data-category="#Desestatização">Desestatização</button>
+      
+        <button data-category="#Filosofia">Filosofia</button>
+      
+        <button data-category="#Serviço Social">Serviço Social</button>
+      
+        <button data-category="#IA">IA</button>
+      
+        <button data-category="#Testes automatizados">Testes automatizados</button>
+      
+        <button data-category="#Direito">Direito</button>
+      
+        <button data-category="#Artigo">Artigo</button>
+      
+    </nav>
+
     <div id="main" role="main" class="container">
       <article class="post">
   <h1>Tutorial Como Instalar O Ubuntu</h1>
@@ -134,5 +174,22 @@
 
     
 
+
+    <script>
+      document.querySelectorAll('#category-menu button').forEach(function(button) {
+        button.addEventListener('click', function() {
+          var category = this.getAttribute('data-category');
+          var posts = document.querySelectorAll('article');
+          posts.forEach(function(post) {
+            if (category === 'all' || post.classList.contains(category)) {
+              post.style.display = 'block';
+            } else {
+              post.style.display = 'none';
+            }
+          });
+        });
+      });
+    </script>
+    
   </body>
 </html>
