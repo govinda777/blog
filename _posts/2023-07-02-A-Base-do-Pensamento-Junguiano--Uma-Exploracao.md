@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Base do Pensamento Junguiano "Uma Exploração"
-date: 2023-01-07
+date: 2023-07-02
 categories: [Artigo]
 ---
 
