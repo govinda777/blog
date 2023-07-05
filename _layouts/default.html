@@ -35,6 +35,12 @@
       </div>
     </div>
 
+    <nav>
+      {% for category in site.categories %}
+        <button data-category="#{{ category | first }}">{{ category | first }}</button>
+      {% endfor %}
+    </nav>
+
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
@@ -48,5 +54,22 @@
     </div>
 
     {% include analytics.html %}
+
+    <script>
+      document.querySelectorAll('#category-menu button').forEach(function(button) {
+        button.addEventListener('click', function() {
+          var category = this.getAttribute('data-category');
+          var posts = document.querySelectorAll('article');
+          posts.forEach(function(post) {
+            if (category === 'all' || post.classList.contains(category)) {
+              post.style.display = 'block';
+            } else {
+              post.style.display = 'none';
+            }
+          });
+        });
+      });
+    </script>
+    
   </body>
 </html>
