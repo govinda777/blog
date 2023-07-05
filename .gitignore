@@ -1,4 +1,6 @@
 .sass-cache/
+_site/
+_site
 
 # Node modules
 node_modules
