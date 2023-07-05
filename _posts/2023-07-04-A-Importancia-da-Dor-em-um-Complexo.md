@@ -45,7 +45,7 @@ Para ilustrar esses conceitos, consideremos dois exemplos:
 
 ## Reflexões
 
-1. Se a nossa inconsciência de algo nos faz explicitamente rejeitar e fugir da ajuda, acho que por isso que muitas vezes Deus é definido por ser uma (Pessoa | Energia | Ser | Não ser) que está de algum lugar falando que nos ama, e torcendo para que ouçamos.
+1. Se a nossa inconsciência de algo nos faz explicitamente rejeitar e fugir da ajuda, acho que por isso que muitas vezes Deus é definido por ser uma (Pessoa, Energia, Ser, Não ser) que está de algum lugar falando que nos ama, e torcendo para que ouçamos.
 
 2. A Fera do filme Fragmentado tinha razão em enaltecer as pessoas que passaram por sofrimentos, essas sim tiveram mais oportunidades de ouvir a Voz de Deus. 
 
