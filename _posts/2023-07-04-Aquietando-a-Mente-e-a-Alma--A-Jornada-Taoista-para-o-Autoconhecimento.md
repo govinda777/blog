@@ -9,8 +9,6 @@ categories: [Artigo]
 <img src="{{ site.baseurl }}/images/2023-07-04-Aquietando-a-Mente-e-a-Alma--A-Jornada-Taoista-para-o-Autoconhecimento.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-# Aquietando a Mente e a Alma: A Jornada Taoista para o Autoconhecimento
-
 ## Introdução
 
 A busca pelo autoconhecimento é uma jornada que tem sido explorada por filósofos e monges ao longo da história. A filosofia taoista, em particular, enfatiza a importância de aquietar a mente e a alma como um meio fundamental para alcançar essa compreensão profunda de si mesmo. Este artigo explora a razão pela qual a quietude interna é tão crucial para o autoconhecimento, com base nos ensinamentos de filósofos e monges taoistas.
