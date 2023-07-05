@@ -2,7 +2,7 @@
 layout: post
 title: Subpersonalidades na Teoria Junguiana e o Filme "Fragmentado"
 date: 2023-07-01
-categories: [Poema]
+categories: [Artigo]
 ---
 
 <p align="center">

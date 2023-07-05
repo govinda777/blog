@@ -28,7 +28,6 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/categories/">Categorias</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
@@ -36,8 +35,19 @@
     </div>
 
     <nav>
-      {% for category in site.categories %}
-        <button data-category="#{{ category | first }}">{{ category | first }}</button>
+      
+      {% assign all_categories = "" %}
+      {% for post in site.posts %}
+        {% for category in post.categories %}
+          {% unless all_categories contains category %}
+            {% assign all_categories = all_categories | append: category | append: "," %}
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+
+      {% assign unique_categories = all_categories | split: "," %}
+      {% for category in unique_categories %}
+        <button data-category="#{{ category }}">{{ category }}</button>
       {% endfor %}
     </nav>
 
