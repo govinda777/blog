@@ -9,17 +9,10 @@ categories: [Artigo]
 <img src="{{ site.baseurl }}/images/2023-07-04-A-Importancia-da-Dor-em-um-Complexo.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-## Introdução
-
-A dor é uma experiência universal e inerente à condição humana. Ela pode ser física, emocional ou psicológica, e muitas vezes é o resultado de um trauma. O trauma, por sua vez, é uma experiência profundamente perturbadora que desafia a capacidade de uma pessoa de lidar, deixando marcas duradouras na mente, corpo e espírito. Este artigo explora a importância da dor de um trauma, com uma ênfase particular na perspectiva junguiana e cristã.
-
-## Definição de Luz e Sombra na Perspectiva Junguiana
-
-Carl Jung, um dos mais influentes psicólogos do século XX, propôs a ideia de que a psique humana é composta por diferentes aspectos, incluindo a luz e a sombra. A luz representa# A Importância da Dor em um Complexo: Uma Perspectiva Junguiana e Cristã Refinada
 
 ## Introdução
 
-A dor é uma experiência universal e inerente à condição humana. Ela pode ser física, emocional ou psicológica, e muitas vezes é o resultado de um trauma. O trauma, por sua vez, é uma experiência profundamente perturbadora que desafia a capacidade de uma pessoa de lidar, deixando marcas duradouras na mente, corpo e espírito. Este artigo explora a importância da dor de um trauma, com uma ênfase particular na perspectiva junguiana e cristã. Como C.S. Lewis escreveu, "Deus sussurra em nossos prazeres, fala em nossa consciência, mas grita em nossas dores: é seu megafone para despertar um mundo surdo."
+A dor é uma experiência universal e inerente à condição humana. Ela pode ser física, emocional ou psicológica, e muitas vezes é o resultado de um trauma. O trauma, por sua vez, é uma experiência profundamente perturbadora que desafia a capacidade de uma pessoa de lidar, deixando marcas duradouras na mente, corpo e espírito. Este artigo explora a importância da dor de um trauma, com uma ênfase particular na perspectiva junguiana. Como C.S. Lewis escreveu, "Deus sussurra em nossos prazeres, fala em nossa consciência, mas grita em nossas dores: é seu megafone para despertar um mundo surdo."
 
 ## Definição de Luz e Sombra na Perspectiva Junguiana
 
