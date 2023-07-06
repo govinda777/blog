@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almas gêmeas alegres no Japão
-date: 2023-07-04
+date: 2023-07-06
 categories: Poema
 ---
 
