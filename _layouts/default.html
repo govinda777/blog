@@ -34,7 +34,7 @@
       </div>
     </div>
 
-    <nav>
+    <div>
       
       {% assign all_categories = "" %}
       {% for post in site.posts %}
@@ -49,7 +49,7 @@
       {% for category in unique_categories %}
         <button class="category-button" data-category="{{ category }}">{{ category }}</button>
       {% endfor %}
-    </nav>
+    </div>
 
     <div id="main" role="main" class="container">
       {{ content }}
