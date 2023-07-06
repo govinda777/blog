@@ -29,11 +29,11 @@ Brilham juntos na escuridão, guiando nosso caminho.
 
 ---
 
-Nas ruas de Tóquio, sob a luz da lua amarela,
+Nas ruas de Toyota, sob a luz da lua amarela,
 
 Nós dançamos, dois corações batendo como um.
 
-Nas montanhas de Kyoto, ao som do vento,
+No monte Fuji, ao som do vento,
 
 Nós sussurramos promessas que o tempo nunca desfará.
 
