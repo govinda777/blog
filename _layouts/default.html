@@ -47,7 +47,7 @@
 
       {% assign unique_categories = all_categories | split: "," %}
       {% for category in unique_categories %}
-        <button data-category="#{{ category }}">{{ category }}</button>
+        <button class="category-button" data-category="{{ category }}">{{ category }}</button>
       {% endfor %}
     </nav>
 
@@ -66,12 +66,20 @@
     {% include analytics.html %}
 
     <script>
-      document.querySelectorAll('#category-menu button').forEach(function(button) {
+      var categoryButtons = document.querySelectorAll('.category-button');
+      var posts = document.querySelectorAll('.post');
+    
+      categoryButtons.forEach(function(button) {
         button.addEventListener('click', function() {
           var category = this.getAttribute('data-category');
-          var posts = document.querySelectorAll('article');
+    
+          console.log({ category });
+
           posts.forEach(function(post) {
-            if (category === 'all' || post.classList.contains(category)) {
+            var postCategories = post.getAttribute('data-categories').split(',');
+            console.log({ postCategories });
+    
+            if (postCategories.includes(category)) {
               post.style.display = 'block';
             } else {
               post.style.display = 'none';
