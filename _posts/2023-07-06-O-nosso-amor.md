@@ -2,7 +2,7 @@
 layout: post
 title: O nosso amor
 date: 2023-07-04
-categories: Artigo
+categories: Poema
 ---
 
 <p align="center">
