@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O Grande Homem
-date: 2023-07-08
+title: A alma é o segredo o segredo o negócio
+date: 2023-07-07
 categories: Poema
 ---
 
