@@ -6,7 +6,7 @@ categories: Conto
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-07-09-Santo-Graal.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-07-09-O-Rei-Pescador.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 
