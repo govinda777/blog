@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Santo Graal
+title: O Rei Pescador
 date: 2023-07-09
 categories: Conto
 ---
