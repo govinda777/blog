@@ -1,40 +1,36 @@
 ---
 layout: post
-title: O Rato de Ganesha
+title: Santo Graal
 date: 2023-07-09
-categories: Poema
+categories: Conto
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-07-09-O-Rato-de-Ganesha.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-07-09-Santo-Graal.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-**Título: A Transformação de Krauncha: Uma Alegoria da Mente Humana**
 
-**I. A Origem de Krauncha**
+Era uma vez, em um reino distante, um rei conhecido como o Rei Pescador. Ele era o último de uma longa linhagem de reis britânicos encarregados de guardar o Santo Graal, um objeto de imenso poder e santidade. O Rei Pescador era um homem de grande coragem e sabedoria, mas uma ferida misteriosa o tornara impotente, e seu reino, outrora próspero e fértil, tornou-se estéril e desolado.
 
-Nos tempos antigos, havia um demônio poderoso chamado Krauncha. Ele era conhecido por sua habilidade de assumir qualquer forma que desejasse, uma habilidade que simbolizava a natureza fluida e inconstante da mente humana. Krauncha era indomável, assim como a mente humana, que é frequentemente difícil de controlar e direcionar.
+A ferida do Rei Pescador era uma maldição, uma punição por um pecado esquecido. Ele estava ferido na coxa, um ferimento que não curava, não importava quantos curandeiros tentassem. Incapaz de caminhar ou montar um cavalo, o rei passava seus dias sentado à beira de um lago, pescando e esperando. Esperando por um herói que pudesse curá-lo e restaurar seu reino.
 
-*"Assim como o vento não pode ser capturado, a mente é difícil de controlar, mas a mente controlada traz a verdadeira liberdade." - Bhagavad Gita 6.34*
+Um dia, um jovem cavaleiro chamado Perceval chegou ao reino. Ele era corajoso, forte e puro de coração, e tinha ouvido falar do Rei Pescador e do Santo Graal. Perceval se apresentou ao rei e se ofereceu para ajudar a curar sua ferida e restaurar o reino.
 
-**II. As Destruições de Krauncha**
+O Rei Pescador olhou para Perceval e viu em seus olhos a determinação e a coragem que ele mesmo possuía em sua juventude. Ele deu a Perceval uma tarefa: encontrar o Santo Graal e trazê-lo de volta ao reino. Apenas o poder do Graal poderia curar a ferida do rei e restaurar a fertilidade de suas terras.
 
-Krauncha, em sua forma preferida de rato, começou a causar estragos no universo. Ele roía tudo em seu caminho, destruindo a harmonia e a ordem. Da mesma forma, a mente humana, quando deixada sem controle, pode causar estragos em nossa vida, consumindo nossa paz e felicidade.
+Perceval partiu em sua busca, enfrentando muitos perigos e provações ao longo do caminho. Ele lutou contra dragões, resgatou donzelas em perigo e resistiu a tentações de todos os tipos. Mas, apesar de todas as dificuldades, ele nunca perdeu de vista seu objetivo.
 
-*"A mente agitada é a causa de todo sofrimento, e a mente controlada é a fonte de toda alegria." - Upanishads*
+Finalmente, depois de muitos anos de busca, Perceval encontrou o Santo Graal. Ele o levou de volta ao reino do Rei Pescador e o apresentou ao rei. O poder do Graal curou a ferida do rei, e as terras do reino voltaram a ser férteis e prósperas.
 
-**III. A Batalha Final Contra Ganesha**
+Perceval se tornou um herói, celebrado em todo o reino. Mas, mais importante, ele se tornou um símbolo de esperança e perseverança. Ele provou que, não importa quão grande seja o desafio, com coragem e determinação, é possível superá-lo.
 
-Vendo a destruição causada por Krauncha, Ganesha, o deus da sabedoria, foi chamado para intervir. A batalha entre Ganesha e Krauncha foi intensa. Ganesha, representando a sabedoria e o discernimento, lutou contra Krauncha, o rato, um símbolo da mente indisciplinada.
+E assim, a lenda do Rei Pescador e do Santo Graal continuou, passando de geração em geração. Uma história de coragem, sacrifício e redenção, um lembrete de que mesmo nos momentos mais sombrios, sempre há esperança.
 
-*"Aquele que tem controle sobre a mente tem controle sobre o mundo inteiro." - Srimad Bhagavatam 5.11.17*
 
-**IV. A Transformação de Krauncha**
+## Referencia
 
-Finalmente, Ganesha conseguiu dominar Krauncha. Krauncha, exausto e derrotado, se rendeu e pediu desculpas por suas ações. Ganesha, em sua infinita sabedoria, perdoou Krauncha e o transformou em seu veículo, simbolizando a conquista da mente indisciplinada.
+https://www.youtube.com/watch?v=Dar23K5uMF8
 
-*"Quando a mente está controlada, o 'eu' superior é alcançado." - Yoga Sutras de Patanjali 3.35*
-
-Este conto nos ensina a importância de controlar e direcionar nossa mente. Assim como Ganesha transformou Krauncha, a mente indisciplinada, em seu veículo, também devemos aprender a controlar nossa mente e usá-la para nosso benefício.
+https://en.wikipedia.org/wiki/Fisher_King
 
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
