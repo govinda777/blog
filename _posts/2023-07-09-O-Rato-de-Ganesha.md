@@ -37,4 +37,3 @@ Finalmente, Ganesha conseguiu dominar Krauncha. Krauncha, exausto e derrotado, s
 
 Este conto nos ensina a importância de controlar e direcionar nossa mente. Assim como Ganesha transformou Krauncha, a mente indisciplinada, em seu veículo, também devemos aprender a controlar nossa mente e usá-la para nosso benefício.
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

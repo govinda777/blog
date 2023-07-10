@@ -46,4 +46,3 @@ Rupi Kaur, através de sua escrita, encoraja todos nós a embarcar na jornada do
 Portanto, "como você ama a si mesmo é/ como você ensina os outros/ a te amar", além de ser um poema encantador, também se destaca como uma ponte entre a poesia contemporânea e o discurso filosófico atemporal sobre a importância e o poder do amor-próprio.
 
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

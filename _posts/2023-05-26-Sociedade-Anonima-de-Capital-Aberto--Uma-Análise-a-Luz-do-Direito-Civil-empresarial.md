@@ -29,4 +29,3 @@ Em termos de tendências futuras, é possível vislumbrar um aumento na digitali
 Em conclusão, a sociedade anônima de capital aberto é uma forma de organização empresarial que oferece muitas oportunidades, mas também apresenta desafios. É essencial que os empresários, investidores e profissionais do direito compreendam suas características, requisitos legais e tendências futuras para navegar com sucesso no mundo das sociedades anônimas de capital aberto.
 
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

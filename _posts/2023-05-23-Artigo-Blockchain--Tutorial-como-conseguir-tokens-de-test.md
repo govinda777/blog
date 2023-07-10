@@ -100,7 +100,7 @@ https://goerli.etherscan.io/token/0x326c977e6efc84e512bb9c30f76e30c160ed06fb
 
 </p>
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
+
 
 ## Link
 

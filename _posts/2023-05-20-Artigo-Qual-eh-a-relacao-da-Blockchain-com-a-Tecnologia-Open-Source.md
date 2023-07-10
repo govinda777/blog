@@ -87,4 +87,3 @@ Embora as transações na blockchain sejam visíveis a todos, a anonimidade dos 
 
 É importante observar que, embora essas técnicas forneçam um certo grau de anonimato, elas não são totalmente infalíveis. Se houver uma análise cuidadosa e detalhada da blockchain, é possível traçar padrões e relações entre endereços e transações. Portanto, é fundamental que os usuários estejam cientes das limitações da anonimidade e tomem medidas adicionais, como o uso de carteiras e serviços de privacidade especializados, para proteger sua identidade e privacidade ao realizar transações na blockchain.
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

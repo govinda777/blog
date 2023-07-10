@@ -56,4 +56,3 @@ Aquietar a mente é uma habilidade que requer prática, mas com o tempo, você p
 Aquietar a mente e a alma é uma prática fundamental na busca pelo autoconhecimento na filosofia taoista. 
 Ao cultivar a quietude interna, criamos espaço para que nossa verdadeira natureza se revele. Ao mesmo tempo, nos conectamos com o Tao, a realidade divina que permeia todas as coisas. Esta prática nos permite ver além das distrações e ilusões do mundo externo e descobrir a verdade profunda de quem realmente somos.
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

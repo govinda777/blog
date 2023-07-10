@@ -46,4 +46,3 @@ Em última análise, a desestatização do dinheiro é sobre a liberdade. É sob
 
 A humanidade está, de fato, tirando o estado de seu dinheiro. E, ao fazê-lo, estamos não apenas redefinindo o que significa dinheiro, mas também redefinindo o que significa ser livre.
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

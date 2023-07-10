@@ -39,4 +39,3 @@ Depois que o processo for concluído, você terá um pendrive de inicialização
 
 E é isso! Agora você sabe como criar um pendrive de inicialização no Ubuntu. Esse processo é útil para instalar o Ubuntu em outros computadores, para instalar uma versão diferente do Ubuntu no seu computador atual ou para ter um sistema operacional ao vivo que você possa usar em qualquer lugar.
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)

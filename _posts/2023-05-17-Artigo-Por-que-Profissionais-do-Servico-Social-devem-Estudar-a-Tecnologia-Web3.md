@@ -44,4 +44,3 @@ Apesar dos benefícios, é importante considerar os desafios e questões éticas
 
 Em resumo, o estudo da tecnologia Web3 é fundamental para profissionais do Serviço Social que desejam ampliar suas possibilidades de atuação e se adaptar às demandas em constante evolução da sociedade. Ao abraçar essa nova
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
