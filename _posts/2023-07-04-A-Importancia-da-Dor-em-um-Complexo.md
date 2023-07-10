@@ -19,15 +19,15 @@ A dor é uma experiência universal e inerente à condição humana. Ela pode se
 Antes de falarmos de Complexos precisamos abordar o conseito de Libido.
 Na psicologia junguiana, a libido e os complexos são dois conceitos fundamentais que estão intimamente interligados
 
-### Libido: A Energia Motriz
+## Libido: A Energia Motriz
 
 Jung usou o termo "libido" de uma maneira diferente de Freud. Para Jung, a libido não é apenas energia sexual, mas uma energia psíquica geral que impulsiona todas as ações humanas. É a força vital que anima todos os aspectos de nossa existência. A libido é a energia que impulsiona a vida, a motivação por trás de todas as nossas ações, pensamentos e sentimentos.
 
-### Complexos: Os Arquitetos do Destino
+## Complexos: Os Arquitetos do Destino
 
 Por outro lado, os complexos, na visão de Jung, são padrões de emoções, memórias, percepções e desejos organizados em torno de um tema comum. Eles podem ser conscientes ou inconscientes e podem influenciar nossos pensamentos, sentimentos e comportamentos de maneiras que nem sempre entendemos.
 
-### A Conexão entre Libido e Complexos
+## A Conexão entre Libido e Complexos
 
 A libido e os complexos estão interligados de várias maneiras. Primeiro, a libido, como a energia motriz da psique, pode ser direcionada para um complexo. Quando isso acontece, o complexo pode se tornar uma força poderosa que influencia nossos pensamentos, sentimentos e comportamentos.
 
