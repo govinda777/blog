@@ -10,3 +10,16 @@ categories: Artigo
 </p>
 
 
+Reconhecendo minha Sombra como parte da minha psique
+
+Reconhecendo meus sentimento destrutivos 
+
+Por que a minha Sombra é necessária e parte importante do meu ser
+
+O que aconteceu quando quis reprimir a minha sombra ou negala 
+
+Como posso ser amigo da minha sombra?
+
+Como posso ajudar a minha sombra?
+
+Eu te amo Sombra
