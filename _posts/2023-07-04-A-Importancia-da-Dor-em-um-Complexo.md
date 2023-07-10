@@ -12,25 +12,32 @@ categories: [Artigo]
 
 ## Introdução
 
-A dor é uma experiência universal e inerente à condição humana. Ela pode ser física, emocional ou psicológica, e muitas vezes é o resultado de um trauma. O trauma, por sua vez, é uma experiência profundamente perturbadora que desafia a capacidade de uma pessoa de lidar, deixando marcas duradouras na mente, corpo e espírito. Este artigo explora a importância da dor de um trauma, com uma ênfase particular na perspectiva junguiana. Como C.S. Lewis escreveu, "Deus sussurra em nossos prazeres, fala em nossa consciência, mas grita em nossas dores: é seu megafone para despertar um mundo surdo."
+A dor é uma experiência universal e inerente à condição humana. Ela pode ser física, emocional ou psicológica, e muitas vezes é o resultado de um complexo. O complexo, por sua vez, é uma experiência profundamente perturbadora que desafia a capacidade de uma pessoa de lidar, deixando marcas duradouras na mente, corpo e espírito. Este artigo explora a importância da dor de um complexo, com uma ênfase particular na perspectiva junguiana. Como C.S. Lewis escreveu, "Deus sussurra em nossos prazeres, fala em nossa consciência, mas grita em nossas dores: é seu megafone para despertar um mundo surdo."
 
-## Definição de Luz e Sombra na Perspectiva Junguiana
+## A Interseção da Libido e Complexos na Psicologia Junguiana
 
-Carl Jung, um dos mais influentes psicólogos do século XX, propôs a ideia de que a psique humana é composta por diferentes aspectos, incluindo a luz e a sombra. A luz representa as partes de nós mesmos que aceitamos e com as quais nos identificamos. A sombra, por outro lado, contém os aspectos de nós mesmos que rejeitamos ou negamos. Jung acreditava que a integração da sombra era um passo crucial no processo de individuação, ou seja, na realização do self. Como Jung disse uma vez, "Não posso me tornar eu mesmo a menos que me torne minha própria sombra."
+Antes de falarmos de Complexos precisamos abordar o conseito de Libido.
+Na psicologia junguiana, a libido e os complexos são dois conceitos fundamentais que estão intimamente interligados
 
-## O Libido
+### Libido: A Energia Motriz
 
-Jung usou o termo "libido" de uma maneira diferente de Freud. Para Jung, a libido não é apenas energia sexual, mas uma energia psíquica geral que impulsiona todas as ações humanas. Ela é a força vital que anima todos os aspectos de nossa existência. Como Jung colocou, "A libido é apetite em sua forma natural; zelo e desejo, o ardor e a paixão de espírito."
+Jung usou o termo "libido" de uma maneira diferente de Freud. Para Jung, a libido não é apenas energia sexual, mas uma energia psíquica geral que impulsiona todas as ações humanas. É a força vital que anima todos os aspectos de nossa existência. A libido é a energia que impulsiona a vida, a motivação por trás de todas as nossas ações, pensamentos e sentimentos.
 
-## Libido como Energia não Dual, nem Auto,
+### Complexos: Os Arquitetos do Destino
 
-nem Baixo, nem Sexual, nem Psíquica, Apenas Energia
+Por outro lado, os complexos, na visão de Jung, são padrões de emoções, memórias, percepções e desejos organizados em torno de um tema comum. Eles podem ser conscientes ou inconscientes e podem influenciar nossos pensamentos, sentimentos e comportamentos de maneiras que nem sempre entendemos.
 
-A libido, na perspectiva junguiana, é uma energia não dual. Ela não é boa nem má, alta nem baixa, sexual nem psíquica. Ela simplesmente é. A libido é a energia que impulsiona a vida, a motivação por trás de todas as nossas ações, pensamentos e sentimentos. Ela é a força que nos move em direção ao crescimento e à realização. Como Jung afirmou, "A libido é a energia que se manifesta na vida do indivíduo e que se expressa em seus desejos, aspirações, desejos e ambições."
+### A Conexão entre Libido e Complexos
 
-## Definição de Complexo na Perspectiva Junguiana
+A libido e os complexos estão interligados de várias maneiras. Primeiro, a libido, como a energia motriz da psique, pode ser direcionada para um complexo. Quando isso acontece, o complexo pode se tornar uma força poderosa que influencia nossos pensamentos, sentimentos e comportamentos.
 
-Jung também introduziu o conceito de complexos. Um complexo é um padrão de emoções, memórias, percepções e desejos organizados em torno de um tema comum. Os complexos podem ser conscientes ou inconscientes e podem influenciar nossos pensamentos, sentimentos e comportamentos de maneiras que nem sempre entendemos. Como Jung observou, "Os complexos são os arquitetos da doença e do destino."
+Por exemplo, se a libido é direcionada para um complexo relacionado a um trauma passado, podemos nos encontrar repetindo padrões de comportamento relacionados a esse trauma, mesmo que esses padrões sejam prejudiciais ou autodestrutivos.
+
+Em segundo lugar, os complexos podem afetar a forma como a libido é expressa. Se um complexo está no controle, pode distorcer a expressão da libido, levando a comportamentos que podem parecer estranhos ou fora de caráter.
+
+Por fim, trabalhar através de complexos - trazendo-os à consciência e integrando-os - pode liberar a libido que estava presa nesses complexos. Isso pode levar a um aumento da energia vital, maior criatividade e uma sensação de renovação e rejuvenescimento.
+
+Em resumo, a libido e os complexos estão intimamente interligados na psicologia junguiana. Compreender essa relação pode nos ajudar a entender melhor a nós mesmos e a encontrar maneiras de crescer e se transformar.
 
 ## A Anatomia de um Complexo na Perspectiva Junguiana (Mapa da Alma)
 
@@ -56,9 +63,9 @@ Complexos podem ser fontes de dor, especialmente quando eles são inconscientes 
 
 Como C.S. Lewis observou, Deus "grita em nossas dores". A dor pode, portanto, ser uma maneira de nos conectar com o divino, nos despertar para realidades mais profundas e nos abrir para novas possibilidades de crescimento e transformação.
 
-## Exemplos e Reflexões
+## Reflexões
 
-Para ilustrar esses conceitos, consideremos dois exemplos e reflexões correlatas:
+Para ilustrar esses conceitos, consideremos duas reflexões correlatas:
 
 1. Quando minha filha era pequena, eu tinha que fazer inalação nela antes de dormir. Embora isso estivesse ajudando seu corpo a melhorar, ela lutava contra isso, chorava e tentava se livrar da situação. Da mesma forma, quando eu ajeitava suas roupas para dormir e não passar frio, ela respondia da mesma forma. Isso pode ser visto como um complexo em ação - uma reação emocional intensa a uma situação que, na realidade, estava sendo feita para o seu bem. Este exemplo lembra a citação de Jung: "Tudo o que nos irrita nos outros pode nos levar a uma compreensão de nós mesmos." E nos leva à reflexão: Se a nossa inconsciência de algo nos faz explicitamente rejeitar e fugir da ajuda, acho que por isso que muitas vezes Deus é definido por ser uma (Pessoa, Energia, Ser, Não ser) que está de algum lugar falando que nos ama, e torcendo para que ouçamos. Esta reflexão é reminiscente da citação de Jung: "A inconsciência não é uma virtude, mas um pecado."
 
@@ -66,8 +73,6 @@ Para ilustrar esses conceitos, consideremos dois exemplos e reflexões correlata
 
 ## Conclusão
 
-Trauma é uma coisa tão difícil e tão dolorosa que muitas vezes queremos fugir e nos desligar do sentimento que essa memória nos causou. Mas enfrentar um trauma deve ser a forma que Deus utiliza para iluminar mais as nossas almas. A dor do trauma, embora seja difícil de suportar, pode ser uma oportunidade para o crescimento e a transformação. Ela pode nos levar a enfrentar nossos complexos, a integrar nossa sombra e a ouvir a
-
-voz de Deus de maneiras que talvez não fossem possíveis de outra forma. A dor do trauma, então, pode ser vista não apenas como um fardo, mas também como uma bênção - uma oportunidade para a cura, o crescimento e a realização do self. Como Jung afirmou: "Eu não sou o que me aconteceu, eu sou o que escolho me tornar." Esta citação resume a essência deste artigo: a dor do trauma, embora seja difícil, pode ser uma oportunidade para o crescimento e a transformação.
+complexo é uma coisa tão difícil e tão dolorosa que muitas vezes queremos fugir e nos desligar do sentimento que essa memória nos causou. Mas enfrentar um complexo deve ser a forma que Deus utiliza para iluminar mais as nossas almas. A dor do complexo, embora seja difícil de suportar, pode ser uma oportunidade para o crescimento e a transformação. Ela pode nos levar a enfrentar nossos complexos, a integrar nossa sombra e a ouvir a voz de Deus de maneiras que talvez não fossem possíveis de outra forma. A dor do complexo, então, pode ser vista não apenas como um fardo, mas também como uma bênção - uma oportunidade para a cura, o crescimento e a realização do self. Como Jung afirmou: "Eu não sou o que me aconteceu, eu sou o que escolho me tornar." Esta citação resume a essência deste artigo: a dor do complexo, embora seja difícil, pode ser uma oportunidade para o crescimento e a transformação.
 
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
