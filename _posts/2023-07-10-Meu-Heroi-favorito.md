@@ -2,7 +2,7 @@
 layout: post
 title: Meu Heroi favorito
 date: 2023-07-10
-categories: Artigo
+categories: Conto
 ---
 
 <p align="center">
