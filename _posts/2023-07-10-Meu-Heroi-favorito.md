@@ -10,7 +10,7 @@ categories: Artigo
 </p>
 
 
-## O Meu Herói Favorito: Bane
+## Bane
 
 Era uma vez, em uma cidade esquecida pelo tempo, um poço profundo e sombrio, conhecido como o Poço de Desespero. Dentro dele, viviam duas crianças abandonadas: Bane e sua irmã. O poço era um lugar de desespero e morte, mas para Bane e sua irmã, era o único lar que conheciam.
 
