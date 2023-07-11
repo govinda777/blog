@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Igreja de Palhaços
+title: Sonho Igreja de Palhaços
 date: 2023-07-09
 categories: Sonho
 ---

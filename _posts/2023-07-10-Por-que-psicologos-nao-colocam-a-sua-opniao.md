@@ -1,7 +1,6 @@
 ---
 layout: post
-title: O poder que ha em não reagir
-date: 2023-07-10
+title: Por que psicologos não colocam e sua opnião
 categories: Artigo
 ---
 
