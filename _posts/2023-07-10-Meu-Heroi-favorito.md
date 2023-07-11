@@ -9,7 +9,6 @@ categories: Conto
 <img src="{{ site.baseurl }}/images/2023-07-10-Meu-Heroi-favorito.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-
 ## Bane
 
 Era uma vez, em uma cidade esquecida pelo tempo, um poço profundo e sombrio, conhecido como o Poço de Desespero. Dentro dele, viviam duas crianças abandonadas: Bane e sua irmã. O poço era um lugar de desespero e morte, mas para Bane e sua irmã, era o único lar que conheciam.
@@ -44,7 +43,7 @@ Sem corda
 
 Muitos morreram tentando atravessar o CRUX do poço"
 
-Valores: Coragem, Disciplina, Compaixão, Família, Amor próprio.
+Valores: Coragem, Disciplina, Compaixão, Família, Amor próprio, Pacífico 
 
 Super poderes: Capacidade de Aquietar a mente, Habilidade de suportar dor Física, Respiração harmoniza.
 
