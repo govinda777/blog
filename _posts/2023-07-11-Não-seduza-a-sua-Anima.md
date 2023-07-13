@@ -9,6 +9,7 @@ categories: Artigo
 <img src="{{ site.baseurl }}/images/2023-07-11-Não-seduza-a-sua-Anima.png" height="50%" width="50%" alt="Unform" />
 </p>
 
+
 A Anima, um conceito central na psicologia analítica de Carl Jung, é uma representação arquetípica do feminino na psique masculina. É uma figura complexa e multifacetada que pode ser tanto uma fonte de crescimento e compreensão quanto um obstáculo para o desenvolvimento psicológico se mal interpretada ou mal utilizada. A sedução da Anima, neste contexto, refere-se à tentativa de um indivíduo de se apropriar ou controlar essa figura arquetípica, um ato que pode levar a consequências psicológicas negativas.
 
 A Anima é frequentemente comparada ao Rei Pescador, uma figura da lenda arturiana que é o último de uma longa linha de reis britânicos encarregados de guardar o Santo Graal. O Rei Pescador é tanto o protetor quanto a encarnação física de suas terras, mas uma ferida o torna impotente e seu reino estéril. Assim como a Anima, o Rei Pescador é uma figura que deve ser respeitada e compreendida, não controlada ou dominada.
