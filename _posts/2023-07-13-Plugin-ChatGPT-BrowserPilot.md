@@ -6,7 +6,7 @@ categories: AI
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-07-13-Plugin-ChatGPT-BrowserPilot" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-07-13-Plugin-ChatGPT-BrowserPilot.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 O plugin BrowserPilot é uma ferramenta de simulação desenvolvida pela OpenAI que permite ao modelo de inteligência artificial (IA) interagir com páginas da web ou realizar pesquisas na internet. Ele é projetado para entender a intenção do usuário e fornecer sugestões com base no conteúdo e na funcionalidade da página da web.
