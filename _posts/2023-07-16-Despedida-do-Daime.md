@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plugin ChatGPT BrowserPilot
+title: A despedida do Daime
 date: 2023-07-16
 categories: Artigo
 ---
