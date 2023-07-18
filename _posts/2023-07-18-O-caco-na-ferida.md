@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O Lobo
-date: 2023-07-17
+title: O caco na ferida
+date: 2023-07-18
 categories: Poema
 ---
 
