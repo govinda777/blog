@@ -41,7 +41,7 @@ E se não nos faz, é um ato de autossabotagem, também.
 
 É viver em paz com o que não podemos mudar,
 
-Fazer o melhor com os donos que Deus nos deu para trabalhar.
+Fazer o melhor com os dons que Deus nos deu para trabalhar.
 
 A felicidade de emanar a essência, o eu real,
 
