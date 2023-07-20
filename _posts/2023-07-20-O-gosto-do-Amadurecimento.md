@@ -61,7 +61,7 @@ Feliz por estar inundado de mim, pela água sagrada.
 
 E quando essa água se secar,
 
-Saberei que serei pó, e nada mais a declarar.
+Saberei que serei pó, e mais nada.
 
 E quando a Deus prestar esclarecimentos,
 
