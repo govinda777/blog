@@ -6,7 +6,7 @@ categories: Sonho
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-07-21-Sonho-passaro-de-ponta-cabeca.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-07-22-Meu-amigo-psicologo.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 
