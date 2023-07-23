@@ -6,7 +6,7 @@ categories: Sonho
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-07-23-A beleza-de-envelhecer.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-07-23-A beleza-de-envelhecer.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
 
 (Verse 1)
