@@ -9,7 +9,7 @@ categories: Sonho
 <img src="{{ site.baseurl }}/images/2023-07-22-O-Trabalho-da-Sombra.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-# O Trabalho da Sombra: Uma Jornada de Autoconhecimento e Transformação Pessoal
+## Uma Jornada de Autoconhecimento e Transformação Pessoal
 
 Todos nós carregamos dentro de nós padrões de energia impressos de memórias passadas, dos quais podemos não estar cientes. Esses padrões podem se manifestar como circunstâncias e situações em nossas vidas, influenciando nosso comportamento e decisões de maneiras que não compreendemos completamente. Este é o domínio da "sombra", um conceito psicológico que se refere ao processo de entender esses padrões e integrá-los à nossa consciência.
 
