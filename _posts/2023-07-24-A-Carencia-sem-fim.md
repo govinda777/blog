@@ -37,50 +37,6 @@ De um abraço que cure minha tortura.
 
 ---
 
-O grito silencioso da carência,
-
-Ecoa na vastidão do ser,
-
-É o clamor por presença,
-
-É a busca do amanhecer.
-
----
-
-No girar do tempo, vejo a esfera,
-
-Um loop infinito que não cessa,
-
-Nas estações que se repetem, primavera,
-
----
-
-O sol se põe, a lua se levanta,
-
-O dia se torna noite, a noite vira dia,
-
----
-
-A carência, uma sombra que não passa,
-
-Um silêncio ensurdecedor, um eco sem fim,
-
-Em cada esquina, em cada praça,
-
-Buscando um olhar, um gesto para mim.
-
----
-
-Carência sem fim, essa maldição,
-
-Que em cada coração desabrocha,
-
-É uma busca incessante por afeto, por paixão,
-
-Uma viagem solitária, uma longa caminhada.
-
----
-
 Nesse loop infinito, nessa jornada solitária,
 
 A carência se faz eterna, um ciclo sem fim,
@@ -101,33 +57,13 @@ Recompensa esperada, em vão se lança.
 
 ---
 
-Um cheiro, um toque, um olhar de esperança,
-
-Sinaliza o começo, o desejo em balança.
-
-Mas quando o final não encontra a dança,
-
-Surge a sombra, a angústia, a dor de criança.
-
----
-
 O amor próprio grita, pede por atenção,
 
 Na reformulação do hábito, busca a redenção.
 
 O auto-cuidado é a chave, a nova direção,
 
-Para quebrar o ciclo, a repetição.
-
----
-
-Preso nesse ciclo, nesse loop de emoção,
-
-O amor se torna sombra, carência a canção.
-
-Mas há uma saída, um caminho a seguir,
-
-Reformulação do hábito, um novo porvir.
+Para quebrar o ciclo, da repetição.
 
 ---
 
