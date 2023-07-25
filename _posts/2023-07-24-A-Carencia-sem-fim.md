@@ -2,7 +2,7 @@
 layout: post
 title: A Carência sem fim
 date: 2023-07-24
-categories: Musica
+categories: Poema
 ---
 
 <p align="center">
