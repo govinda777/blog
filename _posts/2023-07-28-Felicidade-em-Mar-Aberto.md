@@ -6,10 +6,8 @@ categories: Sonho
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-07-26-Felicidade-em-Mar-Aberto.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-07-28-Felicidade-em-Mar-Aberto.png" height="50%" width="50%" alt="Unform" />
  </p>
-
-**Título: Felicidade em Mar Aberto**
 
 Me sinto tão feliz, tão solar,
 
