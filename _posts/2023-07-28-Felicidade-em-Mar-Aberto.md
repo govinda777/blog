@@ -2,7 +2,7 @@
 layout: post
 title: Felicidade em Mar Aberto
 date: 2023-07-28
-categories: Sonho
+categories: Poema
 ---
 
 <p align="center">
