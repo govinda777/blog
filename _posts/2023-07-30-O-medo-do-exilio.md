@@ -19,7 +19,7 @@ Conscientizar dos medos, abraçá-los, a cruz.
 
 ---
 
-Em terras distantes, Japão me aguardava,
+Em terras distantes, Japão me aguarda,
 
 Pânico e incerteza, na alma gravada.
 
@@ -69,4 +69,8 @@ Vou transformando minha vida, dia após dia.
 
 ---
 
+Brahmacharya : 
 https://open.spotify.com/intl-pt/track/2Syu1sWWcrKudInK2PFtAJ?si=71aae495e1634eb1
+
+O termo "Brahmacharya" é composto por duas palavras sânscritas: "Brahma", que significa "absoluto" ou "Divino", e "charya", que significa "conduta" ou "prática". Assim, a palavra pode ser traduzida como "conduta divina" ou "prática em busca do Divino".
+
