@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migalha de tesão
-date: 2023-08-01
+date: 2023-08-02
 categories: Poema
 ---
 
