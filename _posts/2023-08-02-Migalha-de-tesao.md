@@ -15,7 +15,7 @@ De um amor outrora ardente, agora frio como a esfera polar.
 
 Não mais colherei migalhas de um desejo que se esvai,
 
-Nem navegarei em mares de enganos, onde a paixão não mais reina.
+Nem navegarei em mares de enganos, onde a paixão não mais.
 
 ---
 
@@ -51,7 +51,7 @@ A um amor que não arde, que não queima, que não me faz viver.
 
 Sexo não é tudo, mas é um pilar que sustenta,
 
-E sem ele, nosso amor, como uma casa, se desmorona.
+E sem ele, nosso amor, desmorona.
 
 Inconformado, triste, raivoso, mas ainda assim, livre,
 
