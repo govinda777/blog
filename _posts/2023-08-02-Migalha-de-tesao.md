@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-08-02-Migalha-de-tesao.md" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-08-02-Migalha-de-tesao.png" height="50%" width="50%" alt="Unform" />
  </p>
 
 Em meio à tristeza e à raiva, um poema se desenrola,
