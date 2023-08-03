@@ -56,3 +56,8 @@ E sei que a felicidade não se encontra apenas no desejo, mas também no carinho
 O sexo que me revigora, o sexo que te machuca,
 
 Pode ser o mesmo sexo que nos une, que nos faz um, que nos faz felizes.
+
+---
+
+| [<img src="https://img.youtube.com/vi/KQo1Eio76xk/0.jpg" width=50%><br><p style="text-align: left">Jeremih - All The Time (Official Lyric Video) (Explicit) ft. Lil Wayne, Natasha Mosley</p>](https://www.youtube.com/watch?v=KQo1Eio76xk) |
+| :---: |
