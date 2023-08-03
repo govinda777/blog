@@ -9,43 +9,60 @@ categories: Poema
 <img src="{{ site.baseurl }}/images/2023-08-02-Estudo-psicanalitico-de-uma-obsessao.png" height="50%" width="50%" alt="Unform" />
  </p>
 
+Em meu coração, uma confissão,
 
-Descubri uma possível origem para a minha obsessão por trabalho.
+Por falta de sexo, tenho obsessão.
 
-É que eu a amo tanto que, se eu pudesse, faria amor com ela toda hora, ou carinho, ou abraço, ou apenas estaria junto.
+Trabalho e trabalho, sem cessação,
 
-Mas estar junto, a falta de saudade a afeta.
+Achando que é remédio para a frustração.
 
-Por querer ficar longe, por querer se energizar, para o meu amar,
+---
 
-E assim a saudade chegar,
+Amo-a, com devoção,
 
-Não sei se é ela mesma,
+Se pudesse, faria amor em toda ocasião.
 
-Não sei se é de trauma de infância
+Mas ela precisa de espaço, de renovação,
 
-Só sei que minha obsessão, meu amor maior, minha mais pura forma de amar, a machuca, a esgota, a corrói.
+E eu aqui, sofrendo de aflição.
 
-Ó minha preta, me ajude a entender,
+---
 
-Se minha obsessão pelo trabalho fez a saudade florescer,
+Ela quer distância, quer respiração,
 
-Se a ausência é algo que tanto te atrai,
+E eu, com meu amor, causo exaustão.
 
-Por que na presença o seu tesão não se faz capaz,
+Será trauma de infância, será invenção?
 
-É assim, meu bem, todo dia,
+Ou apenas a complexidade da relação?
 
-Eu querendo transar em cima da pia,
+---
 
-Sei que filho é alguém que corrói,
+Ó minha preta, me ajude a compreender,
 
-A intimidade de um casal,
+Se meu trabalho fez a saudade crescer.
 
-Mas olha, meu bem, a situação que estou,
+Se a ausência te atrai, me faz sofrer,
 
-Com a mente erguida a se levantar,
+Por que na presença, o tesão não conceder?
 
-O fogo que arde em todos nós,
+---
 
-Já não arde como tempos atrás.
+Todo dia é assim, sem alteração,
+
+Eu querendo amor, ela pedindo moderação.
+
+Filho corrói a intimidade, sem solução,
+
+E o fogo que ardia, hoje só brasão.
+
+---
+
+Ó minha preta, veja minha situação,
+
+Com a mente a mil, em constante agitação.
+
+O fogo que arde em nós, sem combustão,
+
+Já não arde como na antiga paixão.
