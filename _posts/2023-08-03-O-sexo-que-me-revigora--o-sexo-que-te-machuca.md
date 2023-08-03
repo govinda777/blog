@@ -25,7 +25,7 @@ Cria um desequilíbrio, uma fissura em nosso amor.
 
 Vejo nos teus olhos, o amor que ainda arde,
 
-No teu toque, no teu abraço, no teu beijo, vejo a verdade.
+No meu toque, no meu abraço, no meu beijo, vejo a verdade.
 
 ---
 
