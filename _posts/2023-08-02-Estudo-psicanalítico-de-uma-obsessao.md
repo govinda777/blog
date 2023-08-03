@@ -9,6 +9,7 @@ categories: Poema
 <img src="{{ site.baseurl }}/images/2023-08-02-Estudo-psicanalitico-de-uma-obsessao.png" height="50%" width="50%" alt="Unform" />
  </p>
 
+
 Descubri uma possível origem para a minha obsessão por trabalho.
 
 É que eu a amo tanto que, se eu pudesse, faria amor com ela toda hora, ou carinho, ou abraço, ou apenas estaria junto.
