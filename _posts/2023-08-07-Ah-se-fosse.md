@@ -18,7 +18,7 @@ Se nois dois se apegasse
 
 E juntim nois dois ficasse
 
-Se na primeira noite, amor se fizesse
+Se na 7 noites apôs, amor se fizesse
 
 Se nois dois na cama se entendesse
 
@@ -44,7 +44,7 @@ E nois dois se distanciasse
 
 E ela com outro se envolvesse
 
-E eu descobrisse na festa do filho, que tristeza!
+E eu na festa do filho,  descobrisse
 
 E nois dois se separasse
 
