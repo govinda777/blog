@@ -12,7 +12,7 @@ categories: Poema
 
 Se um dia nois se achasse
 
-Num site de namoro, por acase
+Num site de namoro, por acaso
 
 Se nois dois se apegasse
 
