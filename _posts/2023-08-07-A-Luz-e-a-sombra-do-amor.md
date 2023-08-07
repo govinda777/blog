@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Luz e a Sombra do amor
-date: 2023-08-05
+date: 2023-08-07
 categories: Poema
 ---
 
