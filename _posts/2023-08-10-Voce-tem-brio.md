@@ -5,7 +5,10 @@ date: 2023-08-10
 categories: TI
 ---
 
-# Clóvis de Barros Filho " Você sabe o que é brio ?"
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-08-10-Voce-tem-brio.png" height="50%" width="50%" alt="Unform" />
+</p>
+
 
 ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-KANT.jpeg)
 
@@ -116,31 +119,6 @@ Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, �
 
 > ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
 https://www.youtube.com/watch?v=UVtgFN3K6kE
-
-> # CI/CD Git Hub ![CI/CD Git Hub]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB.jpeg)
-  
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-1.jpeg)
-https://youtu.be/R8_veQiYBjI
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-2.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-3.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-4.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-5.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-6.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-7.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-8.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-9.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-10.jpeg)
-
-* ![]({{ site.baseurl }}/images/CI-CD-PIPELINE-GITHUB-11.jpeg)
 
 > ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-MK-1.jpeg)
 https://www.youtube.com/channel/UCIvdVpHdlokxz_wArsoLnVA/videos
