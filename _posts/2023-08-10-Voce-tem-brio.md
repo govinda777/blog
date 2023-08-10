@@ -1,3 +1,10 @@
+---
+layout: post
+title: Você tem brio?
+date: 2023-08-10
+categories: TI
+---
+
 # Clóvis de Barros Filho " Você sabe o que é brio ?"
 
 ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-KANT.jpeg)
