@@ -9,8 +9,8 @@ categories: TI
 <img src="{{ site.baseurl }}/images/2023-08-10-Voce-tem-brio.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-
-![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-KANT.jpeg)
+<p align="center">
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-KANT.jpeg" height="50%" width="50%" alt="Unform" />
 
 * https://g.co/kgs/vsceN5
 
@@ -26,10 +26,10 @@ e
 
 ```
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg" height="50%" width="50%" alt="Unform" />
 ##  "Isso tudo é de uma potencia de argumentação **_Fudida_**"
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg" height="50%" width="50%" alt="Unform" />
 ```
 "A educação Pressupõe dor :
 
@@ -41,10 +41,10 @@ e
 
 Se depender de feedback do aluno : Professor estaria ferrado !!"
 
-```
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-3.jpeg)
-```
+
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-3.jpeg" height="50%" width="50%" alt="Unform" />
+
 Educar muitas vezes é FALAR.
 
 "Você é um bosta !!!!!
@@ -52,27 +52,27 @@ Educar muitas vezes é FALAR.
 Você vai sofrer agora, para você aprender a ser Gente !!!!"
 
 
-```
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK-1.jpeg)
+
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK-1.jpeg" height="50%" width="50%" alt="Unform" />
 ## Fundamento da metafísica dos costumes.
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK.jpeg" height="50%" width="50%" alt="Unform" />
 https://en.wikipedia.org/wiki/
 
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-4.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-4.jpeg" height="50%" width="50%" alt="Unform" />
 ## Professor, você está me chamando de burro ?
 
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-5.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-5.jpeg" height="50%" width="50%" alt="Unform" />
 ## Não ...,  ou se eu estou, Chame **me** de **Burro também**.
 
 ```
 Por que é assim que **EU** Leio.
 ```
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-6.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-6.jpeg" height="50%" width="50%" alt="Unform" />
 
 ```
 [Aluno] - Mas se eu ficar toda hora voltando, eu nunca vou chegar no final da História.
@@ -81,7 +81,7 @@ Por que é assim que **EU** Leio.
 **História** .
 ```
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-7.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-7.jpeg" height="50%" width="50%" alt="Unform" />
 
 ```
 [Professor] - Caro aluno :
@@ -97,7 +97,7 @@ CARO Aluno, Você sabe o que é brio ??"
 
 ```
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-8.jpeg)
+<img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-8.jpeg" height="50%" width="50%" alt="Unform" />
 
 ```
 Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, é isso que to falando CARA...)
@@ -117,17 +117,12 @@ Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, �
 
 ## Referências
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
 https://www.youtube.com/watch?v=UVtgFN3K6kE
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-MK-1.jpeg)
 https://www.youtube.com/channel/UCIvdVpHdlokxz_wArsoLnVA/videos
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK.jpeg)
 https://en.wikipedia.org/wiki/Groundwork_of_the_Metaphysics_of_Morals
-![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK-D.jpeg)
 
-> ![Kant]({{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-MK.jpeg)
 https://espacoetica.com.br/palestrantes/?cupom=GOVIN
 
 
@@ -135,14 +130,6 @@ https://espacoetica.com.br/palestrantes/?cupom=GOVIN
 
 | [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
 | :---: |
-
-<p align="left">
-
-<a href="https://github.com/govinda777?tab=followers">
-<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
-</a>
-
-</p>
 
 
 
