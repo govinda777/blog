@@ -22,5 +22,3 @@ Mas, além das habilidades técnicas, o Coding Dojo promove algo ainda mais vali
 E, no final das contas, não é isso que todos buscamos? Uma **conexão genuína** com os outros, um sentido de pertencimento, uma oportunidade de crescer e contribuir? O Coding Dojo nos oferece tudo isso e muito mais. É uma celebração do que é ser humano, do que é ser parte de algo maior.
 
 Então, da próxima vez que você pensar em desenvolvimento de software, lembre-se: não é apenas sobre códigos e algoritmos. É sobre pessoas, paixões e possibilidades. E o Coding Dojo é a ponte que nos conecta a todos esses maravilhosos aspectos da experiência humana.
-
-(Note que o formato "negrito" é representado aqui apenas por asteriscos, pois a plataforma de texto não suporta formatação. Em um editor de texto ou plataforma que suporte formatação, as palavras entre asteriscos apareceriam em negrito.)
