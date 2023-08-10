@@ -15,7 +15,7 @@ categories: TI
 * https://g.co/kgs/vsceN5
 
 
-```
+
 Kant :
 
 "Você pode agir mal e produzir felicidade."
@@ -24,13 +24,13 @@ e
 
 "Agir bem e produzir tristeza"
 
-```
+
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg" height="50%" width="50%" alt="Unform" />
 ##  "Isso tudo é de uma potencia de argumentação **_Fudida_**"
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg" height="50%" width="50%" alt="Unform" />
-```
+
 "A educação Pressupõe dor :
 
     * Pressupõe mudança de rota.
@@ -68,22 +68,22 @@ https://en.wikipedia.org/wiki/
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-5.jpeg" height="50%" width="50%" alt="Unform" />
 ## Não ...,  ou se eu estou, Chame **me** de **Burro também**.
 
-```
+
 Por que é assim que **EU** Leio.
-```
+
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-6.jpeg" height="50%" width="50%" alt="Unform" />
 
-```
+
 [Aluno] - Mas se eu ficar toda hora voltando, eu nunca vou chegar no final da História.
 
 [Professor] - Então ..., Desculpe, mas não tem final da 
 **História** .
-```
+
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-7.jpeg" height="50%" width="50%" alt="Unform" />
 
-```
+
 [Professor] - Caro aluno :
 
 * A tua inteligencia é o que você tem de melhor.
@@ -95,17 +95,17 @@ Por que é assim que **EU** Leio.
 
 CARO Aluno, Você sabe o que é brio ??"
 
-```
+
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-8.jpeg" height="50%" width="50%" alt="Unform" />
 
-```
+
 Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, é isso que to falando CARA...)
 
 * É O BRIO
 * É O BRIO
 * É O BRIO
-```
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://s.dicio.com.br/brio.png">
