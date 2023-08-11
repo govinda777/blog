@@ -11,6 +11,7 @@ categories: TI
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-KANT.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
 
 * https://g.co/kgs/vsceN5
 
@@ -28,11 +29,11 @@ e
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg" height="50%" width="50%" alt="Unform" />
 
->  "Isso tudo é de uma potencia de argumentação **_Fudida_**"
+<p>  "Isso tudo é de uma potencia de argumentação **_Fudida_**" </p>
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-1.jpeg" height="50%" width="50%" alt="Unform" />
 
-> "A educação Pressupõe dor :
+<p> "A educação Pressupõe dor :
 
     * Pressupõe mudança de rota.
 
@@ -42,51 +43,60 @@ e
 
   Se depender de feedback do aluno : Professor estaria ferrado !!"
 
-
+</p>
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-3.jpeg" height="50%" width="50%" alt="Unform" />
 
-> Educar muitas vezes é FALAR.
+<p>
+
+ Educar muitas vezes é FALAR.
 
   "Você é um bosta !!!!!
 
   Você vai sofrer agora, para você aprender a ser Gente !!!!"
 
-
-
+</p>
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK-1.jpeg" height="50%" width="50%" alt="Unform" />
 
-> Fundamento da metafísica dos costumes.
+<p>
+ Fundamento da metafísica dos costumes.
+</p>
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-BOOK.jpeg" height="50%" width="50%" alt="Unform" />
 https://en.wikipedia.org/wiki/
 
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-4.jpeg" height="50%" width="50%" alt="Unform" />
-> Professor, você está me chamando de burro ?
 
+<p>
+Professor, você está me chamando de burro ?
+</p>
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-5.jpeg" height="50%" width="50%" alt="Unform" />
 > Não ...,  ou se eu estou, Chame **me** de **Burro também**.
 
-
+<p>
 Por que é assim que **EU** Leio.
-
+</p>
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-6.jpeg" height="50%" width="50%" alt="Unform" />
 
-
-> [Aluno] - Mas se eu ficar toda hora voltando, eu nunca vou chegar no final da História.
-
-> [Professor] - Então ..., Desculpe, mas não tem final da 
+<p>
+[Aluno] - Mas se eu ficar toda hora voltando, eu nunca vou chegar no final da História.
+<p>
+</p>
+[Professor] - Então ..., Desculpe, mas não tem final da 
+</p>
 **História** .
 
 
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-7.jpeg" height="50%" width="50%" alt="Unform" />
 
 
-> [Professor] - Caro aluno :
+<p>
+[Professor] - Caro aluno :
+</p>
 
 * A tua inteligencia é o que você tem de melhor.
 
@@ -97,12 +107,11 @@ Por que é assim que **EU** Leio.
 
 CARO Aluno, Você sabe o que é brio ??"
 
-
-
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-8.jpeg" height="50%" width="50%" alt="Unform" />
 
-
-> Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, é isso que to falando CARA...)
+<p>
+Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, é isso que to falando CARA...)
+</p>
 
 * É O BRIO
 * É O BRIO
