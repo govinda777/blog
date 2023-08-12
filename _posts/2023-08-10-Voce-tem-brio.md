@@ -128,6 +128,8 @@ Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, �
 
 ## Referências
 
+https://www.youtube.com/watch?v=TRPBY_lxJfE
+
 https://www.youtube.com/watch?v=UVtgFN3K6kE
 
 https://www.youtube.com/channel/UCIvdVpHdlokxz_wArsoLnVA/videos
