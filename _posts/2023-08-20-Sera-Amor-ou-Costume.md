@@ -9,8 +9,6 @@ categories: Poema
 <img src="{{ site.baseurl }}/images/2023-08-20-Sera-Amor-ou-Costume.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-**Será Amor ou Costume?**
-
 Nos alvores de nosso encontro, sentia  
 
 Uma paixão que, como lava, ardente queimava,  
