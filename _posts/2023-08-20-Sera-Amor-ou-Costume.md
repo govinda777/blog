@@ -86,3 +86,4 @@ Porque a vida é feita de tons, e nem sempre claros ou veloz,
 A cada fase, nosso amor se redefine,  
 
 Mas, seja o que for, é nosso, e isso me fascina e define.
+
