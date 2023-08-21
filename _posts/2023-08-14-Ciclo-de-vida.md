@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semdo um diamante sendo iluminado por varios angulos
+title: Ciclo de vida
 date: 2023-08-14
 categories: Artigo
 ---

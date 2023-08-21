@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abandonem a fantasia de completude
+title: Abandonem o Romantismo, não abandonem o carinho
 date: 2023-08-08
 categories: Poema
 ---
@@ -11,7 +11,7 @@ categories: Poema
 
 Diferentes formas de encarar o amoR
 
-Amor como linguagem, é particular como cada um sente o amor.
+Amor como linguagem, é particular como cada um sente e expressa o amor.
 
 ## Livros
 
