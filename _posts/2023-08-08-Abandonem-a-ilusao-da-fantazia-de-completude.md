@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-08-08-Abandonem-a-fantasia-de-completude.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-08-08-Abandonem-a-ilusao-da-fantazia-de-completude.png" height="50%" width="50%" alt="Unform" />
  </p>
 
 Em um lago de reflexos, Narciso se perdeu,
