@@ -43,6 +43,10 @@ O Mito de Govindion é uma lenda contada até hoje, lembrando a todos os gregos 
 
 ---
 
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-08-22-Mito-de-Govindion-v2.png" height="50%" width="50%" alt="Unform" />
+</p>
+
 # A Jornada de Govinda: Do Abandono à Iluminação
 
 ## 1. O abandono
