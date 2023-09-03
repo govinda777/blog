@@ -9,6 +9,12 @@ categories: Artigo
 <img src="{{ site.baseurl }}/images/2023-09-03-Pq-A-Traicao-doi.png" height="50%" width="50%" alt="Unform" />
 </p>
 
+---
+
+Video : https://www.youtube.com/watch?v=dVYxct3FYb4
+
+---
+
 ### **Por que a traição dói?**
 - A traição é dolorosa porque representa a quebra de um pacto.
 - A confiança é algo enigmático e desconhecido para nós mesmos.
