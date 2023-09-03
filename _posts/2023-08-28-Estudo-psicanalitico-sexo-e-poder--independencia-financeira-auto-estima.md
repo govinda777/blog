@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Estudo psicanalitico] Sexo e poder, independencia financeira auto estima
+title: Estudo psicanalítico  Sexo e poder independência financeira e autoestima
 date: 2023-08-25
 categories: Artigo
 ---
