@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2023-08-28-Estudo-psicanalitico-sexo-e-poder--independencia-financeira-auto-estima
+title: [Estudo psicanalitico] Sexo e poder, independencia financeira auto estima
 date: 2023-08-25
-categories: Poesia
+categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-08-25-A-dor-do-papai--a-dor-da-filhinha.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-08-28-Estudo-psicanalitico-sexo-e-poder--independencia-financeira-auto-estima.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 2023-08-28-Estudo-psicanalitico-sexo-e-poder--independencia-financeira-auto-estima
