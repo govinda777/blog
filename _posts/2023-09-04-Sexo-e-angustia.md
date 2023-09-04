@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sexo e angustia
-date: 2023-09-03
+date: 2023-09-04
 categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-09-03-Sexo-e-angustia.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-09-04-Sexo-e-angustia.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 **Sexo e Angústia: Uma Análise Profunda da Conexão Psicológica**
