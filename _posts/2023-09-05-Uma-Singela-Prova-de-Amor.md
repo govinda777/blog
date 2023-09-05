@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uma Singela Prova de Amor
-date: 2023-09-04
+date: 2023-09-05
 categories: Conto
 ---
 
