@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python, métodos especiais dataclass
+title: Python SOLID
 date: 2023-09-09
 categories: Artigo
 ---
