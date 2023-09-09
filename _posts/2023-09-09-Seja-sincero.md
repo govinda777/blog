@@ -9,7 +9,7 @@ categories: Artigo
 <img src="{{ site.baseurl }}/images/2023-09-09-Seja-sincero.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-**Seja sincero com seus sentimentos e impulsos | não agrida nem com suas palavras.**
+**Seja sincero com seus sentimentos e impulsos , não agrida nem com suas palavras.**
 
 ---
 
