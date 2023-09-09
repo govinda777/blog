@@ -6,7 +6,7 @@ categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-09-09-Python-metodos-especiais--dataclass.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-09-09-Python-SOLID.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # Implementando SOLID em Python com os Melhores Frameworks
