@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shunyata
+title: Seja sincero
 date: 2023-09-09
 categories: Artigo
 ---
