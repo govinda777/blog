@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kiai e a escalada
+title: Atualizando Smart Contracts
 date: 2023-09-14
 categories: Artigo
 ---
