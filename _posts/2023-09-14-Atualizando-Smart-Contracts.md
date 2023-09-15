@@ -6,7 +6,7 @@ categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-09-14-Kiai-e-a-escalada.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-09-14-Atualizando-Smart-Contracts.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 # Atualizando Smart Contracts: Desafios, Soluções e Exemplos de Código
