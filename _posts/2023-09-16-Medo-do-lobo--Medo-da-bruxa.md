@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Medo do Lobo, Medo da Bruxa
-date: 2023-09-14
-categories: Artigo
+date: 2023-09-16
+categories: Poema
 ---
 
 <p align="center">
