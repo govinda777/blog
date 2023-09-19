@@ -35,3 +35,27 @@ Com a partida de *Kaliya*, o lago, antes um símbolo de *Maya*, tornou-se puro e
 *Comentário*: A transformação do lago é uma metáfora para o processo de *Sadhana* (prática espiritual) e *Jnana* (conhecimento) que purifica a alma e revela a verdade.
 
 ---
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-19-A-Historia-de-Govinda-e-Kaliya_1.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-19-A-Historia-de-Govinda-e-Kaliya_2.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-19-A-Historia-de-Govinda-e-Kaliya_3.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-19-A-Historia-de-Govinda-e-Kaliya_4.png" height="50%" width="50%" alt="Unform" />
+</p>
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-19-A-Historia-de-Govinda-e-Kaliya_5.png" height="50%" width="50%" alt="Unform" />
+</p>
