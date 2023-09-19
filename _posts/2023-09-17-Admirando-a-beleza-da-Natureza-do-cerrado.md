@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Admirando a beleza da Natureza do cerrado
-date: 2023-09-16
+date: 2023-09-17
 categories: Poema
 ---
 
