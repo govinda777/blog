@@ -14,12 +14,13 @@ categories: Artigo
 **A História de Govinda e Kaliya: Uma Jornada de Simbolismo e Dharma**
 
 **Vrindavan e o Lago Tóxico**
-Em *Vrindavan*, uma cidade sagrada à beira do rio *Yamuna*, um lago enigmático se destacava. Suas águas, escuras e venenosas, eram o domínio da serpente *Kaliya*, uma criatura de cem capuzes que exalava veneno.
+
+Em *Vrindavan*, uma cidade sagrada à beira do rio *Yamuna*, um lago enigmático se destacava. Suas águas, escuras e venenosas, eram o domínio da serpente *Kaliya*, uma criatura serpente de cem cabeças que exalava veneno.
 
 *Comentário*: **Vrindavan** é frequentemente associado ao local de brincadeiras divinas (*lilas*) de Krishna. O lago tóxico pode ser interpretado como *Maya*, a ilusão que obscurece a verdadeira natureza da realidade, enquanto *Kaliya* simboliza as impurezas (*doshas*) da mente e da alma.
 
 **Govinda e o Desafio**
-Enquanto *Govinda* brincava à beira do lago, sua bola caiu nas águas envenenadas. Demonstrando seu *dharma* (dever), ele mergulhou sem hesitação para recuperá-la. A perturbação trouxe *Kaliya* à superfície, que, em fúria, confrontou *Govinda*. No entanto, *Govinda*, com sua divindade, dançou sobre os capuzes da serpente, dominando-a.
+Enquanto *Govinda* brincava à beira do lago, sua bola caiu nas águas envenenadas. Demonstrando seu *dharma* (dever), ele mergulhou sem hesitação para recuperá-la. A perturbação trouxe *Kaliya* à superfície, que, em fúria, confrontou *Govinda*. No entanto, *Govinda*, com sua divindade, dançou sobre os Cabeças da serpente, dominando-a.
 
 *Comentário*: A dança de *Govinda* sobre *Kaliya* é uma representação do *Leela* divino, a dança cósmica entre o bem e o mal. Através desta dança, *Govinda* transforma o veneno (*visha*) em néctar (*amrita*).
 
