@@ -6,7 +6,7 @@ categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-09-17-Admirando-a-beleza-da-Natureza-do-cerrado.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-09-18-Entendendo-a-Palavra-Reservada-yield-em-Python.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 **Entendendo a Palavra Reservada `yield` em Python**
