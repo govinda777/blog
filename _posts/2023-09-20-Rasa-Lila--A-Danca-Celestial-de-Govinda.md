@@ -30,3 +30,11 @@ Encontrando Govinda à beira do rio Yamuna, as gopis juntaram-se a ele em uma da
 Quando a dança chegou ao fim, as gopis, embora extasiadas com a experiência divina, também se sentiram um pouco envergonhadas por terem abandonado seus deveres. Govinda, sempre compassivo, as tranquilizou, lembrando-as da natureza efêmera da vida e da importância da devoção.
 
 *Comentário*: Este final serve como um lembrete de que, enquanto a devoção e a busca espiritual são essenciais, também é importante equilibrar nossos deveres mundanos. A compreensão e a graça de Govinda reforçam a ideia de que o caminho espiritual não é sobre renúncia, mas sobre equilíbrio e compreensão.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-20-Rasa-Lila--A-Danca-Celestial-de-Govinda_1.jpg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-09-20-Rasa-Lila--A-Danca-Celestial-de-Govinda_2.jpg" height="50%" width="50%" alt="Unform" />
+</p>
