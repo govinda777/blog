@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Irmã, Minha Segunda Expressão de Amor
-date: 2023-09-20
+date: 2023-09-24
 categories: Poema
 ---
 
