@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-09-25-Um-Show--Sem-Pe-Nem-Cabeca.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-09-25-O-Inferno-fantasioso-de-Narciso.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 No espelho da alma, Narciso se reflete,
