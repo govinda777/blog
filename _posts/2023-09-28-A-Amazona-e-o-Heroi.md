@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Amaxona e o Heroi
+title: A Amazona e o Heroi
 date: 2023-09-28
 categories: Poema
 ---
