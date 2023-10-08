@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Amor fracassa semopre, mas essa é a sua gloria
+title: O Amor fracassa sempre, mas essa é a sua gloria
 date: 2023-10-08
 categories: Poema
 ---
