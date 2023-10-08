@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O Lobo em Mim
-date: 2023-10-07
+date: 2023-10-08
 categories: Poema
 ---
 
