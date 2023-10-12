@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A eterna mutação do desejo
+title: A simbiose do casamento
 date: 2023-10-12
 categories: Poema
 ---
