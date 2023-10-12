@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A impossibilidade de intender o desejo
+title: A impossibilidade de entender o desejo
 date: 2023-10-12
 categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-10-12-A-impossibilidade-de-intender-o-desejo.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-10-12-A-impossibilidade-de-entender-o-desejo.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 No vasto oceano do inconsciente profundo,
