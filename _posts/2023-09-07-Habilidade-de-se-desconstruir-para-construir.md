@@ -13,7 +13,7 @@ categories: Poema
 
 Fiquei um período sem tocar minha fronte,
 
-Pelas feridas formadas, cada uma uma chaga ardente,
+Pelas feridas formadas, cada uma, uma chaga ardente,
 
 Cada gonorreia, um trauma, uma dor latente,
 
@@ -52,6 +52,7 @@ Questiona, indaga, busca entender sua voz.
 ---
 
 Dessa vida, não levamos nada, apenas o que somos,
+
 Quanto mais nos desconstruímos para construir, mais vemos a luz,
 
 Libertos das sombras da caverna, voamos altos, compondo novos ritmos,
