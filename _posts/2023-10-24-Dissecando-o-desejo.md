@@ -6,7 +6,7 @@ categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-10-24-Dissecando-o-desejo.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 **1. Natureza Instantânea do Desejo:**
