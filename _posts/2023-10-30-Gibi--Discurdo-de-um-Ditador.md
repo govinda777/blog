@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discurso de um Ditador
+title: Gibi Discurso de um Ditador
 date: 2023-10-30
 categories: Gibi
 ---

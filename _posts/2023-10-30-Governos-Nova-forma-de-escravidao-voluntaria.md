@@ -6,7 +6,7 @@ categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-10-29-Pq-tiranos-nao-tem-amigos.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-10-30-Governos-Nova-forma-de-escravidao-voluntaria.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 Por que o governo te cobra tantos impostos e não te dá quase nada em troca?

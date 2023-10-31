@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Governos Nova Forma de escravidao voluntaria
+title: Jesus e a Humanidade um só corpo
 date: 2023-10-30
 categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-10-29-Pq-tiranos-nao-tem-amigos.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-10-30-Jesus-e-a-Humanidade-um-so-corpo.png" height="50%" width="50%" alt="Unform" />
 </p>
 
 Por que o governo te cobra tantos impostos e não te dá quase nada em troca?
