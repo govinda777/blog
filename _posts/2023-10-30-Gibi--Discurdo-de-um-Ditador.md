@@ -87,15 +87,21 @@ Cena Kiki em uma Bancada fazendo um discurso.
 <img src="{{ site.baseurl }}/images/2023-10-30-Discurdo-de-um-Ditador-4.1.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-4.2 - Kiki, vc não se sente uma pessoa autoritária tipo um ditador? O Melhor discurso é quando vc é vc mesmo
+4.2 - 
+
+Dialogo: [Govinda] - Kiki, vc não se sente uma pessoa autoritária tipo um ditador? O Melhor discurso é quando vc é vc mesmo.
+
+Cena : Kiki conversando com Govinda, pensando em como escrever o Discurso de Vendedor do Ano e imprecionar a plateia
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/2023-10-30-Discurdo-de-um-Ditador-4.2.png" height="50%" width="50%" alt="Unform" />
 </p>
 
-Cena : Kiki pensando em como escrever o Discurso de Vendedor do Ano e imprecionar a plateia
 
-5 - O Discurso :
+
+5 - 
+
+Cena : O Discurso
 
 - Kiki, bate na mesa
 - Tem gestos de Auto confiança
