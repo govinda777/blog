@@ -58,15 +58,17 @@ Cena : Govinda apontando para a plateia
 
     Cena : Todos empolgados a já ligando para seus familizares falando da Boa noticia , todos felices 
 
-    <p align="center">
+<p align="center">
 <img src="{{ site.baseurl }}/images/2023-10-30-Discurdo-de-um-Ditador-3.2.png" height="50%" width="50%" alt="Unform" />
 </p>
+
+
 
     3.3 - Govinda e Kiki vontam para a sale e Kiki pergunta, "Vamos mesmo ter esse Bonus", Govinda fala, não, nem pensar, agora vai falar lá pra eles.
 
     Cena : Kiki desmentindo a informação dada anteriormente, todos fruntrados e indignados.
 
-    <p align="center">
+<p align="center">
 <img src="{{ site.baseurl }}/images/2023-10-30-Discurdo-de-um-Ditador-3.3.png" height="50%" width="50%" alt="Unform" />
 </p>
 
