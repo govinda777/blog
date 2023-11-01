@@ -127,3 +127,86 @@ Cena : O Discurso
 Ainda bem que Kiki conseguiu chamar a atencao de 1000 pessoas?
 
 Uma ironia pois os Ditadore apaixonaram pessoas com essa técnica de Discurso a muito tempo. E atraiam milhoes para ouvi-los.
+
+
+---
+
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-2.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-3.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-4.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-5.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-6.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-7.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-8.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-9.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-10.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-11.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-12.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-13.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-14.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-15.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-16.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-17.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-18.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
+
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-19.jpeg" height="50%" width="50%" alt="Unform" />
+</p>
