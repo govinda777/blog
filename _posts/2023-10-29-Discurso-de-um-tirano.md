@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Por que tiranos não têm amigos?
+title: Discurso de um tirano
 date: 2023-10-28
 categories: Poesia
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-10-29-Pq-tiranos-nao-tem-amigos.png" height="50%" width="50%" alt="Unform" />
+<img src="{{ site.baseurl }}/images/2023-10-29-Discurso-de-um-tirano.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
 
 ---

@@ -132,15 +132,19 @@ Uma ironia pois os Ditadore apaixonaram pessoas com essa técnica de Discurso a 
 ---
 
 
+ Não importa o que diga
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
 
+desde que seja algo que interesse as pessoas
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-2.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
+
+
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/2023-10-30-Gibi--Discurdo-de-um-Ditador-Dialogos-3.jpeg" height="50%" width="50%" alt="Unform" />
