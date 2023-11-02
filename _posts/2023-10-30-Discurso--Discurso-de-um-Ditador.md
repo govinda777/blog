@@ -33,4 +33,8 @@ O Ditador cria um discurso para trazer paixão a população,
 
 Promete qualquer coisa para chegar ao poder.
 
+---
+
+Dedicado : Aos 73 anos da minha querida Tia Carol.
+
 
