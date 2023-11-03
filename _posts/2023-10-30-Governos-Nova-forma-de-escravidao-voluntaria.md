@@ -11,7 +11,7 @@ categories: Artigo
 
 Por que o governo te cobra tantos impostos e não te dá quase nada em troca?
 
-Alem disso, ele cria uma moeda que se desvaloriza com o tempo, nos fazendo pagar mais impostos sobre a implação.
+Alem disso, ele cria uma moeda que se desvaloriza com o tempo, nos fazendo pagar mais impostos sobre a imflação.
 
 O Principio de um contrato, deveria ser a liberdade e independencia das partes.
 
@@ -25,7 +25,7 @@ E o estado é ineficiente
 
 Pq não posso escolher qual será o estado (ou agencia de segurança, ou agencia de Seguro responsável por garantir a minha segurança)
 
-Nossa, será que vivo na Matriz?
+Nossa, será que vivo na Matrix?
 
 Qual era mesmo a cor da pilula que tinha que tomar, ai meu deus :| ?
 
