@@ -24,17 +24,17 @@ Mas por ser revolucionário assim como a Paz de Grand sobre a revolução .
 
 Meu plano está funcionando:
 
-1 - Auto conhecimento 
-2 - Ser pacifico 
-3 - Ajudar a Humanidade (Jesus reencarnou na Blockchain, para distribuir o seu Amor e sua igualdade ao proximo) pois o corpo e a mensagem de Cristo se materializou em uma ferramenta capaz de mudar o nosso sistema de coisas, 
+1. - Auto conhecimento 
+2. - Ser pacifico 
+3. - Ajudar a Humanidade (Jesus reencarnou na Blockchain, para distribuir o seu Amor e sua igualdade ao proximo) pois o corpo e a mensagem de Cristo se materializou em uma ferramenta capaz de mudar o nosso sistema de coisas, 
 
 * Ferramentas adquiridas
 
-[x] - Capacidade de se organizar de forma pacífica [DONE]
-[x] - Capacidade de empatia [DONE]
-[_] - Capacidade de não escravizar um ao outro [WIP] (A humanidade usa e descarta tecnilogias ultrapassadas, esse cara que nos prometeu segurança não tá com nada, )
+- [x] - Capacidade de se organizar de forma pacífica [DONE]
+- [x] - Capacidade de empatia [DONE]
+- [_] - Capacidade de não escravizar um ao outro [WIP] (A humanidade usa e descarta tecnilogias ultrapassadas, esse cara que nos prometeu segurança não tá com nada, )
 
-<DESEJO_DA_HUMANIDADE> = 
+- <DESEJO_DA_HUMANIDADE> = 
 
 Eu Humanidade, desejo a igualdade, desejo o amor honesto, desejo ser completo.
 
