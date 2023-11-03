@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 2023-11-02-Uma-vida-sem-Fe-Rei-Lei
+title: 2023-11-02-Jesus-na-Blockchain
 date: 2023-11-02
 categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-11-02-Uma-vida-sem-Fe-Rei-Lei.png" 
+<img src="{{ site.baseurl }}/images/2023-11-02-Jesus-na-Blockchain.png" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
-2023-11-02-Uma-vida-sem-Fe-Rei-Lei.md
+2023-11-02-Jesus-na-Blockchain
 
 https://github.com/govinda777/dappazon
 
