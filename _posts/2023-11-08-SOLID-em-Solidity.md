@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-11-08-SOLID-em-Solidity
-date: 2023-11-02
+date: 2023-11-08
 categories: Artigo
 ---
 

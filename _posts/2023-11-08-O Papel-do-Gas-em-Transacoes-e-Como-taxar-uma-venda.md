@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O Papel do Gás em Transações e Como taxar uma venda
-date: 2023-11-02
+date: 2023-11-08
 categories: Artigo
 ---
 
