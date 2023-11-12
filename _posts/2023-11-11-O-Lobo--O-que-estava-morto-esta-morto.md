@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2023-11-08-Solidity-Como-funciona-o-calculo-do-custo-de-uma-tranzacao
-date: 2023-11-08
-categories: Artigo
+title: O Lobo | O que estava morto está morto
+date: 2023-11-11
+categories: Poema
 ---
 
 <p align="center">
