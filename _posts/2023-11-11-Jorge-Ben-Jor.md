@@ -1,12 +1,12 @@
 ---
 layout: post
-title: O Lobo | O que estava morto está morto
+title: Jorge Ben Jor
 date: 2023-11-11
-categories: Poema
+categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-11-11-O-Lobo--O-que-estava-morto-esta-morto.png" 
+<img src="{{ site.baseurl }}/images/2023-11-11-Jorge-Ben-Jor.png" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
