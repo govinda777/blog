@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-11-11-Asimetria--Simetria-Quadrado.png" 
+<img src="{{ site.baseurl }}/images/2023-11-11-Assimetria--Simetria-Quadrado.png" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
