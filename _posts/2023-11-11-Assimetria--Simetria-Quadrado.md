@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assimetria | Simetria Quadrado
-date: 2023-11-12
+date: 2023-11-11
 categories: Poema
 ---
 
