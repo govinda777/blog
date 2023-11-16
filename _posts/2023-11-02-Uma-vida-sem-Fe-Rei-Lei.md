@@ -10,22 +10,74 @@ categories: Poema
 height="50%" width="50%" alt="Unform" />
 </p>
 
-Uma vida sem fé , sem rei, sem lei.
+---
 
-Bitcoin é a solução
+Em meio à floresta, pulsando vida e cor,
 
-sem poder o rei cai,
-sem fé o futuro me trai
-sem lei é simplicidade
+Habita uma tribo, em harmonia e amor.
 
-E esses elementos se distraem
+Sem reis ou leis, na simplicidade se abriga,
 
-Pois uma sociedade perfeita não existe
-Mas apenas com a PAZ
-O futuro persiste
+Com a natureza, uma dança antiga.
 
-PAZ na violencia fisica
-PAZ na violencia verbal
+---
 
-É tudo o que quero ser
-Até o momento final
+Nas suas veias corre uma fé profunda,
+
+Na terra, no rio, no céu que os circunda.
+
+Sem coroas de ouro, sem tronos a reinar,
+
+Na liberdade pura, eles optam por andar.
+
+---
+
+Bitcoin surge, um eco distante e forte,
+
+Prometendo mudança, rumo ao norte.
+
+Mas no coração da tribo, uma verdade ressoa:
+
+É na conexão com a terra que a alma ecoa.
+
+---
+
+O rei cai sem poder, na história uma página vira,
+
+O futuro, sem fé, em incerteza delira.
+
+Na ética libertária, sem lei se descobre,
+
+Mas é na paz que a verdade se encobre.
+
+---
+
+Contra a violência física, um escudo de calma,
+
+Contra a agressão verbal, a palavra que acalma.
+
+Em busca de paz, em cada gesto, cada fala,
+
+Na trilha da harmonia, a tribo se embala.
+
+---
+
+Não há utopia, nem sociedade perfeita,
+
+Mas na paz persistem, na jornada repleta.
+
+Nos sorrisos partilhados, na dança ao luar,
+
+Na tribo, a esperança continua a brilhar.
+
+---
+
+Até o momento final, com a natureza a conversar,
+
+Na simplicidade de ser, sem nada a complicar.
+
+É tudo o que anseiam, na jornada sem fim,
+
+Na floresta, a tribo vive, em paz, enfim.
+
+---
