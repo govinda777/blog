@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflexos do Eu | Uma Dança nos Paralelos
-date: 2023-11-15
+date: 2023-11-18
 categories: Poema
 ---
 
