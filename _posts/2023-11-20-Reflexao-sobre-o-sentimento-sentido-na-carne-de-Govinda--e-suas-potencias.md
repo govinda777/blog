@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2023-11-20-Amor-com-uma-boneca.png" 
+<img src="{{ site.baseurl }}/images/2023-11-20-Reflexao-sobre-o-sentimento-sentido-na-carne-de-Govinda--e-suas-potencias.png" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
