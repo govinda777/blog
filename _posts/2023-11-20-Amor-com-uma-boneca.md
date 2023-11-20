@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amor com uma boneca
-date: 2023-11-18
+date: 2023-11-20
 categories: Poema
 ---
 
