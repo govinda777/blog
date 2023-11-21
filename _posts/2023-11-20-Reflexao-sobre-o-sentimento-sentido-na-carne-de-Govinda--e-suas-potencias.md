@@ -91,4 +91,3 @@ Mas amo as duas na mesma intencisade.
 Ai como foi bom declarar aquele eu ti amo na quele elevador.
 
 O que estava no incociente foi para o conciente 
-
