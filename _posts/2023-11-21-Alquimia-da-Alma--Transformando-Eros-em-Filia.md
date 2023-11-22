@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alquimia da Alma | Transformando Eros em Filia
-date: 2023-11-20
+date: 2023-11-21
 categories: Poema
 ---
 
