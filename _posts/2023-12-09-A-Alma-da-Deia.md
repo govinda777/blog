@@ -84,6 +84,14 @@ E nessa união, nosso amor só se regenera.
 
 
 <p align="center">
+<img src="{{ site.baseurl }}/images/2023-12-09-A-Alma-da-Deia_0.png" 
+height="50%" width="50%" alt="Unform" />
+</p>
+
+---
+
+
+<p align="center">
 <img src="{{ site.baseurl }}/images/2023-12-09-A-Alma-da-Deia_1.png" 
 height="50%" width="50%" alt="Unform" />
 </p>
