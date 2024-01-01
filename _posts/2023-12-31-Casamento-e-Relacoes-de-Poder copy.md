@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Casamento e Relações de Poder
-date: 2023-12-13
+date: 2023-12-31
 categories: Poema
 ---
 
