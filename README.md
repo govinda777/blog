@@ -35,33 +35,12 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ![./images/better.jpeg](./images/better.jpeg)
 
-* ![]({{ site.baseurl }}/images/better.jpeg)
-
 ### I don't know, I don't like to compete. :) kkkkk
 
 
 ### Não sei, não gosto de competir. :) kkkkk
 
 :joy:
-
-## My Profile Resume
-
-| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
-| :---: |
-
-
-<p align="left">
-
-<a href="https://github.com/govinda777?tab=followers">
-<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
-</a>
-
-
-
-### 📸 Galeria Tech
-
-![Imagem1](url-da-imagem1.jpg)
-![Imagem2](url-da-imagem2.jpg)
 
 ## 🤝 Contribua para a Jornada
 
@@ -81,3 +60,7 @@ Quer fazer parte desta aventura? Aqui está como você pode contribuir:
 
 Obrigado por visitar! Se você gostou, dê uma estrela ⭐ ao repositório e siga-me para mais aventuras tech! Até a próxima! 🚀🌌
 
+## My Profile Resume
+
+| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
+| :---: |
