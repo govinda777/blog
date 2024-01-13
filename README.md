@@ -33,6 +33,8 @@ tkinter.messagebox.askyes(title="[title]", message="""
 
 ## What do I have better than the my competitors? (No que eu sou melhor que os meus competidores?)
 
+![./images/better.jpeg](./images/better.jpeg)
+
 * ![]({{ site.baseurl }}/images/better.jpeg)
 
 ### I don't know, I don't like to compete. :) kkkkk
