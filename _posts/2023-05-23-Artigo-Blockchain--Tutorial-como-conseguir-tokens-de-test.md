@@ -1,12 +1,15 @@
 ---
 layout: post
+title: 2023-05-23-Artigo-Blockchain--Tutorial-como-conseguir-tokens-de-test
 date: 2023-05-23
-categories: [WEB3]
+categories: Artigo
 ---
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Blockchain__Tutorial_como_conseguir_tokens_de_test.jpeg" height="50%" width="50%" alt="Unform" />
 </p>
+
+---
 
 # [--Blockchain--]
 
