@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: '0' # Fetches all history for all tags and branches
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -39,7 +41,6 @@ jobs:
           destination: ./_site
           additional_args: "--incremental"
 
-      # New step to identify changed files
       - name: Identify changed files
         id: file_changes
         run: |
@@ -47,7 +48,6 @@ jobs:
           echo "::set-output name=files::$(cat changed_files.txt)"
         shell: bash
 
-      # New step to upload only changed files as an artifact
       - name: Upload changed artifact
         uses: actions/upload-artifact@v2
         with:
