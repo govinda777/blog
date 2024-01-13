@@ -15,7 +15,7 @@ Olá, exploradores do mundo tech! 🌍💻 Aqui é onde a tecnologia encontra a 
 
 ## My-Competitors [Meus concorrentes]
 
-[./images/my-competitors.jpeg](./images/my-competitors.jpeg)
+![./images/my-competitors.jpeg](./images/my-competitors.jpeg)
 
 ```python
 
