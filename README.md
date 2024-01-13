@@ -41,14 +41,14 @@ tkinter.messagebox.askyes(title="[title]", message="""
 ```
 :sweat_smile:
 
-## What do I have better than the my competitors? (No que eu sou melhor que os meus competidores?)
+> What do I have better than the my competitors? (No que eu sou melhor que os meus competidores?)
 
 ![./images/better.jpeg](./images/better.jpeg)
 
-### I don't know, I don't like to compete. :) kkkkk
+> I don't know, I don't like to compete. :) kkkkk
 
 
-### Não sei, não gosto de competir. :) kkkkk
+> Não sei, não gosto de competir. :) kkkkk
 
 :joy:
 
