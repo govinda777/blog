@@ -8,7 +8,7 @@ Olá, exploradores do mundo tech! 🌍💻 Aqui é onde a tecnologia encontra a 
 
 - **Dicas de Tecnologia Incríveis**: As últimas novidades do mundo tech com um toque de magia! 🧙‍♂️💻
 - **Tutoriais Interativos**: Aprenda com tutoriais que parecem mais uma aventura! 🚀
-- **Comunidade Engajada**: Junte-se a uma comunidade de entusiastas tech que adoram compartilhar e aprender! 🌟
+- **Poesias**: Junte-se a uma comunidade de entusiastas tech que adoram compartilhar e aprender! 🌟
 
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=push)](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml)
