@@ -1,5 +1,9 @@
 
 
+<p align="center">
+<img src="./images/2023-08-10-Voce-tem-brio.png" height="50%" width="70%" alt="Unform" />
+</p>
+
 # 🌟 Bem-vindo ao Govindas Tech Talk! 🚀
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=push)](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml)
@@ -12,10 +16,6 @@
 ![Licença](https://img.shields.io/github/license/govinda777/blog)
 
 Olá, exploradores do mundo tech! 🌍💻 Aqui é onde a tecnologia encontra a diversão. Prepare-se para uma jornada incrível pelo universo da programação, inovação e muito mais! 🎉👨‍💻
-
-<p align="center">
-<img src="./images/2023-08-10-Voce-tem-brio.png" height="50%" width="70%" alt="Unform" />
-</p>
 
 ## 🤔 Por que se aventurar aqui?
 
