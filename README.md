@@ -13,7 +13,9 @@
 
 Olá, exploradores do mundo tech! 🌍💻 Aqui é onde a tecnologia encontra a diversão. Prepare-se para uma jornada incrível pelo universo da programação, inovação e muito mais! 🎉👨‍💻
 
-![Banner do Blog](./images/2023-08-10-Voce-tem-brio.png)
+<p align="center">
+<img src="./images/2023-08-10-Voce-tem-brio.png" height="50%" width="100%" alt="Unform" />
+</p>
 
 ## 🤔 Por que se aventurar aqui?
 
