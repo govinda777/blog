@@ -1,17 +1,25 @@
+
+
 # 🌟 Bem-vindo ao Govindas Tech Talk! 🚀
+
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=push)](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml)
+
+
+![Última Atualização](https://img.shields.io/github/last-commit/govinda777/blog)
+
+![Estrelas no GitHub](https://img.shields.io/github/stars/govinda777/blog?style=social)
+
+![Licença](https://img.shields.io/github/license/govinda777/blog)
 
 Olá, exploradores do mundo tech! 🌍💻 Aqui é onde a tecnologia encontra a diversão. Prepare-se para uma jornada incrível pelo universo da programação, inovação e muito mais! 🎉👨‍💻
 
-![Banner do Blog](url-do-banner-aqui.gif)
+![Banner do Blog](./images/2023-08-10-Voce-tem-brio.png)
 
 ## 🤔 Por que se aventurar aqui?
 
 - **Dicas de Tecnologia Incríveis**: As últimas novidades do mundo tech com um toque de magia! 🧙‍♂️💻
 - **Tutoriais Interativos**: Aprenda com tutoriais que parecem mais uma aventura! 🚀
 - **Poesias**: Junte-se a uma comunidade de entusiastas tech que adoram compartilhar e aprender! 🌟
-
-
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=push)](https://github.com/govinda777/blog/actions/workflows/jekyll-gh-pages.yml)
 
 ## My-Competitors [Meus concorrentes]
 
