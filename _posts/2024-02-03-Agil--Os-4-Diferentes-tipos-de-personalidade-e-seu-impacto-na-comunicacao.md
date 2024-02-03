@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2024-02-03-Os-4-Diferentes-tipos-de-personalidade-e-seu-impacto-na-comunicacao
+title: 2024-02-03-Agil--Os-4-Diferentes-tipos-de-personalidade-e-seu-impacto-na-comunicacao
 date: 2024-02-02
 categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-02-03-Os-4-Diferentes-tipos-de-personalidade-e-seu-impacto-na-comunicacao.jpeg" 
+<img src="{{ site.baseurl }}/images/2024-02-03-Agil--Os-4-Diferentes-tipos-de-personalidade-e-seu-impacto-na-comunicacao.jpeg" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
