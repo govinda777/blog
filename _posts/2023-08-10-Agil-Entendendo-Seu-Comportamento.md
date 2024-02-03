@@ -86,6 +86,11 @@ Poucas coisas estão sobre nosso controle.
 
 ![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_11.jpeg)
 ![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_12.jpeg)
+
+Espoused Theory : É o que está na cabeça da Maria
+
+Theory in Use : É o real efeito que as atitudas da Maria causa no Time
+
 ![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_13.jpeg)
 ![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_14.jpeg)
 ![]({{ site.baseurl }}/images/Agil_Entendendo_Seu_Comportamento_15.jpeg)
