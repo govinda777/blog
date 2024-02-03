@@ -10,64 +10,48 @@ categories: Poema
 height="50%" width="50%" alt="Unform" />
 </p>
 
-Vamos criar um artigo chamado:
+# Meus Traços de Autismo
 
-# Titulo: Meus traços de Autismo.
+## Introdução
 
-Nesse artigo irei falar os meus traços de autismo / os maskings que utilizo / os ciclos que possuo (Adoro começar coisas, porem termina-las e coloca-las em produção me traz aflições, estou aprendendo uma politica de não estocar coisas prontas, B continuo, Calculo de riscos, Taxa de improviso [é quando tenho uma vaga ideia sobre o assunto e uso a minha habilidade de falar e apresentar algo ao mesmo tempo / Diagramas , Documentações], )
+Neste artigo, compartilho minhas experiências pessoais com o autismo, abordando meus traços característicos, os desafios que enfrento, e como lido com eles no meu dia a dia. O objetivo é oferecer uma visão interna sobre a vida com autismo, destacando tanto as dificuldades quanto as habilidades únicas que ele me trouxe.
 
-Como são as minhas habilidades naturais e adquiridas.
+## Meus Traços e Maskings
 
-## Minhas dificuldades:
+- **Início e Conclusão de Tarefas**: Falo sobre minha paixão por iniciar projetos, mas a dificuldade em concluí-los e colocá-los em produção.
+- **Habilidades Naturais e Adquiridas**: Descrevo como minhas habilidades naturais se entrelaçam com as que adquiri ao longo da vida.
+- **Maskings Utilizados**: Explico os mecanismos que uso para me adaptar a diferentes situações sociais e profissionais.
 
-* Gramática e ortografia
-* Ler um livro até o final, me causa angustia
-* Ficar muito tempo com o mesmo projeto ou mesmo assunto
-* Trabalhos operacionais, repetitivos, automaticos
+## Minhas Dificuldades
 
-## Meus exessos e compulsões:
+- **Gramática e Ortografia**: Discuto como lido com desafios na escrita.
+- **Leitura Prolongada**: Compartilho minha angústia ao ler um livro até o final.
+- **Projetos Prolongados**: Reflito sobre a dificuldade de manter o foco em um único projeto por muito tempo.
+- **Trabalhos Operacionais**: Explico por que tarefas repetitivas e automáticas são um desafio para mim.
 
-* Compartilhar informação
-* Quando entendo de um assunto, falo de maneira muito confiante, as pessoas, horas entendem que estou impondo algo, porem estou apenas colocando a minha opnião.
-* Quando estou muito entusiasmado com algo, falo muito rápido, e as pessoas não conseguem acompanhar o meu ritmo de fala.
+## Meus Excessos e Compulsões
 
-## Meus gatilhos:
+- **Compartilhamento de Informação**: Falo sobre minha tendência de compartilhar conhecimento.
+- **Confiança ao Falar**: Abordo como minha confiança ao falar sobre um assunto pode ser mal interpretada.
+- **Fala Rápida**: Descrevo como meu entusiasmo pode acelerar minha fala, dificultando a compreensão dos outros.
 
-* Aflição no termino de alguma tarefa motivadora. Postergo o termino de algo, Livro / Projetos / Ciclos.
+## Meus Gatilhos
 
-* Coisas que me motivão muito e me dão muito prazer em fazer são:
+- **Aflição no Término de Tarefas**: Discuto como a conclusão de tarefas motivadoras pode ser um gatilho para mim.
+- **Atividades Motivadoras**: Listo atividades que me dão prazer e como elas podem me levar a um estado de hiperfoco.
 
-- Escalar / Programar / Documentar / Escrever / Dezenhar são coisas para mim Muito divertidas.
+## O que me Irrita
 
-- Gosto tanto que sou capas de criar um outro mundo e me internar dentro dele, como se a atividade fosse uma nova vida minha em um novo mundo, como se fosse a experiencia do filme Avatar (onde um soldado paraplégico consegue entrar dentro do corpo de um Alienígena)
+- **Distrações Sonoras**: Explico minha aversão a barulhos de chamadas telefônicas e conversas ao meu redor.
+- **Comunicação Ineficiente**: Reflito sobre minha preferência por comunicação direta e objetiva.
+- **Impontualidade**: Compartilho como atrasos e cancelamentos de reuniões me afetam.
 
-#- Essa habilidade de me hiper focar pode me causar obsessões (no sentido de não descansar enquanto não fazer algo) me dá tanta energia que sou capaz de me concentrar em várias tarefas de maneira ininterrupta. 14h+
+## Meus Traços na Infância
 
-O exagero nas horas de trabalho me causam muito cansaço fisico e irritabilidade.
-    
-Isso prejudica a minha saude fisica e mental, pois me causa dores de cabeça, dores no corpo, irritabilidade, ansiedade.
+- **Objetos de Conforto**: Falo sobre os objetos que me traziam conforto na infância e como isso evoluiu na vida adulta.
+- **Busca por Adrenalina**: Compartilho minha atração por atividades que me dão medo, como andar de moto e escalar.
+- **Sinceridade e Opiniões**: Discuto como minha sinceridade e abertura para opiniões contrárias são parte integral de quem sou.
 
-## O que me irrita
+## Conclusão
 
-* Não gosto que pessoas fiquem falando no celular perto de mim.
-
-* Não gosto de ouvir uma call onde eu não estou.
-
-* Não gosto de frazes longas e perguntas que não são objetivas.
-
-* Não suporto atrasos e Reuniões desmarcadas. 
-
-## Meus trasos quando criança
-
-* Des de criança precisei de algo para me confortar, até os 4 anos tinha paninhos, chupetas, e até os 10 anos tinha um travesseiro que eu carregava para todos os lugares. Hoje como adulto, uso um masking para isso são as minhas Abraçaderas (são elasticos de pano que coloco em meus pulços, eles ajudam a digitar sem dor, e protegem meus pulsos para eu poder escalar)
-
-* Gosto de fazer coisas que me dão medo, primeiro andar de moto, mas era muito arriscado, escalar, é libertador, o medo sagrado, o medo bom encontrado.
-
-* Gosto de ser muito sincero em minhas opniões e gosto de ouvir opniões contrárias ou complementares, as pessoas confundem a minha personalidade Dezão ()
-
-Se basei nesses videos:
-
-https://www.youtube.com/@natifell
-
-https://youtu.be/e7AmRUM_Ag4?si=Vjw42cRV1gQOoBVL
-
+Encerro o artigo refletindo sobre como essas características moldam minha vida e como aprendi a viver com elas, buscando sempre o equilíbrio e o autoconhecimento.
