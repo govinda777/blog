@@ -36,15 +36,14 @@ Também falava:
 * Como pode um menino de 7 anos já ter que saber ler
 * "Simbora ler a Bíblia para o espírito quercer."
 
-Minha vó, "kyringue" (nosso amor),
+Minha vó,
 Te agradeço muito,
 Pelo amor que você me deu,
 Pela paciência que você teve comigo,
 Pelo carinho que você me deu,
 Pela compaixão que você teve comigo,
 Pela gratidão que você me ensinou,
-Pelo amor que você me ensinou,
-Pela "Nhanderekó" (nosso modo de ser).
+Pelo amor que você me ensinou
 
 > "Nos osso que aqui estamos pelos vossos esperamos"
 
