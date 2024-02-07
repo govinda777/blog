@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-02-07-Sim-somos-diferentes.jpeg" 
+<img src="{{ site.baseurl }}/images/2024-02-07-Sim-somos-diferentes.webp" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
