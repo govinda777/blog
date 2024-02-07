@@ -62,5 +62,5 @@ Mar o meu amor interno é especial.
 Ele se policia, identifica gatilhos e padrões.
 Ele permite que o corpo e a alma desse ser.
 
-Ele permite que o eu sobra menos.
+Ele permite que o eu sofra menos.
 Ele permite os desejos do ego.
