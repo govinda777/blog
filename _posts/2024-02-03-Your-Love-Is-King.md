@@ -1,17 +1,14 @@
 ---
 layout: post
-title: 2024-02-03-Obrigado-Batchan
+title: 2024-02-03-Your-Love-Is-King
 date: 2024-02-03
 categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-02-03-Obrigado-Batchan.jpeg" 
+<img src="{{ site.baseurl }}/images/2024-02-03-Your-Love-Is-King.jpeg" 
 height="50%" width="50%" alt="Unform" />
 </p>
-
-
-
 
 ---
 
