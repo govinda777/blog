@@ -12,19 +12,23 @@ height="50%" width="50%" alt="Unform" />
 
 ---
 
-Em uma noite de insônia
+Aqui está a correção ortográfica do texto:
 
-Quando o desejo se transforma em angústia
+---
 
-Um gatinho prestes a ser identificado, a conciencia se espandiu 
+Em uma noite de insônia,
 
-Por meio do dialogo, descobri que amar-me por outra otica, é um caminho para o autoconhecimento
+Quando o desejo se transforma em angústia,
+
+Um gatinho prestes a ser identificado, a consciência se expandiu.
+
+Por meio do diálogo, descobri que amar-me por outra ótica é um caminho para o autoconhecimento.
 
 ---
 
 Por que não vejo a vida como aquarela?
 
-Por que o demonio desejo me assombra?
+Por que o demônio desejo me assombra?
 
 Por que essa nuvem não me deixa ver?
 
@@ -32,26 +36,28 @@ Por que aceito essa maldição?
 
 ---
 
-Por meio da palavra o homem se fez lucido
+Por meio da palavra o homem se fez lúcido.
 
-O dialogo com a pessoa amada se fez a cura
+O diálogo com a pessoa amada se fez a cura.
 
-O entendimento se fez sincero
+O entendimento se fez sincero.
 
-A luz reinou sobre a sombra
-
----
-
-O segredo não é matar seus demonios
-
-Mas sim, manter-se a sima deles
-
-O segredo não é vencer seus desejos
-
-Mas sim, sublima-los, transmuta-los
+A luz reinou sobre a sombra.
 
 ---
 
-Padrões, garilhos e repetições, não será mais minha prisão
+O segredo não é matar seus demônios,
 
-Grato por ser amado e ser libertado
+Mas sim, manter-se acima deles.
+
+O segredo não é vencer seus desejos,
+
+Mas sim, sublimá-los, transmutá-los.
+
+---
+
+Padrões, grilhões e repetições, não serão mais minha prisão.
+
+Grato por ser amado e ser libertado.
+
+---
