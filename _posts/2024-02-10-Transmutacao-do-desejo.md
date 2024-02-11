@@ -56,7 +56,7 @@ Mas sim, sublimá-los, transmutá-los.
 
 ---
 
-Padrões, grilhões e repetições, não serão mais minha prisão.
+Padrões, gatinhos e repetições, não serão mais minha prisão.
 
 Grato por ser amado e ser libertado.
 
