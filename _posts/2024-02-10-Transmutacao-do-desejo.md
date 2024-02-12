@@ -12,10 +12,6 @@ height="50%" width="50%" alt="Unform" />
 
 ---
 
-Aqui está a correção ortográfica do texto:
-
----
-
 Em uma noite de insônia,
 
 Quando o desejo se transforma em angústia,
