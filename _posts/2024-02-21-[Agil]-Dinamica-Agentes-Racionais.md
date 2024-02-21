@@ -1,36 +1,22 @@
+---
+layout: post
+title: 2024-02-21-[Agil]-Dinamica-Agentes-Racionais
+date: 2024-02-17
+categories: Dinamica
+---
 
-## $$ Conforme_falei_no_Artigo
+<p align="center">
+<img src="{{ site.baseurl }}/images/2024-02-21-[Agil]-Dinamica-Agentes-Racionais.webp" 
+height="50%" width="50%" alt="Unform" />
+</p>
 
 > ## Dinâmica_Agentes_Racionais
 
 !["{{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg"]("{{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg")
 
-
-
-### Como instalar uma ferramenta muito interessante para criação de documentações visuais como código
-
-sudo apt install graphviz
-
-pip install diagrams
-
-
-
-
-------------------------------------------
-
-
-
-
-
-
-
-
-
 ## Regras
 
 - 1 - Escolha um numero de [0, ..., 100]
-
-Dobro / 5 
 
 ## Ganhador
 
@@ -38,7 +24,7 @@ Dobro / 5
 
 ![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais_01.jpeg)
 
-Como ler a função matemática acima: Suja a somatória , vezes dois terços.
+Como ler a função matemática acima: "Suja a somatória , vezes dois terços."
 
 ## Palpites 
 
@@ -56,7 +42,7 @@ Como ler a função matemática acima: Suja a somatória , vezes dois terços.
 
 ## Ganhador 
 
-* Camila
+* Camila : Palpite 05
 
 ## Qual número todos os participantes poderiam escolher, onde todos iriam ganhar ?
 
@@ -99,19 +85,3 @@ Conversa Rápida - Agentes Racionais - Raphael Molesim : https://youtu.be/vQX9vp
 O poder do hábito : https://www.youtube.com/watch?v=9BtrLf6PfYY
 
 Funções no git : https://ajustetecnico.github.io/blog/2018/09/19/equacoes-latex/
-
-## My Profile Resume
-
-| [<img src="https://avatars.githubusercontent.com/u/498332?s=400&u=9b7a8aa8743ec4dd3c84d8c382aa31fb1b6c8abf&v=4" width=115><br><sub>Govinda</sub>](https://github.com/govinda777) |
-| :---: |
-
-
-<p align="left">
-
-<a href="https://github.com/govinda777?tab=followers">
-<img src="{{ site.baseurl }}/images/sub.jpeg" height="70" width="140" alt="Unform" />
-</a>
-
-</p>
-
-
