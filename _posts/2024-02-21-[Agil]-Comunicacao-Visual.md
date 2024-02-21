@@ -34,32 +34,9 @@ Sem dúvidas a comunicação verbal é a melhor formar de comunicação possivel
 
 !["{{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg"]("{{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg")
 
-
-
-### Como instalar uma ferramenta muito interessante para criação de documentações visuais como código
-
-sudo apt install graphviz
-
-pip install diagrams
-
-
-
-
-------------------------------------------
-
-
-
-
-
-
-
-
-
 ## Regras
 
 - 1 - Escolha um numero de [0, ..., 100]
-
-Dobro / 5 
 
 ## Ganhador
 
