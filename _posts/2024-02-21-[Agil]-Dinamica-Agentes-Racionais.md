@@ -38,9 +38,11 @@ Como ler a função matemática acima: "Suja a somatória , vezes dois terços."
 * .
 * Total somatória : 228 
 
+Soma total dos palpites é 228 x 2/3 = 152
+
 ## Ganhador 
 
-* Camila : Palpite 05
+* Andrea : Palpite 70
 
 ## Qual número todos os participantes poderiam escolher, onde todos iriam ganhar ?
 
@@ -57,6 +59,7 @@ Então :
 * Se todos escolherem o ZERO todos venceriam.
 
 ![]({{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais_03.jpeg)
+
 > ## Eu não falei que teria que ser apenas um ganhador
 
 ## Provocação
