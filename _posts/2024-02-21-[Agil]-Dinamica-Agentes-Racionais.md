@@ -12,8 +12,6 @@ height="50%" width="50%" alt="Unform" />
 
 > ## Dinâmica_Agentes_Racionais
 
-!["{{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg"]("{{ site.baseurl }}/images/Agil_Dinamica_Agentes_Racionais.jpeg")
-
 ## Regras
 
 - 1 - Escolha um numero de [0, ..., 100]
