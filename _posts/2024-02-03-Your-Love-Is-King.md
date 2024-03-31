@@ -6,7 +6,7 @@ categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-02-03-Your-Love-Is-King.jpeg" 
+<img src="{{ site.baseurl }}/images/2024-02-03-Your-Love-Is-King.webp" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
@@ -31,7 +31,7 @@ Também falava:
 * Um pouco mais velho, ela a ler ajudou a ensinar.
 * Todos os dias fazer, o netinho a ler
 * Como pode um menino de 7 anos já ter que saber ler
-* "Simbora ler a Bíblia para o espírito quercer."
+* "Simbora ler a Bíblia para o espírito crecer."
 
 Minha vó,
 Te agradeço muito,
