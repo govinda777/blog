@@ -32,7 +32,7 @@ Na clareza do ser, encontro meu credo.
 
 ---
 
-Dizem 'Hare Govinda', buscam a luz,  
+Dizem 'Radhe Govinda', buscam a luz,  
 
 Eu vivo essa verdade, em cada fala, cada cruz;  
 
