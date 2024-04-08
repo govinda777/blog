@@ -6,7 +6,7 @@ categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-03-31-A-minha-missao-aqui-na-terra.webp" 
+<img src="{{ site.baseurl }}/images/2024-04-07-Blockchain__a_unica_solucao_para_a democracia.webp" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
