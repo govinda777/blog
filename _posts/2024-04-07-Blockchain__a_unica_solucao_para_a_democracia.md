@@ -22,65 +22,72 @@ eu posso não concordar com uma palavra que você fala, mas vou defender até o 
 Breve descrição sobre o conceito de blockchain e sua relevância potencial para reforçar práticas democráticas, incluindo uma visão geral dos problemas históricos de democracia que serão discutidos no artigo.
 
 ```mermaid
-graph TD
-    title[Título: Como a Blockchain Poderia Ser uma Ferramenta Eficaz para a Democracia]
-    resumo[Resumo]
-    intro[Introdução]
-    cap1[Capítulo 1: A Tecnologia Blockchain e a Teoria da Democracia]
-    cap2[Capítulo 2: Fraudes Eleitorais e a Solução Blockchain]
-    cap3[Capítulo 3: Corrupção Governamental e Ledger Distribuído]
-    cap4[Capítulo 4: Desigualdade no Acesso a Serviços Públicos]
-    cap5[Capítulo 5: Censura e Liberdade de Expressão]
-    cap6[Capítulo 6: Financiamento de Campanhas e Transparência]
-    cap7[Capítulo 7: Desafios e Limitações da Implementação da Blockchain na Democracia]
-    conclusao[Conclusão]
-    apendices[Apêndices]
-
-    title --> resumo
-    title --> intro
-    title --> cap1
-    title --> cap2
-    title --> cap3
-    title --> cap4
-    title --> cap5
-    title --> cap6
-    title --> cap7
-    title --> conclusao
-    title --> apendices
-
-    cap1 --> cap1a[Fundamentos da democracia: teoria e prática]
-    cap1 --> cap1b[Características da blockchain: transparência, descentralização, imutabilidade]
-    cap1 --> cap1c[Como a blockchain se alinha aos princípios democráticos]
-    cap1 --> cap1d[Desafios da Implementação da Democracia e Potenciais Soluções Blockchain]
-    cap1 --> cap1e[O Futuro da Democracia Assistida por Blockchain]
-
-    cap2 --> cap2a[Histórico de fraudes eleitorais significativas]
-    cap2 --> cap2b[Blockchain para votação segura e verificável]
-    cap2 --> cap2c[Estudos de caso de implementações piloto de votação blockchain em países]
-
-    cap3 --> cap3a[Análise de casos de corrupção de alto perfil e impacto na governança]
-    cap3 --> cap3b[Aplicação de ledgers distribuídos para aumentar a transparência]
-    cap3 --> cap3c[Potencial da blockchain para combater a corrupção e exemplos práticos]
-
-    cap4 --> cap4a[Problemas históricos de acesso desigual a serviços fundamentais]
-    cap4 --> cap4b[Blockchain como meio de democratizar o acesso a serviços]
-    cap4 --> cap4c[Projetos de blockchain que estão melhorando o acesso em comunidades carentes]
-
-    cap5 --> cap5a[O que é liberdade de expressão e sua importância para a democracia]
-    cap5 --> cap5b[Limites da liberdade de expressão]
-    cap5 --> cap5c[Por que a censura é ruim e usada para dar poder ao tirano]
-    cap5 --> cap5d[Casos históricos de censura e seu impacto]
-    cap5 --> cap5e[Uso da blockchain para plataformas de mídia descentralizadas]
-    cap5 --> cap5f[Exemplos de plataformas que utilizam blockchain para liberdade de expressão]
-
-    cap6 --> cap6a[Visão geral dos problemas com o financiamento atual de campanhas]
-    cap6 --> cap6b[Como a blockchain pode rastrear e reportar contribuições transparentemente]
-    cap6 --> cap6c[Análise de iniciativas existentes e seu impacto potencial]
-
-    cap7 --> cap7a[Desafios técnicos e éticos]
-    cap7 --> cap7b[Resistência política e institucional à adoção da tecnologia]
-    cap7 --> cap7c[Considerações sobre privacidade e segurança]
-
+mindmap
+    root((Blockchain e Democracia))
+    Introdução
+        Resumo
+        ::icon(fa fa-book)
+        Introdução
+            Definição e origem da blockchain
+            Crise de confiança nas instituições democráticas
+            Objetivos do estudo
+    Capítulo 1
+        A Tecnologia Blockchain e a Teoria da Democracia
+            Fundamentos da democracia: teoria e prática
+            ::icon(fa fa-university)
+            Características da blockchain
+            Alinhamento com princípios democráticos
+            Desafios e soluções potenciais
+            Futuro da democracia assistida por blockchain
+    Capítulo 2
+        Fraudes Eleitorais e a Solução Blockchain
+            Histórico de fraudes eleitorais significativas
+            ::icon(fa fa-gavel)
+            Blockchain para votação segura
+            Implementações bem-sucedidas
+            Estudos de caso
+    Capítulo 3
+        Corrupção Governamental e Ledger Distribuído
+            Análise de casos de corrupção de alto perfil
+            ::icon(fa fa-balance-scale)
+            Ledgers distribuídos para transparência
+            Combate à corrupção com blockchain
+    Capítulo 4
+        Desigualdade no Acesso a Serviços Públicos
+            Problemas históricos de acesso
+            ::icon(fa fa-users)
+            Blockchain para democratizar o acesso
+            Projetos em comunidades carentes
+    Capítulo 5
+        Censura e Liberdade de Expressão
+            Importância da liberdade de expressão
+            ::icon(fa fa-comments)
+            Limites da liberdade de expressão
+            Censura como ferramenta de poder
+            Plataformas descentralizadas e liberdade de expressão
+    Capítulo 6
+        Financiamento de Campanhas e Transparência
+            Problemas com o financiamento atual
+            ::icon(fa fa-money)
+            Blockchain para transparência em contribuições
+            Análise de iniciativas existentes
+    Capítulo 7
+        Desafios e Limitações da Implementação da Blockchain na Democracia
+            Desafios técnicos e éticos
+            ::icon(fa fa-exclamation-triangle)
+            Resistência política e institucional
+            Privacidade e segurança
+    Conclusão
+        Sumário dos benefícios
+            Reflexões sobre os estudos de caso
+            ::icon(fa fa-check)
+            Viabilidade a longo prazo
+            Direções futuras para pesquisa e implementação
+    Apêndices
+        Dados suplementares
+        ::icon(fa fa-archive)
+        Diagramas de fluxo
+        Descrições técnicas
 ```
 
 **Introdução:**  
