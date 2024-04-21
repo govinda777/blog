@@ -23,71 +23,49 @@ Breve descrição sobre o conceito de blockchain e sua relevância potencial par
 
 ```mermaid
 mindmap
-    root((Blockchain e Democracia))
-    Introdução
-        Resumo
-        ::icon(fa fa-book)
-        Introdução
-            Definição e origem da blockchain
-            Crise de confiança nas instituições democráticas
-            Objetivos do estudo
-    Capítulo 1
-        A Tecnologia Blockchain e a Teoria da Democracia
-            Fundamentos da democracia: teoria e prática
-            ::icon(fa fa-university)
-            Características da blockchain
-            Alinhamento com princípios democráticos
-            Desafios e soluções potenciais
-            Futuro da democracia assistida por blockchain
-    Capítulo 2
-        Fraudes Eleitorais e a Solução Blockchain
-            Histórico de fraudes eleitorais significativas
-            ::icon(fa fa-gavel)
-            Blockchain para votação segura
-            Implementações bem-sucedidas
-            Estudos de caso
-    Capítulo 3
-        Corrupção Governamental e Ledger Distribuído
-            Análise de casos de corrupção de alto perfil
-            ::icon(fa fa-balance-scale)
-            Ledgers distribuídos para transparência
-            Combate à corrupção com blockchain
-    Capítulo 4
-        Desigualdade no Acesso a Serviços Públicos
-            Problemas históricos de acesso
-            ::icon(fa fa-users)
-            Blockchain para democratizar o acesso
-            Projetos em comunidades carentes
-    Capítulo 5
-        Censura e Liberdade de Expressão
-            Importância da liberdade de expressão
-            ::icon(fa fa-comments)
-            Limites da liberdade de expressão
-            Censura como ferramenta de poder
-            Plataformas descentralizadas e liberdade de expressão
-    Capítulo 6
-        Financiamento de Campanhas e Transparência
-            Problemas com o financiamento atual
-            ::icon(fa fa-money)
-            Blockchain para transparência em contribuições
-            Análise de iniciativas existentes
-    Capítulo 7
-        Desafios e Limitações da Implementação da Blockchain na Democracia
-            Desafios técnicos e éticos
-            ::icon(fa fa-exclamation-triangle)
-            Resistência política e institucional
-            Privacidade e segurança
-    Conclusão
-        Sumário dos benefícios
-            Reflexões sobre os estudos de caso
-            ::icon(fa fa-check)
-            Viabilidade a longo prazo
-            Direções futuras para pesquisa e implementação
-    Apêndices
-        Dados suplementares
-        ::icon(fa fa-archive)
-        Diagramas de fluxo
-        Descrições técnicas
+  root((Como a Blockchain Poderia Ser uma Ferramenta Eficaz para a Democracia))
+    Introdução((Introdução))
+      Resumo --- Introdução
+      Introdução --- Objetivos_do_estudo[Objetivos do Estudo]
+    Capítulo_1((Capítulo 1: A Tecnologia Blockchain e a Teoria da Democracia))
+      Teoria_e_Prática --- Capítulo_1
+      Características_da_blockchain --- Teoria_e_Prática
+      Princípios_Democráticos --- Características_da_blockchain
+      Desafios_e_Soluções --- Princípios_Democráticos
+      Futuro_da_Democracia --- Desafios_e_Soluções
+    Capítulo_2((Capítulo 2: Fraudes Eleitorais e a Solução Blockchain))
+      Fraudes_Eleitorais --- Capítulo_2
+      Votação_segura --- Fraudes_Eleitorais
+      Implementações --- Votação_segura
+    Capítulo_3((Capítulo 3: Corrupção Governamental e Ledger Distribuído))
+      Casos_de_Corrupção --- Capítulo_3
+      Ledgers_Transparentes --- Casos_de_Corrupção
+      Combate_à_Corrupção --- Ledgers_Transparentes
+    Capítulo_4((Capítulo 4: Desigualdade no Acesso a Serviços Públicos))
+      Acesso_Desigual --- Capítulo_4
+      Democratização_do_Acesso --- Acesso_Desigual
+      Projetos_de_Blockchain --- Democratização_do_Acesso
+    Capítulo_5((Capítulo 5: Censura e Liberdade de Expressão))
+      Liberdade_de_Expressão --- Capítulo_5
+      Limites_da_Liberdade --- Liberdade_de_Expressão
+      Censura_e_Tirania --- Limites_da_Liberdade
+      Plataformas_Descentralizadas --- Censura_e_Tirania
+    Capítulo_6((Capítulo 6: Financiamento de Campanhas e Transparência))
+      Financiamento_de_Campanhas --- Capítulo_6
+      Transparência --- Financiamento_de_Campanhas
+      Iniciativas_e_Impacto --- Transparência
+    Capítulo_7((Capítulo 7: Desafios e Limitações da Implementação da Blockchain na Democracia))
+      Desafios_Técnicos --- Capítulo_7
+      Resistência_Política --- Desafios_Técnicos
+      Privacidade_e_Segurança --- Resistência_Política
+    Conclusão((Conclusão))
+      Benefícios --- Conclusão
+      Reflexões --- Benefícios
+      Pesquisa_e_Implementação --- Reflexões
+    Apêndices((Apêndices))
+      Dados_Suplementares --- Apêndices
+      Diagramas_de_Fluxo --- Dados_Suplementares
+      Descrições_Técnicas --- Diagramas_de_Fluxo
 ```
 
 **Introdução:**  
