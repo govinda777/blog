@@ -88,6 +88,8 @@ mindmap
     - Desafios e oportunidades da votação blockchain.
     - Implementações bem-sucedidas de votação blockchain.
     - Plataformas de votação blockchain existentes.
+    - O que significa a palavra votação
+    - Votação é uma ferramenta de consenço
 - Estudos de caso de implementações piloto de votação blockchain em paises.
 
 **Capítulo 3: Corrupção Governamental e Ledger Distribuído**  
