@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024-04-27-A-Importancia-Vital-do-Product-Owner-na-Gestao-Agil-do-Backlog
-date: 2024-04-26
+date: 2024-04-27
 categories: Artigo
 ---
 
