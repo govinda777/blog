@@ -107,6 +107,8 @@ Por que é assim que **EU** Leio.
 
 CARO Aluno, Você sabe o que é brio ??"
 
+> ## Vc tem Brio ??
+
 <img src="{{ site.baseurl }}/images/Prof_Clovis_Filho-VC-TEM-BRIU-8.jpeg" height="50%" width="50%" alt="Unform" />
 
 <p>
