@@ -2,15 +2,13 @@
 layout: post
 title: 2024-08-17-Sombras-da-Liberdade
 date: 2024-08-17
-categories: Projeto
+categories: Poema
 ---
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/2024-08-17-Sombras-da-Liberdade.webp" 
 height="50%" width="50%" alt="Unform" />
 </p>
-
-# Sombras da Liberdade
 
 Liberdade, estrela da noite sem fim,
 
