@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2024-08-25-Doce-engano
+title: 2024-08-25-O-Segundo-Infinito
 date: 2024-08-25
 categories: Poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-08-25-Doce-engano.webp" 
+<img src="{{ site.baseurl }}/images/2024-08-25-O-Segundo-Infinito.webp" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
