@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2024-09-18-Levagem-celebral
+title: 2024-09-18-Levagem-cerebral
 date: 2024-09-18
 categories: Artigo
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2024-09-18-Levagem-celebral.webp" 
+<img src="{{ site.baseurl }}/images/2024-09-18-Levagem-cerebral.webp" 
 height="50%" width="50%" alt="Unform" />
 </p>
 
