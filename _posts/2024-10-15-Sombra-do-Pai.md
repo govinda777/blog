@@ -15,7 +15,7 @@ Vejo em ti, pai, o instinto que me faz ser quem sou,
 
 Nossos padrões cerebrais se conectam em oitavas diferentes.  
 
-A mesma observação pelo trabalho, manias compartilhadas,  
+A mesma obsessão pelo trabalho, manias compartilhadas,  
 
 Esquisitices que nos tornam espelhos em frequências distantes.
 
