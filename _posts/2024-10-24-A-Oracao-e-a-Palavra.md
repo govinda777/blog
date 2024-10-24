@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2024-10-23-Entre-Curativos-e-Ironias
-date: 2024-10-23
+title: 2024-10-24-A-Oracao-e-a-Palavra
+date: 2024-10-24
 categories: Conto
 ---
 
