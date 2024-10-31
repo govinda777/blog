@@ -64,6 +64,11 @@ Enquanto ele, maestro solitário, segue estralando a língua, como quem pensa qu
 
 ----------
 
+# Videos
+
+* https://youtu.be/zNPb8XFFitc?si=1KcwLq_3sT02bu0a
+* 
+
 # Neurose de caráter
 
 ### 1. **Perfeccionismo Excessivo**
