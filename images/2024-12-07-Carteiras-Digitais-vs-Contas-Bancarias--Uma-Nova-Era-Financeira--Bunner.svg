@@ -1,0 +1,68 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Céu estrelado -->
+    <defs>
+        <pattern id="swirl" width="50" height="50" patternUnits="userSpaceOnUse">
+            <path d="M10,25 Q25,0 40,25 T70,25" fill="none" stroke="#ffd700" stroke-width="2">
+                <animate attributeName="d" dur="10s" repeatCount="indefinite"
+                    values="M10,25 Q25,0 40,25 T70,25;
+                           M10,25 Q25,50 40,25 T70,25;
+                           M10,25 Q25,0 40,25 T70,25"/>
+            </path>
+        </pattern>
+    </defs>
+    
+    <!-- Céu noturno -->
+    <rect width="800" height="400" fill="#1a237e"/>
+    
+    <!-- Estrelas -->
+    <g>
+        <circle cx="100" cy="100" r="15" fill="#ffd700">
+            <animate attributeName="r" values="15;20;15" dur="3s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="300" cy="150" r="20" fill="#ffd700">
+            <animate attributeName="r" values="20;25;20" dur="4s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="600" cy="80" r="25" fill="#ffd700">
+            <animate attributeName="r" values="25;30;25" dur="5s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+    
+    <!-- Lua -->
+    <circle cx="700" cy="100" r="60" fill="#fff4b8">
+        <animate attributeName="fill" values="#fff4b8;#ffeb3b;#fff4b8" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Campo de ciprestes -->
+    <path d="M100,400 C200,200 300,400 400,300 S500,400 600,300 700,400 800,300" 
+          fill="#2e7d32" stroke="#1b5e20" stroke-width="5"/>
+    
+    <!-- Ciprestes -->
+    <g>
+        <path d="M200,400 Q220,300 240,400 L220,300 Q240,200 260,300 L240,200 Q260,100 280,200 L260,100" 
+              fill="#1b5e20" stroke="#004d40" stroke-width="2">
+            <animate attributeName="d" dur="7s" repeatCount="indefinite"
+                values="M200,400 Q220,300 240,400 L220,300 Q240,200 260,300 L240,200 Q260,100 280,200 L260,100;
+                       M200,400 Q230,300 240,400 L230,300 Q250,200 260,300 L250,200 Q270,100 280,200 L270,100;
+                       M200,400 Q220,300 240,400 L220,300 Q240,200 260,300 L240,200 Q260,100 280,200 L260,100"/>
+        </path>
+    </g>
+    
+    <!-- Campo de trigo -->
+    <path d="M0,600 C100,550 300,580 500,550 S700,580 800,550 L800,600 L0,600" 
+          fill="#fdd835" stroke="#f9a825" stroke-width="3">
+        <animate attributeName="d" dur="8s" repeatCount="indefinite"
+            values="M0,600 C100,550 300,580 500,550 S700,580 800,550 L800,600 L0,600;
+                   M0,600 C100,560 300,570 500,560 S700,570 800,560 L800,600 L0,600;
+                   M0,600 C100,550 300,580 500,550 S700,580 800,550 L800,600 L0,600"/>
+    </path>
+    
+    <!-- Pinceladas de vento -->
+    <g>
+        <path d="M50,500 Q100,480 150,500 T250,500" fill="none" stroke="#f9a825" stroke-width="2" opacity="0.5">
+            <animate attributeName="d" dur="6s" repeatCount="indefinite"
+                values="M50,500 Q100,480 150,500 T250,500;
+                       M50,500 Q100,520 150,500 T250,500;
+                       M50,500 Q100,480 150,500 T250,500"/>
+        </path>
+    </g>
+</svg>

@@ -6,6 +6,11 @@ categories: Artigo
 ---
 
 <p align="center">
+<img src="{{ site.baseurl }}/images/images/2024-12-07-Carteiras-Digitais-vs-Contas-Bancarias--Uma-Nova-Era-Financeira--Bunner.svg" 
+height="50%" width="50%" alt="Unform" />
+</p>  
+
+<p align="center">
 <img src="{{ site.baseurl }}/images/2024-12-07-Carteiras-Digitais-vs-Contas-Bancarias--Uma-Nova-Era-Financeira.svg" 
 height="50%" width="50%" alt="Unform" />
 </p>  
