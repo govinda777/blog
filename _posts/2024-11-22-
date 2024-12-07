@@ -1,0 +1,500 @@
+ Vou melhorar a implementação focando na simplicidade do Go e adicionando os conceitos de gateway e handlers, seguindo os princípios de Clean Architecture com Arquitetura Hexagonal.
+
+
+
+<antArtifact identifier="clean-hex-arch" type="text/markdown" title="Clean Architecture com Arquitetura Hexagonal em Go">
+# Clean Architecture com Arquitetura Hexagonal em Go
+
+## Estrutura do Projeto
+
+```plaintext
+.
+├── cmd
+│   └── api
+│       └── main.go
+├── internal
+│   ├── core
+│   │   ├── domain
+│   │   │   ├── entity
+│   │   │   │   └── order.go
+│   │   │   └── valueobjects
+│   │   │       └── money.go
+│   │   ├── ports
+│   │   │   ├── gateway
+│   │   │   │   ├── order_gateway.go
+│   │   │   │   └── payment_gateway.go
+│   │   │   └── usecase
+│   │   │       └── order_usecase.go
+│   │   └── usecase
+│   │       ├── create_order.go
+│   │       └── process_large_order.go
+│   ├── gateway
+│   │   ├── database
+│   │   │   └── order_gateway.go
+│   │   ├── messaging
+│   │   │   └── order_gateway.go
+│   │   └── payment
+│   │       └── payment_gateway.go
+│   ├── handler
+│   │   ├── http
+│   │   │   └── order_handler.go
+│   │   └── messaging
+│   │       └── order_handler.go
+│   └── infrastructure
+│       ├── config
+│       │   └── config.go
+│       ├── database
+│       │   └── postgres.go
+│       └── messaging
+│           └── kafka.go
+└── pkg
+    ├── errors
+    │   └── errors.go
+    └── logger
+        └── logger.go
+```
+
+## 1. Core Domain
+
+```go
+// internal/core/domain/entity/order.go
+package entity
+
+import (
+    "time"
+    
+    "github.com/your/project/internal/core/domain/valueobjects"
+    "github.com/your/project/pkg/errors"
+)
+
+type Order struct {
+    ID          string
+    CustomerID  string
+    Items       []OrderItem
+    Status      OrderStatus
+    Total       valueobjects.Money
+    CreatedAt   time.Time
+    UpdatedAt   time.Time
+}
+
+type OrderItem struct {
+    ProductID   string
+    Quantity    int
+    Price       valueobjects.Money
+}
+
+type OrderStatus string
+
+const (
+    OrderStatusPending    OrderStatus = "pending"
+    OrderStatusProcessing OrderStatus = "processing"
+    OrderStatusCompleted  OrderStatus = "completed"
+    OrderStatusFailed     OrderStatus = "failed"
+)
+
+// NewOrder é um construtor que garante a criação válida de uma Order
+func NewOrder(customerID string, items []OrderItem) (*Order, error) {
+    if customerID == "" {
+        return nil, errors.NewValidationError("customer ID is required")
+    }
+    if len(items) == 0 {
+        return nil, errors.NewValidationError("order must have at least one item")
+    }
+
+    total := calculateTotal(items)
+    now := time.Now()
+
+    return &Order{
+        ID:         generateID(), // Função auxiliar para gerar ID único
+        CustomerID: customerID,
+        Items:     items,
+        Status:    OrderStatusPending,
+        Total:     total,
+        CreatedAt: now,
+        UpdatedAt: now,
+    }, nil
+}
+
+// Métodos de domínio que encapsulam regras de negócio
+func (o *Order) Process() error {
+    if o.Status != OrderStatusPending {
+        return errors.NewDomainError("order can only be processed when pending")
+    }
+    o.Status = OrderStatusProcessing
+    o.UpdatedAt = time.Now()
+    return nil
+}
+
+func (o *Order) Complete() error {
+    if o.Status != OrderStatusProcessing {
+        return errors.NewDomainError("order can only be completed when processing")
+    }
+    o.Status = OrderStatusCompleted
+    o.UpdatedAt = time.Now()
+    return nil
+}
+
+func (o *Order) Fail(reason string) error {
+    o.Status = OrderStatusFailed
+    o.UpdatedAt = time.Now()
+    return nil
+}
+```
+
+## 2. Ports (Interfaces)
+
+```go
+// internal/core/ports/gateway/order_gateway.go
+package gateway
+
+import (
+    "context"
+    
+    "github.com/your/project/internal/core/domain/entity"
+)
+
+type OrderGateway interface {
+    Save(ctx context.Context, order *entity.Order) error
+    FindByID(ctx context.Context, id string) (*entity.Order, error)
+    Update(ctx context.Context, order *entity.Order) error
+}
+
+// internal/core/ports/gateway/payment_gateway.go
+type PaymentGateway interface {
+    Process(ctx context.Context, orderID string, amount Money) error
+    Refund(ctx context.Context, orderID string) error
+}
+
+// internal/core/ports/usecase/order_usecase.go
+package usecase
+
+import (
+    "context"
+    
+    "github.com/your/project/internal/core/domain/entity"
+)
+
+type CreateOrderInput struct {
+    CustomerID string
+    Items      []OrderItemInput
+}
+
+type OrderItemInput struct {
+    ProductID string
+    Quantity  int
+    Price     float64
+}
+
+type CreateOrderUseCase interface {
+    Execute(ctx context.Context, input CreateOrderInput) (*entity.Order, error)
+}
+
+type ProcessLargeOrderUseCase interface {
+    Execute(ctx context.Context, orderID string) error
+    GetStatus(ctx context.Context, orderID string) (*OrderProcessingStatus, error)
+}
+```
+
+## 3. Use Cases
+
+```go
+// internal/core/usecase/create_order.go
+package usecase
+
+import (
+    "context"
+
+    "github.com/your/project/internal/core/domain/entity"
+    "github.com/your/project/internal/core/ports/gateway"
+    "github.com/your/project/pkg/errors"
+    "github.com/your/project/pkg/logger"
+)
+
+type createOrderUseCase struct {
+    orderGateway   gateway.OrderGateway
+    paymentGateway gateway.PaymentGateway
+    logger         logger.Logger
+}
+
+func NewCreateOrderUseCase(
+    orderGateway gateway.OrderGateway,
+    paymentGateway gateway.PaymentGateway,
+    logger logger.Logger,
+) *createOrderUseCase {
+    return &createOrderUseCase{
+        orderGateway:   orderGateway,
+        paymentGateway: paymentGateway,
+        logger:         logger,
+    }
+}
+
+func (uc *createOrderUseCase) Execute(ctx context.Context, input CreateOrderInput) (*entity.Order, error) {
+    // Validação de input
+    if err := uc.validateInput(input); err != nil {
+        return nil, err
+    }
+
+    // Criação do pedido
+    items := mapToOrderItems(input.Items)
+    order, err := entity.NewOrder(input.CustomerID, items)
+    if err != nil {
+        return nil, err
+    }
+
+    // Salvar pedido
+    if err := uc.orderGateway.Save(ctx, order); err != nil {
+        return nil, errors.Wrap(err, "failed to save order")
+    }
+
+    // Processar pagamento
+    if err := uc.paymentGateway.Process(ctx, order.ID, order.Total); err != nil {
+        // Em caso de falha no pagamento, marcar pedido como falho
+        order.Fail("payment processing failed")
+        uc.orderGateway.Update(ctx, order)
+        return nil, errors.Wrap(err, "failed to process payment")
+    }
+
+    // Completar pedido
+    if err := order.Complete(); err != nil {
+        return nil, err
+    }
+
+    // Atualizar status final
+    if err := uc.orderGateway.Update(ctx, order); err != nil {
+        return nil, errors.Wrap(err, "failed to update order status")
+    }
+
+    return order, nil
+}
+```
+
+## 4. Gateways (Implementações)
+
+```go
+// internal/gateway/database/order_gateway.go
+package database
+
+import (
+    "context"
+    "database/sql"
+
+    "github.com/your/project/internal/core/domain/entity"
+    "github.com/your/project/pkg/errors"
+)
+
+type orderGateway struct {
+    db *sql.DB
+}
+
+func NewOrderGateway(db *sql.DB) *orderGateway {
+    return &orderGateway{db: db}
+}
+
+func (g *orderGateway) Save(ctx context.Context, order *entity.Order) error {
+    query := `
+        INSERT INTO orders (id, customer_id, status, total, created_at, updated_at)
+        VALUES ($1, $2, $3, $4, $5, $6)
+    `
+    
+    tx, err := g.db.BeginTx(ctx, nil)
+    if err != nil {
+        return errors.Wrap(err, "failed to begin transaction")
+    }
+    defer tx.Rollback()
+
+    // Inserir ordem
+    if _, err := tx.ExecContext(ctx, query,
+        order.ID,
+        order.CustomerID,
+        order.Status,
+        order.Total,
+        order.CreatedAt,
+        order.UpdatedAt,
+    ); err != nil {
+        return errors.Wrap(err, "failed to insert order")
+    }
+
+    // Inserir items
+    if err := g.saveOrderItems(ctx, tx, order.ID, order.Items); err != nil {
+        return err
+    }
+
+    return tx.Commit()
+}
+
+// internal/gateway/messaging/order_gateway.go
+package messaging
+
+type orderMessagingGateway struct {
+    producer MessageProducer
+}
+
+func NewOrderMessagingGateway(producer MessageProducer) *orderMessagingGateway {
+    return &orderMessagingGateway{producer: producer}
+}
+
+func (g *orderMessagingGateway) PublishOrderCreated(ctx context.Context, order *entity.Order) error {
+    event := OrderCreatedEvent{
+        OrderID:    order.ID,
+        CustomerID: order.CustomerID,
+        Status:     string(order.Status),
+        Total:      order.Total.Amount(),
+        CreatedAt:  order.CreatedAt,
+    }
+
+    return g.producer.Publish(ctx, "order.created", event)
+}
+```
+
+## 5. Handlers
+
+```go
+// internal/handler/http/order_handler.go
+package http
+
+import (
+    "encoding/json"
+    "net/http"
+
+    "github.com/your/project/internal/core/ports/usecase"
+    "github.com/your/project/pkg/errors"
+)
+
+type OrderHandler struct {
+    createOrderUC usecase.CreateOrderUseCase
+}
+
+func NewOrderHandler(createOrderUC usecase.CreateOrderUseCase) *OrderHandler {
+    return &OrderHandler{
+        createOrderUC: createOrderUC,
+    }
+}
+
+func (h *OrderHandler) CreateOrder(w http.ResponseWriter, r *http.Request) {
+    var input usecase.CreateOrderInput
+    if err := json.NewDecoder(r.Body).Decode(&input); err != nil {
+        respondError(w, errors.NewValidationError("invalid request body"))
+        return
+    }
+
+    order, err := h.createOrderUC.Execute(r.Context(), input)
+    if err != nil {
+        respondError(w, err)
+        return
+    }
+
+    respondJSON(w, http.StatusCreated, order)
+}
+
+// internal/handler/messaging/order_handler.go
+package messaging
+
+type OrderHandler struct {
+    processLargeOrderUC usecase.ProcessLargeOrderUseCase
+    logger             logger.Logger
+}
+
+func NewOrderHandler(
+    processLargeOrderUC usecase.ProcessLargeOrderUseCase,
+    logger logger.Logger,
+) *OrderHandler {
+    return &OrderHandler{
+        processLargeOrderUC: processLargeOrderUC,
+        logger:             logger,
+    }
+}
+
+func (h *OrderHandler) HandleOrderCreated(ctx context.Context, msg Message) error {
+    var event OrderCreatedEvent
+    if err := json.Unmarshal(msg.Payload, &event); err != nil {
+        return errors.Wrap(err, "failed to unmarshal event")
+    }
+
+    if err := h.processLargeOrderUC.Execute(ctx, event.OrderID); err != nil {
+        h.logger.Error("failed to process large order", err)
+        return err
+    }
+
+    return nil
+}
+```
+
+## 6. Configuração e Inicialização
+
+```go
+// cmd/api/main.go
+package main
+
+import (
+    "context"
+    "net/http"
+
+    "github.com/your/project/internal/core/usecase"
+    "github.com/your/project/internal/gateway/database"
+    "github.com/your/project/internal/gateway/messaging"
+    "github.com/your/project/internal/handler/http"
+    msghandler "github.com/your/project/internal/handler/messaging"
+    "github.com/your/project/internal/infrastructure/config"
+    "github.com/your/project/internal/infrastructure/database"
+    "github.com/your/project/internal/infrastructure/messaging"
+    "github.com/your/project/pkg/logger"
+)
+
+func main() {
+    // Carregar configurações
+    cfg := config.Load()
+
+    // Inicializar logger
+    log := logger.New(cfg.LogLevel)
+
+    // Inicializar conexões
+    db := database.NewConnection(cfg.Database)
+    msgBroker := messaging.NewConnection(cfg.MessageBroker)
+
+    // Inicializar gateways
+    orderGateway := database.NewOrderGateway(db)
+    paymentGateway := payment.NewPaymentGateway(cfg.Payment)
+    messagingGateway := messaging.NewOrderMessagingGateway(msgBroker)
+
+    // Inicializar use cases
+    createOrderUC := usecase.NewCreateOrderUseCase(
+        orderGateway,
+        paymentGateway,
+        log,
+    )
+    processLargeOrderUC := usecase.NewProcessLargeOrderUseCase(
+        orderGateway,
+        messagingGateway,
+        log,
+    )
+
+    // Inicializar handlers
+    orderHandler := http.NewOrderHandler(createOrderUC)
+    orderMsgHandler := msghandler.NewOrderHandler(processLargeOrderUC, log)
+
+    // Configurar rotas HTTP
+    router := http.NewServeMux()
+    router.HandleFunc("/orders", orderHandler.CreateOrder)
+
+    // Iniciar consumidor de mensagens
+    msgBroker.Subscribe("order.created", orderMsgHandler.HandleOrderCreated)
+
+    // Iniciar servidor HTTP
+    server := &http.Server{
+        Addr:    cfg.HTTPAddr,
+        Handler: router,
+    }
+
+    log.Info("starting server", "addr", cfg.HTTPAddr)
+    if err := server.ListenAndServe(); err != nil {
+        log.Fatal("server error", err)
+    }
+}
+```
+
+## Principais Conceitos e Benefícios
+
+1. **Separação Clara de Responsabilidades**
+   - Domain: Regras de negócio e validações
+   - Use Cases: Orquestração de operações
+   - Gateways: Acesso a recursos externos
