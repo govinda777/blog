@@ -1,0 +1,42 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="400" fill="#f5f5f5"/>
+    
+    <!-- Digital Wallet Section -->
+    <g transform="translate(50,50)">
+        <!-- Wallet Icon -->
+        <rect x="0" y="0" width="300" height="200" rx="10" fill="#4CAF50" opacity="0.9"/>
+        <text x="150" y="40" font-size="24" fill="white" text-anchor="middle">Carteira Digital</text>
+        
+        <!-- Features -->
+        <circle cx="50" cy="80" r="15" fill="white"/>
+        <text x="80" y="85" fill="white">24/7 Acesso</text>
+        
+        <circle cx="50" cy="120" r="15" fill="white"/>
+        <text x="80" y="125" fill="white">Controle Total</text>
+        
+        <circle cx="50" cy="160" r="15" fill="white"/>
+        <text x="80" y="165" fill="white">Criptomoedas</text>
+    </g>
+    
+    <!-- Bank Section -->
+    <g transform="translate(450,50)">
+        <!-- Bank Icon -->
+        <rect x="0" y="0" width="300" height="200" rx="10" fill="#2196F3" opacity="0.9"/>
+        <text x="150" y="40" font-size="24" fill="white" text-anchor="middle">Banco Tradicional</text>
+        
+        <!-- Features -->
+        <circle cx="50" cy="80" r="15" fill="white"/>
+        <text x="80" y="85" fill="white">Regulamentado</text>
+        
+        <circle cx="50" cy="120" r="15" fill="white"/>
+        <text x="80" y="125" fill="white">Serviços Diversos</text>
+        
+        <circle cx="50" cy="160" r="15" fill="white"/>
+        <text x="80" y="165" fill="white">Proteção Bancária</text>
+    </g>
+    
+    <!-- Connecting Line -->
+    <line x1="400" y1="300" x2="400" y2="350" stroke="#666" stroke-width="2"/>
+    <text x="400" y="380" text-anchor="middle" fill="#333" font-size="16">Sistemas Complementares</text>
+</svg>
