@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Casa de Sombras
+title: 2025-07-01-A-Casa-de-Sombras
 date: 2025-07-01
 categories: Sonho
 ---
