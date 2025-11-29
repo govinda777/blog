@@ -5,5 +5,7 @@ gem 'github-pages', group: :jekyll_plugins
 
 # to publich without github page
 #gem "jekyll"
+gem 'jekyll-paginate'
 gem 'jekyll-commonmark-ghpages'
 gem 'jekyll-sitemap'
+gem 'webrick'

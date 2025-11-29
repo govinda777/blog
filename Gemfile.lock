@@ -212,6 +212,8 @@ GEM
     minitest (5.19.0)
     nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.15.3-x86_64-linux)
+      racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -247,14 +249,18 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.9.2)
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux-gnu
 
 DEPENDENCIES
   github-pages
   jekyll-commonmark-ghpages
+  jekyll-paginate
   jekyll-sitemap
+  webrick
 
 BUNDLED WITH
    2.4.17

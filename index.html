@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-  {% for post in sorted_posts %}
+  {% for post in paginator.posts %}
     <article class="post" data-categories="{{ post.categories | join: ', ' }}">
 
-      <h1><a href="./{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -17,7 +16,22 @@ layout: default
       <button data-category="#{{ category }}">{{ category }}</button>
       {% endfor %}
 
-      <a href="./{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous disabled">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Next</a>
+  {% else %}
+    <span class="next disabled">Next</span>
+  {% endif %}
 </div>
