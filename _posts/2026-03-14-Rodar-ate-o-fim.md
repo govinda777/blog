@@ -2,7 +2,7 @@
 layout: post
 title: 2026-03-14-Rodar-ate-o-fim
 date: 2026-02-09
-categories: ayahuasca
+categories: poema
 ---
 
 <p align="center">
