@@ -6,7 +6,7 @@ categories: ayahuasca
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2026-03-14-Rodar-ate-o-fim.png" height="50%" width="50%" alt="Uma prisão para bêbados" />
+<img src="{{ site.baseurl }}/images/2026-03-14-Rodar-ate-o-fim.png" height="50%" width="50%" alt="Rodar-ate-o-fim" />
 </p>
 
 ---
