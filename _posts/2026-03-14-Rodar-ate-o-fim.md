@@ -12,25 +12,29 @@ categories: poema
 ---
 
 Om Sarve Bhavantu Sukhinah
+
 Sarve Santu Niramayah
+
 Sarve Bhadrani Pashyantu
+
 Ma Kaschid Duhkha Bhāg Bhavet
 
 ---
 
 "Que todos sejam felizes,"
+
 "Que todos sejam livres de doenças,"
+
 "Que todos vejam o que é bom,"
+
 "Que ninguém sofra."
 
 ---
 
-<p align="center">
-  <video width="640" height="360" controls>
-    <source src="{{ site.baseurl }}/images/2026-03-14-Rodar-ate-o-fim.mp4" type="video/mp4">
-     Seu navegador não suporta a tag de vídeo.
-  </video>
-</p>
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}/images/2026-03-14-Rodar-ate-o-fim.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeo.
+</video>
 
 ---
 
