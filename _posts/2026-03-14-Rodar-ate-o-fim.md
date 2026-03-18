@@ -38,7 +38,7 @@ Ma Kaschid Duhkha Bhāg Bhavet
 
 ---
 
-**“Rodar até o fim”**
+## “Rodar até o fim”
 
 Roda o homem, roda o servo, roda o tempo —  
 
