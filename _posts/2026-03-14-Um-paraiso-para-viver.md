@@ -1,4 +1,18 @@
-**Um paraíso para viver**
+
+---
+layout: post
+title: 2026-03-14-Um-paraiso-para-viver.md
+date: 2026-03-14
+categories: poema
+---
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/2026-03-14-Um-paraiso-para-viver.png" height="50%" width="50%" alt="Rodar-ate-o-fim" />
+</p>
+
+---
+
+## **Um paraíso para viver**
 
 O tempo não é linha,  
 é tecido.  
