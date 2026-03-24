@@ -6,7 +6,7 @@ categories: poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2026-03-14-Um-paraiso-para-viver.png" height="50%" width="50%" alt="Rodar-ate-o-fim" />
+<img src="{{ site.baseurl }}/images/2026-03-14-Um-paraiso-para-viver.png" height="50%" width="50%" alt="Um-paraiso-para-viver" />
 </p>
 
 ---
