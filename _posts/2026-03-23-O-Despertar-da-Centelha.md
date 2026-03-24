@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 2026-03-23-O-Despertar-da-Centelha
