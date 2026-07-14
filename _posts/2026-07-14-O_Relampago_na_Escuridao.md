@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2026-03-24-O-Espelho-do-Tirano
+title: 2026-07-14-O_Relampago_na_Escuridao
 date: 2026-03-23
 categories: poema
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/2026-07-14-O_Relampago_na_Escuridao.png" height="50%" width="50%" alt="O-Espelho-do-Tirano" />
+<img src="{{ site.baseurl }}/images/2026-07-14-O_Relampago_na_Escuridao.png" height="50%" width="50%" alt="Relampago_na_Escuridao" />
 </p>
 
 ---
