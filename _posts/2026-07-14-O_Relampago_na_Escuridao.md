@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2026-07-14-O_Relampago_na_Escuridao
-date: 2026-03-23
+date: 2026-07-14
 categories: poema
 ---
 
