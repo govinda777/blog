@@ -6,6 +6,8 @@ tags: ["poesia", "pensamentos", "reflexoes"]
 draft: false
 ---
 
+![Dança da Centrífuga]({{ site.baseurl }}/images/1785444329103.png)
+
 Roda o asfalto, gira o tambor,
 Corta o ar o sopro do motor.
 Gira o volante, busca a fração,
